@@ -57,1604 +57,491 @@
 55,['Signaling by BMP'],201451
 56,['Transcriptional Regulation by MECP2'],8986944
 57,['Pre-NOTCH Transcription and Translation'],1912408
-58,['Uptake and function of anthrax toxins'],5210891
-59,['Regulation of cortical dendrite branching'],8985801
-60,['Formation of the cornified envelope'],6809371
-61,['TWIK-related spinal cord K+ channel (TRESK)'],1299344
-62,['Defective CYP11B2 causes Corticosterone methyloxidase 1 deficiency (CMO-1 deficiency)'],5579009
-63,['NR1D1 (REV-ERBA) represses gene expression'],1368071
-64,['Notch-HLH transcription pathway'],350054
-65,['Nuclear Receptor transcription pathway'],383280
-66,['Dissolution of Fibrin Clot'],75205
-67,['Defective ABCG5 causes sitosterolemia'],5679096
-68,['Defective ABCG8 causes gallbladder disease 4 and sitosterolemia'],5679090
-69,['t(4;14) translocations of FGFR3'],2033515
-70,['Elastic fibre formation'],1566948
-71,['Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7)'],5683371
-72,['Defective pro-SFTPB causes pulmonary surfactant metabolism dysfunction 1 (SMDP1) and respiratory distress syndrome (RDS)'],5688031
-73,['LDL remodeling'],8964041
-74,"['Defective SLCO2A1 causes primary, autosomal recessive hypertrophic osteoarthropathy 2 (PHOAR2)']",5619095
-75,"['Defective GNE causes sialuria, Nonaka myopathy and inclusion body myopathy 2']",4085011
-76,['Response of EIF2AK1 (HRI) to heme deficiency'],9648895
-77,['Processing of Intronless Pre-mRNAs'],77595
-78,['Oleoyl-phe metabolism'],9673163
-79,"[""mRNA 3'-end processing""]",72187
-80,['Packaging Of Telomere Ends'],171306
-81,['Defective CYP17A1 causes Adrenal hyperplasia 5 (AH5)'],5579028
-82,"['Defective SLC4A4 causes renal tubular acidosis, proximal, with ocular abnormalities and mental retardation (pRTA-OA)']",5619054
-83,['Influenza Infection'],168255
-84,['Activated NTRK2 signals through CDK5'],9032845
-85,['Glucuronidation'],156588
-86,"['Telomere Maintenance', 'Maintenance of Telomeres']",157579
-87,['Metabolism of nitric oxide: eNOS activation and regulation'],202131
-88,['Collagen degradation'],1442490
-89,['Integration of provirus'],162592
-90,['Signaling by RAS mutants'],6802949
-91,['RNA polymerase II transcribes snRNA genes'],6807505
-92,['PIWI-interacting RNA (piRNA) biogenesis'],5601884
-93,"['Severe congenital neutropenia type 4 (G6PC3)', 'SCN4']",3282872
-94,"['Defective CYP4F22 causes Ichthyosis, congenital, autosomal recessive 5 (ARCI5)']",5579005
-95,['Defective ALG14 causes congenital myasthenic syndrome (ALG14-CMS)'],5633231
-96,['Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B'],5682294
-97,['Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F)'],5619037
-98,['Defective SLC24A1 causes congenital stationary night blindness 1D (CSNB1D)'],5619077
-99,['Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C)'],5619078
-100,['Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M)'],5619072
-101,['Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1)'],5619085
-102,['Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F)'],5663020
-103,['Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM)'],5656364
-104,"['Defective CYP11A1 causes Adrenal insufficiency, congenital, with 46,XY sex reversal (AICSR)']",5579026
-105,"['Defective CYP7B1 causes Spastic paraplegia 5A, autosomal recessive (SPG5A) and Congenital bile acid synthesis defect 3 (CBAS3)']",5579013
-106,['Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25)'],5619076
-107,['Sensing of DNA Double Strand Breaks'],5693548
-108,['DNA Double Strand Break Response'],5693606
-109,['Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks'],5693565
-110,['DNA Double-Strand Break Repair'],5693532
-111,['Processing of DNA double-strand break ends'],5693607
-112,['Interleukin-21 signaling'],9020958
-113,['Formation of annular gap junctions'],196025
-114,['Meiotic synapsis'],1221632
-115,['C6 deamination of adenosine'],75102
-116,['LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production'],3134973
-117,['Toll Like Receptor 3 (TLR3) Cascade'],168164
-118,['Gap junction degradation'],190873
-119,['Homology Directed Repair'],5693538
-120,['Nonhomologous End-Joining (NHEJ)'],5693571
-121,['Meiotic recombination'],912446
-122,['Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon'],936964
-123,"['TICAM1-dependent activation of IRF3/IRF7', 'TLR3-mediated TICAM1-dependent activation of IRF3/IRF7', 'TLR3-mediated TRIF-dependent activation of IRF3/IRF7', 'Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon']",9013973
-124,['NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10'],933543
-125,['Meiosis'],1500620
-126,['HDR through MMEJ (alt-NHEJ)'],5685939
-127,['Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)'],5693554
-128,['Fanconi Anemia Pathway'],6783310
-129,['mRNA Editing: A to I Conversion'],75064
-130,['Trafficking and processing of endosomal TLR'],1679131
-131,['SUMOylation of DNA damage response and repair proteins'],3108214
-132,['Reverse Transcription of HIV RNA'],162589
-133,['CDT1 association with the CDC6:ORC:origin complex'],68827
-134,['Nonsense-Mediated Decay (NMD)'],927802
-135,['Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)'],975957
-136,['ATF6 (ATF6-alpha) activates chaperone genes'],381183
-137,['Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)'],975956
-138,['HDR through Single Strand Annealing (SSA)'],5685938
-139,['Transcriptional regulation by small RNAs'],5578749
-140,['Activation of the pre-replicative complex'],68962
-141,['DNA Damage/Telomere Stress Induced Senescence'],2559586
-142,['Regulation of TP53 Activity through Association with Co-factors'],6804759
-143,['FGFR2 alternative splicing'],6803529
-144,['TP53 Regulates Metabolic Genes'],5628897
-145,['Small interfering RNA (siRNA) biogenesis'],426486
-146,['HDR through Homologous Recombination (HRR)'],5685942
-147,['MicroRNA (miRNA) biogenesis'],203927
-148,['Dual Incision in GG-NER'],5696400
-149,['Resolution of D-loop Structures through Holliday Junction Intermediates'],5693568
-150,['Signaling by MET'],6806834
-151,['mitochondrial fatty acid beta-oxidation of saturated fatty acids'],77286
-152,['mitochondrial fatty acid beta-oxidation of unsaturated fatty acids'],77288
-153,['Purine ribonucleoside monophosphate biosynthesis'],73817
-154,"['Cholesterol biosynthesis via desmosterol', 'Bloch pathway']",6807047
-155,"['Cholesterol biosynthesis via lathosterol', 'Kandutsch-Russell pathway']",6807062
-156,['RNA Polymerase I Transcription Initiation'],73762
-157,['Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)'],2142670
-158,['SUMOylation of DNA replication proteins'],4615885
-159,['The AIM2 inflammasome'],844615
-160,['Synthesis of Hepoxilins (HX) and Trioxilins (TrX)'],2142696
-161,['Defective Base Excision Repair Associated with NEIL1'],9616334
-162,['Autophagy'],9612973
-163,['Sealing of the nuclear envelope (NE) by ESCRT-III'],9668328
-164,['Recognition of DNA damage by PCNA-containing replication complex'],110314
-165,['ALKBH3 mediated reversal of alkylation damage'],112126
-166,['Gap junction trafficking and regulation'],157858
-167,['DNA Repair'],73894
-168,['RUNX2 regulates chondrocyte maturation'],8941284
-169,['Cholesterol biosynthesis'],191273
-170,['Diseases of Mismatch Repair (MMR)'],5423599
-171,['TLR3 deficiency - HSE'],5602410
-172,['Transcription from mitochondrial promoters'],75944
-173,"['Regulation of lipid metabolism by PPARalpha', 'Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)']",400206
-174,['alpha-linolenic (omega3) and linoleic (omega6) acid metabolism'],2046104
-175,['Biosynthesis of DPA-derived SPMs'],9018683
-176,['Nucleobase biosynthesis'],8956320
-177,['Homologous DNA Pairing and Strand Exchange'],5693579
-178,['HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)'],5693567
-179,['Toll Like Receptor 7/8 (TLR7/8) Cascade'],168181
-180,['TP53 Regulates Transcription of DNA Repair Genes'],6796648
-181,['Response of EIF2AK4 (GCN2) to amino acid deficiency'],9633012
-182,['Glutathione conjugation'],156590
-183,['Defective Base Excision Repair Associated with NTHL1'],9616333
-184,['OAS antiviral response'],8983711
-185,['Gap junction trafficking'],190828
-186,['Regulation of TP53 Degradation'],6804757
-187,['Regulation of TP53 Activity through Phosphorylation'],6804756
-188,['HCMV Infection'],9609646
-189,['HDMs demethylate histones'],3214842
-190,['Macroautophagy'],1632852
-191,['Signaling by FGFR1 amplification mutants'],1839120
-192,['FGFR1 mutant receptor activation'],1839124
-193,['Signaling by activated point mutants of FGFR1'],1839122
-194,['Signaling by FGFR2 amplification mutants'],2023837
-195,['Signaling by FGFR in disease'],1226099
-196,['Signaling by cytosolic FGFR1 fusion mutants'],1839117
-197,['FGFR2 mutant receptor activation'],1839126
-198,['Aflatoxin activation and detoxification'],5423646
-199,['Signaling by FGFR1 in disease'],5655302
-200,['TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain'],6803205
-201,['TP53 Regulates Transcription of Cell Death Genes'],5633008
-202,['Transcriptional regulation by RUNX3'],8878159
-203,['Drug resistance of PDGFR mutants'],9674415
-204,['Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects'],9646304
-205,['Evasion of Oncogene Induced Senescence Due to p14ARF Defects'],9646303
-206,['rRNA modification in the nucleus and cytosol'],6790901
-207,['VEGFR2 mediated vascular permeability'],5218920
-208,['Cell surface interactions at the vascular wall'],202733
-209,['VEGF binds to VEGFR leading to receptor dimerization'],195399
-210,['VEGF ligand-receptor interactions'],194313
-211,['VEGFR2 mediated cell proliferation'],5218921
-212,"['Signaling by VEGF', 'Signaling by Vascular Epithelial Growth Factors (VEGF)']",194138
-213,['VEGFA-VEGFR2 Pathway'],4420097
-214,"['Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation']",1474151
-215,['Syndecan interactions'],3000170
-216,['cGMP effects'],418457
-217,['Negative regulation of NOTCH4 signaling'],9604323
-218,['Detoxification of Reactive Oxygen Species'],3299685
-219,"['Ca2+ activated K+ channels', 'Ca activated K+ channels']",1296052
-220,['NOTCH4 Intracellular Domain Regulates Transcription'],9013695
-221,['RHO GTPases Activate NADPH Oxidases'],5668599
-222,['Signaling by NOTCH4'],9013694
-223,['STING mediated induction of host immune responses'],1834941
-224,"['Signal Transduction', 'Signaling Pathways']",162582
-225,['Signaling by NOTCH3'],9012852
-226,['NOTCH1 Intracellular Domain Regulates Transcription'],2122947
-227,['Drug-mediated inhibition of ERBB2 signaling'],9652282
-228,['Platelet homeostasis'],418346
-229,['Signaling by PTK6'],8848021
-230,['Platelet Aggregation (Plug Formation)'],76009
-231,['Formation of Fibrin Clot (Clotting Cascade)'],140877
-232,['Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1)'],5619111
-233,['Nucleotide-like (purinergic) receptors'],418038
-234,['Prostacyclin signalling through prostacyclin receptor'],392851
-235,['ATP sensitive Potassium channels'],1296025
-236,['Signaling by NOTCH1'],1980143
-237,['Neddylation'],8951664
-238,['Biosynthesis of maresins'],9018682
-239,"['Hemostasis', 'Blood coagulation']",109582
-240,['PECAM1 interactions'],210990
-241,['Defective TBXAS1 causes Ghosal hematodiaphyseal dysplasia (GHDD)'],5579032
-242,['Signal amplification'],392518
-243,['Synthesis of Leukotrienes (LT) and Eoxins (EX)'],2142691
-244,['Hyaluronan uptake and degradation'],2160916
-245,['NOTCH4 Activation and Transmission of Signal to the Nucleus'],9013700
-246,['Signaling by PDGFR in disease'],9671555
-247,['Platelet degranulation '],114608
-248,['Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell'],198933
-249,['Biosynthesis of DPAn-3-derived 13-series resolvins'],9026403
-250,['Integrin signaling'],354192
-251,['Platelet Adhesion to exposed collagen'],75892
-252,['Collagen formation'],1474290
-253,['Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)'],5655799
-254,"['Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)']",5619048
-255,"['Synthesis, secretion, and deacylation of Ghrelin']",422085
-256,['Complement cascade'],166658
-257,['Serotonin and melatonin biosynthesis'],209931
-258,['Metabolism of amine-derived hormones'],209776
-259,['Defective AVP does not bind AVPR2 and causes neurohypophyseal diabetes insipidus (NDI)'],9036092
-260,"['Defective AVP does not bind AVPR1A,B and causes neurohypophyseal diabetes insipidus (NDI)']",5619099
-261,['Postsynaptic nicotinic acetylcholine receptors'],622327
-262,['Axon guidance'],422475
-263,['Signaling by Leptin'],2586552
-264,"['Cellular response to hypoxia', 'Regulation of Hypoxia-inducible Factor (HIF) by oxygen']",1234174
-265,['RAS signaling downstream of NF1 loss-of-function variants'],6802953
-266,['Defective SLC26A4 causes Pendred syndrome (PDS)'],5619046
-267,['Signaling by ROBO receptors'],376176
-268,['Scavenging by Class A Receptors'],3000480
-269,['Defective SLC33A1 causes spastic paraplegia 42 (SPG42)'],5619061
-270,['IRAK1 recruits IKK complex'],937039
-271,['IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation'],975144
-272,['Mitochondrial biogenesis'],1592230
-273,['Assembly and cell surface presentation of NMDA receptors'],9609736
-274,['Amino acids regulate mTORC1'],9639288
-275,['Antigen activates B Cell Receptor (BCR) leading to generation of second messengers'],983695
-276,['Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells'],210746
-277,['Diseases of signal transduction by growth factor receptors and second messengers'],5663202
-278,['Fatty acid metabolism'],8978868
-279,['Fructose biosynthesis'],5652227
-280,['Serotonin Neurotransmitter Release Cycle'],181429
-281,['Acetylcholine Neurotransmitter Release Cycle'],264642
-282,['Activation of C3 and C5'],174577
-283,['cRNA Synthesis'],192869
-284,"[""S33 mutants of beta-catenin aren't phosphorylated""]",5358747
-285,['APC truncation mutants have impaired AXIN binding'],5467337
-286,['Diseases of carbohydrate metabolism'],5663084
-287,['TRAF3 deficiency - HSE'],5602571
-288,['Acetylcholine binding and downstream events'],181431
-289,['FRS-mediated FGFR3 signaling'],5654706
-290,['FRS-mediated FGFR1 signaling'],5654693
-291,['FRS-mediated FGFR4 signaling'],5654712
-292,['FRS-mediated FGFR2 signaling'],5654700
-293,['Pregnenolone biosynthesis'],196108
-294,['Bicarbonate transporters'],425381
-295,['Postmitotic nuclear pore complex (NPC) reformation'],9615933
-296,['Nuclear Pore Complex (NPC) Disassembly'],3301854
-297,['Negative regulation of TCF-dependent signaling by DVL-interacting proteins'],5368598
-298,['IRF3-mediated induction of type I IFN'],3270619
-299,['Cell-Cell communication'],1500931
-300,['Metallothioneins bind metals'],5661231
-301,['CHL1 interactions'],447041
-302,"['Minus-strand DNA synthesis', 'minus-strand DNA synthesis']",164516
-303,['Plus-strand DNA synthesis'],164525
-304,['RNA Polymerase II Transcription'],73857
-305,['Muscarinic acetylcholine receptors'],390648
-306,"['Defective CHST6 causes MCDC1', 'Defective CHST6 causes macular corneal dystrophy, type 1']",3656225
-307,['HDL assembly'],8963896
-308,"['Pyruvate metabolism', 'Cori Cycle (interconversion of glucose and lactate)']",70268
-309,"['Synthesis of very long-chain fatty acyl-CoAs', 'Conversion of palmitic acid to very long chain fatty acyl-CoAs']",75876
-310,['Chaperonin-mediated protein folding'],390466
-311,"['Signaling by NTRKs', 'Signaling by Neurotrophin Receptors']",166520
-312,['Ubiquinol biosynthesis'],2142789
-313,['Activation of NMDA receptors and postsynaptic events'],442755
-314,"['GABA synthesis, release, reuptake and degradation']",888590
-315,['Antigen processing: Ubiquitination & Proteasome degradation'],983168
-316,['C-type lectin receptors (CLRs)'],5621481
-317,['Defective DHDDS causes retinitis pigmentosa 59'],4755609
-318,['O-linked glycosylation of mucins'],913709
-319,['Glycogen storage diseases'],3229121
-320,['MPS IIIC - Sanfilippo syndrome C'],2206291
-321,['MPS IV - Morquio syndrome B'],2206308
-322,['Intestinal saccharidase deficiencies'],5659898
-323,"['Metabolism of porphyrins', 'Porphyrin metabolism']",189445
-324,['HDL remodeling'],8964058
-325,['Mitochondrial transcription termination'],163316
-326,['Triglyceride metabolism'],8979227
-327,['Biosynthesis of maresin conjugates in tissue regeneration (MCTR)'],9026762
-328,['Activated NOTCH1 Transmits Signal to the Nucleus'],2122948
-329,['WNT mediated activation of DVL'],201688
-330,"['Activation of AKT2', 'Activation of PKB']",165158
-331,['Recycling pathway of L1'],437239
-332,"['Extrinsic Pathway of Fibrin Clot Formation', 'Generation of extrinsic Factor X activating complex']",140834
-333,['truncated APC mutants destabilize the destruction complex'],4839744
-334,['Interferon Signaling'],913531
-335,['MHC class II antigen presentation'],2132295
-336,['Signaling by NTRK2 (TRKB)'],9006115
-337,"[""Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models""]",8862803
-338,"['Transport of bile salts and organic acids, metal ions and amine compounds']",425366
-339,['UNC93B1 deficiency - HSE'],5602415
-340,"['Triglyceride catabolism', 'Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis']",163560
-341,['Intra-Golgi and retrograde Golgi-to-ER traffic'],6811442
-342,"['Signaling by TGF-beta Receptor Complex', 'Transforming Growth Factor (TGF) beta signaling']",170834
-343,['Asparagine N-linked glycosylation'],446203
-344,"['Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways']",168643
-345,['Expression and Processing of Neurotrophins'],9036866
-346,['Transcriptional regulation of pluripotent stem cells'],452723
-347,['Cilium Assembly'],5617833
-348,['Aquaporin-mediated transport'],445717
-349,['Passive transport by Aquaporins'],432047
-350,['SLC-mediated transmembrane transport'],425407
-351,['Assembly of collagen fibrils and other multimeric structures'],2022090
-352,['Variant SLC6A14 may confer susceptibility towards obesity'],5619094
-353,['Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria'],5659729
-354,['Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria'],5619079
-355,['Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)'],5619107
-356,['DNA Damage Recognition in GG-NER'],5696394
-357,['Intraflagellar transport'],5620924
-358,['Cargo trafficking to the periciliary membrane'],5620920
-359,['IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR)'],5603027
-360,['Olfactory Signaling Pathway'],381753
-361,"['Activation, myristolyation of BID and translocation to mitochondria', 'Activation of BID and translocation to mitochondria']",75108
-362,['Highly calcium permeable postsynaptic nicotinic acetylcholine receptors'],629594
-363,['MET activates STAT3'],8875791
-364,"[""mRNA decay by 5' to 3' exoribonuclease""]",430039
-365,['Cellular Senescence'],2559583
-366,['Caspase-mediated cleavage of cytoskeletal proteins'],264870
-367,['Activation and oligomerization of BAK protein'],111452
-368,['FGFR3c ligand binding and activation'],190372
-369,['FGFR3b ligand binding and activation'],190371
-370,['FGFR1c ligand binding and activation'],190373
-371,['FGFR1b ligand binding and activation'],190370
-372,['Resolution of D-Loop Structures'],5693537
-373,['Regulation of necroptotic cell death'],5675482
-374,['FGFR2c ligand binding and activation'],190375
-375,['FGFR2b ligand binding and activation'],190377
-376,['Autodegradation of Cdh1 by Cdh1:APC/C'],174084
-377,['Non-integrin membrane-ECM interactions'],3000171
-378,['Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)'],1299308
-379,['Endosomal/Vacuolar pathway'],1236977
-380,['Toll Like Receptor 2 (TLR2) Cascade'],181438
-381,['Role of second messengers in netrin-1 signaling'],418890
-382,['Signaling by Non-Receptor Tyrosine Kinases'],9006927
-383,['GABA synthesis'],888568
-384,['Phosphorylation of proteins involved in the G2/M transition by Cyclin A:Cdc2 complexes'],170145
-385,"['Activation, translocation and oligomerization of BAX']",114294
-386,['NADE modulates death signalling'],205025
-387,['Regulation of Apoptosis'],169911
-388,['Toll Like Receptor 10 (TLR10) Cascade'],168142
-389,['Synthesis of CL'],1483076
-390,"['SUMO is transferred from E1 to E2 (UBE2I, UBC9)']",3065678
-391,['Josephin domain DUBs'],5689877
-392,['Scavenging by Class F Receptors'],3000484
-393,['Phase II - Conjugation of compounds'],156580
-394,['Diseases of Immune System'],5260271
-395,['COPI-independent Golgi-to-ER retrograde traffic'],6811436
-396,['Lipophagy'],9613354
-397,['Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components'],141405
-398,['PTK6 Activates STAT3'],8849474
-399,"['PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases']",8849471
-400,['PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1'],8849469
-401,['Degradation of AXIN'],4641257
-402,['p38MAPK events'],171007
-403,"['Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.']",163200
-404,['Dermatan sulfate biosynthesis'],2022923
-405,['FGFRL1 modulation of FGFR1 signaling'],5658623
-406,['NFG and proNGF binds to p75NTR'],205017
-407,['Activated NTRK3 signals through RAS'],9034864
-408,['RUNX1 regulates expression of components of tight junctions'],8935964
-409,['Signaling by FGFR2 IIIa TM'],8851708
-410,['Defective MMACHC causes methylmalonic aciduria and homocystinuria type cblC'],3359474
-411,['Defective MMAB causes methylmalonic aciduria type cblB'],3359471
-412,['CYP2E1 reactions'],211999
-413,"['Defective CYP2U1 causes Spastic paraplegia 56, autosomal recessive (SPG56)']",5579011
-414,"['Defective PAPSS2 causes SEMD-PA', 'Defective PAPSS2 causes spondyloepimetaphyseal dysplasia Pakistani type']",3560796
-415,['ABC transporters in lipid homeostasis'],1369062
-416,"['Defective SLCO1B3 causes hyperbilirubinemia, Rotor type (HBLRR)']",5619058
-417,['Glycerophospholipid catabolism'],6814848
-418,['SUMOylation of transcription factors'],3232118
-419,['Golgi-to-ER retrograde transport'],8856688
-420,['Nuclear signaling by ERBB4'],1251985
-421,['Retrograde neurotrophin signalling'],177504
-422,['Signalling to ERK5'],198765
-423,['Phosphate bond hydrolysis by NUDT proteins'],2393930
-424,['Death Receptor Signalling'],73887
-425,['MET activates RAS signaling'],8851805
-426,['Release of Hh-Np from the secreting cell'],5362798
-427,['Synthesis of glycosylphosphatidylinositol (GPI)'],162710
-428,['InlA-mediated entry of Listeria monocytogenes into host cells'],8876493
-429,['Nectin/Necl  trans heterodimerization'],420597
-430,['PD-1 signaling'],389948
-431,['PI3K/AKT activation'],198203
-432,['Inhibition of TSC complex formation by PKB'],165181
-433,['NOSTRIN mediated eNOS trafficking'],203641
-434,['Post NMDA receptor activation events'],438064
-435,"['Unblocking of NMDA receptors, glutamate binding and activation']",438066
-436,['Metal sequestration by antimicrobial proteins'],6799990
-437,['Estrogen-dependent nuclear events downstream of ESR-membrane signaling'],9634638
-438,['MET activates PTPN11'],8865999
-439,['Inactivation of CDC42 and RAC1'],428543
-440,['Negative regulation of activity of TFAP2 (AP-2) family transcription factors'],8866904
-441,['RUNX3 regulates CDKN1A transcription'],8941855
-442,['Nef and signal transduction'],164944
-443,['Inhibition of IFN-beta'],168888
-444,['Signaling by FGFR2 fusions'],8853333
-445,['TGFBR2 Kinase Domain Mutants in Cancer'],3645790
-446,['Dopamine receptors'],390651
-447,['Intracellular metabolism of fatty acids regulates insulin secretion'],434313
-448,['Recycling of eIF2:GDP'],72731
-449,['Regulation of gap junction activity'],191650
-450,['Transport of connexons to the plasma membrane'],190872
-451,['Condensation of Prometaphase Chromosomes'],2514853
-452,['WNT ligand biogenesis and trafficking'],3238698
-453,"['Mismatch Repair', 'MMR']",5358508
-454,['Listeria monocytogenes entry into host cells'],8876384
-455,['tRNA processing in the nucleus'],6784531
-456,['Senescence-Associated Secretory Phenotype (SASP)'],2559582
-457,['G2/M Checkpoints'],69481
-458,['Cyclin D associated events in G1'],69231
-459,['Stimulation of the cell death response by PAK-2p34'],211736
-460,['Activation of BH3-only proteins'],114452
-461,['ER to Golgi Anterograde Transport'],199977
-462,['SHC-mediated cascade:FGFR3'],5654704
-463,['FGFR1 ligand binding and activation'],190242
-464,['SHC-mediated cascade:FGFR1'],5654688
-465,['SHC-mediated cascade:FGFR4'],5654719
-466,['NGF-independant TRKA activation'],187024
-467,['TP53 Regulates Transcription of Death Receptors and Ligands'],6803211
-468,['Regulation of TNFR1 signaling'],5357905
-469,['TRIF-mediated programmed cell death'],2562578
-470,['Toll Like Receptor 9 (TLR9) Cascade'],168138
-471,['STAT6-mediated induction of chemokines'],3249367
-472,['TLR3-mediated TICAM1-dependent programmed cell death'],9013957
-473,['Activated NTRK2 signals through FYN'],9032500
-474,['SHC-mediated cascade:FGFR2'],5654699
-475,['Cell recruitment (pro-inflammatory response)'],9664424
-476,['Vpu mediated degradation of CD4'],180534
-477,['Constitutive Signaling by Overexpressed ERBB2'],9634285
-478,['Defective SLC5A2 causes renal glucosuria (GLYS1)'],5658208
-479,['Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template'],110313
-480,['Synthesis of wybutosine at G37 of tRNA(Phe)'],6782861
-481,['rRNA modification in the mitochondrion'],6793080
-482,['Sperm Motility And Taxes'],1300642
-483,['TP53 Regulates Transcription of Cell Cycle Genes'],6791312
-484,['Negative regulation of TCF-dependent signaling by WNT ligand antagonists'],3772470
-485,['TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain'],6804115
-486,['TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest'],6804116
-487,"['Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)', 'Regulation of IGF Activity by IGFBP']",381426
-488,['Smooth Muscle Contraction'],445355
-489,['Mitochondrial protein import'],1268020
-490,['Protein localization'],9609507
-491,['RHO GTPases Activate Rhotekin and Rhophilins'],5666185
-492,['Formation of Senescence-Associated Heterochromatin Foci (SAHF)'],2559584
-493,['Formation of apoptosome'],111458
-494,['Formation of TC-NER Pre-Incision Complex'],6781823
-495,['Regulation of RUNX3 expression and activity'],8941858
-496,['DNA methylation'],5334118
-497,['Amyloid fiber formation'],977225
-498,['CDC6 association with the ORC:origin complex'],68689
-499,['Cyclin A:Cdk2-associated events at S phase entry'],69656
-500,['MASTL Facilitates Mitotic Progression'],2465910
-501,['CTLA4 inhibitory signaling'],389513
-502,"['Urea cycle', 'Urea synthesis']",70635
-503,['p53-Dependent G1 DNA Damage Response'],69563
-504,['Regulation by c-FLIP'],3371378
-505,['CASP8 activity is inhibited'],5218900
-506,['Presynaptic nicotinic acetylcholine receptors'],622323
-507,['ZBP1(DAI) mediated induction of type I IFNs'],1606322
-508,['Regulation of TLR by endogenous ligand'],5686938
-509,['The IPAF inflammasome'],844623
-510,['Interleukin-38 signaling'],9007892
-511,['Dual incision in TC-NER'],6782135
-512,['Negative regulation of MET activity'],6807004
-513,['Formation of RNA Pol II elongation complex '],112382
-514,['Activation of the TFAP2 (AP-2) family of transcription factors'],8866907
-515,['MECP2 regulates neuronal receptors and channels'],9022699
-516,['MECP2 regulates transcription of genes involved in GABA signaling'],9022927
-517,['Signaling by FGFR2 in disease'],5655253
-518,['Signaling by TGF-beta Receptor Complex in Cancer'],3304351
-519,['Cytosolic sulfonation of small molecules'],156584
-520,['Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol'],193368
-521,['Synthesis of bile acids and bile salts via 27-hydroxycholesterol'],193807
-522,"['Defective EXT1 causes exostoses 1, TRPS2 and CHDS']",3656253
-523,['Defective GALNT12 causes colorectal cancer 1 (CRCS1)'],5083636
-524,['Mucopolysaccharidoses'],2206281
-525,['PCNA-Dependent Long Patch Base Excision Repair'],5651801
-526,"['Defective ABCB4 causes progressive familial intrahepatic cholestasis 3, intrahepatic cholestasis of pregnancy 3 and gallbladder disease 1']",5678771
-527,['Acetylcholine regulates insulin secretion'],399997
-528,['Defective SLC17A5 causes Salla disease (SD) and ISSD'],5619035
-529,['Defective SLC24A4 causes hypomineralized amelogenesis imperfecta (AI)'],5619055
-530,['Base Excision Repair'],73884
-531,['Activation of Matrix Metalloproteinases'],1592389
-532,['Molecules associated with elastic fibres'],2129379
-533,"['PRC2 methylates histones and DNA', 'Methylation of Histones and DNA by Polycomb Repressive Complex 2 (PRC2)']",212300
-534,['RNA Polymerase III Transcription'],74158
-535,['Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)'],9026766
-536,['Biosynthesis of maresin-like SPMs'],9027307
-537,['Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives'],9027604
-538,['Synthesis of active ubiquitin: roles of E1 and E2 enzymes'],8866652
-539,['Metalloprotease DUBs'],5689901
-540,['mRNA Editing'],75072
-541,['SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs'],77588
-542,['ARL13B-mediated ciliary trafficking of INPP5E'],5624958
-543,"['NR1H2 & NR1H3 regulate gene expression linked to gluconeogenesis ', 'LXRs regulate gene expression linked to gluconeogenesis ']",9632974
-544,['Translocation of SLC2A4 (GLUT4) to the plasma membrane'],1445148
-545,['Signaling by ERBB4'],1236394
-546,['Mitochondrial Uncoupling'],166187
-547,['RAF activation'],5673000
-548,['Transcription-Coupled Nucleotide Excision Repair (TC-NER)'],6781827
-549,['Transcriptional regulation by RUNX1'],8878171
-550,['Transcriptional Regulation by E2F6'],8953750
-551,"['Neurotoxicity of clostridium toxins', 'Clostridium neurotoxicity']",168799
-552,['Eukaryotic Translation Initiation'],72613
-553,['Estrogen-dependent gene expression'],9018519
-554,['Pink/Parkin Mediated Mitophagy'],5205685
-555,"['PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling']",6811558
-556,['RAF/MAP kinase cascade'],5673001
-557,['Repression of WNT target genes'],4641265
-558,['RHO GTPases activate CIT'],5625900
-559,['mTORC1-mediated signalling'],166208
-560,['Melanin biosynthesis'],5662702
-561,['Cargo concentration in the ER'],5694530
-562,"['Regulated Necrosis', 'Programmed necrosis']",5218859
-563,['Apoptosis'],109581
-564,['Antimicrobial peptides'],6803157
-565,['Lectin pathway of complement activation'],166662
-566,['Interleukin-1 processing'],448706
-567,"['HATs acetylate histones', 'Histone acetyltransferases acetylate histones']",3214847
-568,['Regulation of expression of SLITs and ROBOs'],9010553
-569,['L1CAM interactions'],373760
-570,['Toxicity of botulinum toxin type A (BoNT/A)'],5250968
-571,['Packaging of Eight RNA Segments'],168303
-572,"['Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants']",9673767
-573,['Signaling by FGFR3 fusions in cancer'],8853334
-574,['Signaling by WNT in cancer'],4791275
-575,['Loss of Function of SMAD4 in Cancer'],3304347
-576,['Diseases associated with the TLR signaling cascade'],5602358
-577,['DNA Replication'],69306
-578,['Degradation of the extracellular matrix'],1474228
-579,['Mitochondrial iron-sulfur cluster biogenesis'],1362409
-580,['E3 ubiquitin ligases ubiquitinate target proteins'],8866654
-581,['SUMOylation'],2990846
-582,['MAPK family signaling cascades'],5683057
-583,['MAPK6/MAPK4 signaling'],5687128
-584,['Signaling by Erythropoietin'],9006335
-585,"['NR1H2 & NR1H3 regulate gene expression linked to lipogenesis', 'LXRs regulate gene expression linked to lipogenesis']",9029558
-586,['Mitochondrial calcium ion transport'],8949215
-587,['Oligomerization of connexins into connexons'],190704
-588,['Cargo recognition for clathrin-mediated endocytosis'],8856825
-589,['PTEN Regulation'],6807070
-590,['Transcriptional regulation by RUNX2'],8878166
-591,['Regulation of RUNX1 Expression and Activity'],8934593
-592,['Signaling by ERBB2 TMD/JMD mutants'],9665686
-593,['Defective Base Excision Repair Associated with MUTYH'],9605310
-594,['Collagen biosynthesis and modifying enzymes'],1650814
-595,['Protein ubiquitination'],8852135
-596,['Clathrin-mediated endocytosis'],8856828
-597,['Golgi Cisternae Pericentriolar Stack Reorganization'],162658
-598,['The role of GTSE1 in G2/M progression after G2 checkpoint'],8852276
-599,['Downregulation of SMAD2/3:SMAD4 transcriptional activity'],2173795
-600,['Downregulation of TGF-beta receptor signaling'],2173788
-601,['Interleukin-2 signaling'],9020558
-602,['Defensins'],1461973
-603,['Transcriptional Regulation by VENTX'],8853884
-604,['RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function'],8936459
-605,['Activation of SMO'],5635838
-606,['APC/C-mediated degradation of cell cycle proteins'],174143
-607,['Regulation of MECP2 expression and activity'],9022692
-608,['Signaling by ERBB2 in Cancer'],1227990
-609,['Neurodegenerative Diseases'],8863678
-610,['Interleukin-12 family signaling'],447115
-611,['Deubiquitination'],5688426
-612,"['Signaling by Hippo', 'Hippo signaling cascade']",2028269
-613,['TGF-beta receptor signaling activates SMADs'],2173789
-614,['Downstream TCR signaling'],202424
-615,['Regulation by TREX1'],3248023
-616,['Chromatin modifying enzymes'],3247509
-617,['Interactions of Vpr with host cellular proteins'],176033
-618,['Cellular hexose transport'],189200
-619,['IRAK4 deficiency (TLR2/4)'],5603041
-620,['IRAK4 deficiency (TLR5)'],5603037
-621,['Fibronectin matrix formation'],1566977
-622,['Oncogene Induced Senescence'],2559585
-623,['Oxidative Stress Induced Senescence'],2559580
-624,['RIPK1-mediated regulated necrosis'],5213460
-625,['MAP3K8 (TPL2)-dependent MAPK1/3 activation'],5684264
-626,['ROS and RNS production in phagocytes'],1222556
-627,['Prolactin receptor signaling'],1170546
-628,['PI3K/AKT Signaling in Cancer'],2219528
-629,['Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects'],9632693
-630,['Evasion of Oncogene Induced Senescence Due to p16INK4A Defects'],9630750
-631,['Interleukin-10 signaling'],6783783
-632,['Interleukin-4 and Interleukin-13 signaling'],6785807
-633,['Peroxisomal protein import'],9033241
-634,"['NR1H2 and NR1H3-mediated signaling', 'LXR-mediated signaling']",9024446
-635,['Interleukin-7 signaling'],1266695
-636,['RHO GTPase Effectors'],195258
-637,['Generic Transcription Pathway'],212436
-638,['Defective CFTR causes cystic fibrosis'],5678895
-639,['Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)'],5687583
-640,['Defective SFTPA2 causes idiopathic pulmonary fibrosis (IPF)'],5687868
-641,['Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)'],5619045
-642,['Defective CSF2RA causes pulmonary surfactant metabolism dysfunction 4 (SMDP4)'],5688890
-643,['Defective ABCA3 causes pulmonary surfactant metabolism dysfunction 3 (SMDP3)'],5688399
-644,['Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5)'],5688849
-645,['Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3)'],5683678
-646,['Defective pro-SFTPC causes pulmonary surfactant metabolism dysfunction 2 (SMDP2) and respiratory distress syndrome (RDS)'],5688354
-647,['Diseases associated with surfactant metabolism'],5687613
-648,['Surfactant metabolism'],5683826
-649,['FOXO-mediated transcription of cell cycle genes'],9617828
-650,"['Biosynthesis of A2E, implicated in retinal degradation']",2466712
-651,['Erythrocytes take up oxygen and release carbon dioxide'],1247673
-652,['Glycerophospholipid biosynthesis'],1483206
-653,['O2/CO2 exchange in erythrocytes'],1480926
-654,"['Interleukin-3, Interleukin-5 and GM-CSF signaling']",512988
-655,['APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway'],5649702
-656,['Resolution of AP sites via the single-nucleotide replacement pathway'],110381
-657,['Abasic sugar-phosphate removal via the single-nucleotide replacement pathway'],73930
-658,['Fertilization'],1187000
-659,['Chylomicron assembly'],8963888
-660,['Amplification of signal from the kinetochores'],141424
-661,['Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal'],141444
-662,['Mitotic Spindle Checkpoint'],69618
-663,['Diseases of Base Excision Repair'],9605308
-664,['Initiation of Nuclear Envelope (NE) Reformation'],2995383
-665,['Inactivation of APC/C via direct inhibition of the APC/C complex'],141430
-666,['Recycling of bile acids and salts'],159418
-667,['Presynaptic phase of homologous DNA pairing and strand exchange'],5693616
-668,['Toxicity of botulinum toxin type G (BoNT/G)'],5250989
-669,"['Defective CHST14 causes EDS, musculocontractural type', 'Defective CHST14 causes Ehlers-Danlos syndrome musculocontractural type']",3595174
-670,['Diseases of DNA repair'],9675135
-671,['Translesion synthesis by POLI'],5656121
-672,['Regulation of gene expression by Hypoxia-inducible Factor'],1234158
-673,['GLI proteins bind promoters of Hh responsive genes to promote transcription'],5635851
-674,['Defective OGG1 Substrate Processing'],9656256
-675,['RHO GTPases activate PKNs'],5625740
-676,['Gap-filling DNA repair synthesis and ligation in TC-NER'],6782210
-677,['Resolution of Abasic Sites (AP sites)'],73933
-678,['SUMOylation of SUMOylation proteins'],4085377
-679,['Removal of the Flap Intermediate from the C-strand'],174437
-680,['Removal of the Flap Intermediate'],69166
-681,['Processive synthesis on the lagging strand'],69183
-682,['Lactose synthesis'],5653890
-683,['Processive synthesis on the C-strand of the telomere'],174414
-684,"['Inactivation, recovery and regulation of the phototransduction cascade']",2514859
-685,['Defective MAN1B1 causes MRT15'],4793950
-686,['Post-translational modification: synthesis of GPI-anchored proteins'],163125
-687,['Mitochondrial tRNA aminoacylation'],379726
-688,['G2/M DNA replication checkpoint'],69478
-689,['Lagging Strand Synthesis'],69186
-690,['Tolerance by Mtb to nitric oxide produced by macrophages'],1222538
-691,['Gap-filling DNA repair synthesis and ligation in GG-NER'],5696397
-692,['Telomere C-strand (Lagging Strand) Synthesis'],174417
-693,['Defective NTHL1 substrate processing'],9630221
-694,['LDL clearance'],8964038
-695,['rRNA processing in the nucleus and cytosol'],8868773
-696,['Stabilization of p53'],69541
-697,['Asymmetric localization of PCP proteins'],4608870
-698,['Lysine catabolism'],71064
-699,['Glycogen breakdown (glycogenolysis)'],70221
-700,['Keratan sulfate biosynthesis'],2022854
-701,['Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)'],5358565
-702,['DSCAM interactions'],376172
-703,['Gamma-carboxylation of protein precursors'],159740
-704,['HIV Transcription Initiation'],167161
-705,['RNA Polymerase II Transcription Initiation'],75953
-706,['Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)'],5083632
-707,['POLB-Dependent Long Patch Base Excision Repair'],110362
-708,['ECM proteoglycans'],3000178
-709,['Interferon alpha/beta signaling'],909733
-710,['PERK regulates gene expression'],381042
-711,['Resolution of AP sites via the multiple-nucleotide patch replacement pathway'],110373
-712,['Activation of ATR in response to replication stress'],176187
-713,"['Glutamate binding, activation of AMPA receptors and synaptic plasticity']",399721
-714,['Integration of viral DNA into host genomic DNA'],175567
-715,['Pyrimidine biosynthesis'],500753
-716,['Activation of the AP-1 family of transcription factors'],450341
-717,['Activation of AMPA receptors'],399710
-718,['Dectin-2 family'],5621480
-719,['Telomere Extension By Telomerase'],171319
-720,['Uptake and function of diphtheria toxin'],5336415
-721,['Metabolism of vitamin K'],6806664
-722,['Rev-mediated nuclear export of HIV RNA'],165054
-723,['Butyrophilin (BTN) family interactions'],8851680
-724,['IRE1alpha activates chaperones'],381070
-725,['Signaling by Receptor Tyrosine Kinases'],9006934
-726,['PCP/CE pathway'],4086400
-727,['Costimulation by the CD28 family'],388841
-728,['Glycogen metabolism'],8982491
-729,['Gluconeogenesis'],70263
-730,['TRAF6-mediated induction of TAK1 complex within TLR4 complex'],937072
-731,['Transmission across Chemical Synapses'],112315
-732,"['TICAM1,TRAF6-dependent induction of TAK1 complex']",9014325
-733,['Creation of C4 and C2 activators'],166786
-734,['Interleukin-1 family signaling'],446652
-735,['Synaptic adhesion-like molecules'],8849932
-736,['MET Receptor Activation'],6806942
-737,['HIV Infection'],162906
-738,"['Signaling by NOTCH', 'NOTCH Signaling Pathway']",157118
-739,['Interleukin-12 signaling'],9020591
-740,['Sphingolipid metabolism'],428157
-741,['tRNA Aminoacylation'],379724
-742,['rRNA processing'],72312
-743,['Signaling by MST1'],8852405
-744,['Signaling by FGFR3 in disease'],5655332
-745,['Signaling by FGFR3 point mutants in cancer'],8853338
-746,['Signaling by high-kinase activity BRAF mutants'],6802948
-747,['Regulation of beta-cell development'],186712
-748,['Signaling by ERBB2'],1227986
-749,['NOTCH3 Intracellular Domain Regulates Transcription'],9013508
-750,"['Intrinsic Pathway of Fibrin Clot Formation', 'Generation of intrinsic Factor X activating complex']",140837
-751,['Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane'],83936
-752,['Respiratory electron transport'],611105
-753,['Interleukin-1 signaling'],9020702
-754,['HDACs deacetylate histones'],3214815
-755,['Defective SLC2A10 causes arterial tortuosity syndrome (ATS)'],5619068
-756,['Common Pathway of Fibrin Clot Formation'],140875
-757,['Infection with Mycobacterium tuberculosis'],9635486
-758,['Suppression of phagosomal maturation'],9637687
-759,['Escape of Mtb from the phagocyte'],9637679
-760,['Phagocyte cell death caused by cytosolic Mtb'],9637698
-761,['Suppression of apoptosis'],9635465
-762,['Prevention of phagosomal-lysosomal fusion'],9636383
-763,['Tolerance of reactive oxygen produced by macrophages'],1222387
-764,['Blockage of phagosome acidification'],9636467
-765,['Response of Mtb to phagocytosis'],9637690
-766,['Cell redox homeostasis'],1222541
-767,['Manipulation of host energy metabolism'],9636667
-768,['Inhibition of membrane repair'],9635644
-769,['Modulation by Mtb of host immune system'],9637628
-770,['Inhibition of nitric oxide production'],9636249
-771,['Antimicrobial action and antimicrobial resistance in Mtb'],9639775
-772,['Latent infection - Other responses of Mtb to phagocytosis'],1222499
-773,['Mtb iron assimilation by chelation'],1222449
-774,['Suppression of autophagy'],9636569
-775,['Infectious disease'],5663205
-776,['CD209 (DC-SIGN) signaling'],5621575
-777,['Purinergic signaling in leishmaniasis infection'],9660826
-778,['Disease'],1643685
-779,['Classical Kir channels'],1296053
-780,['Phase 3 - rapid repolarisation'],5576890
-781,['Phase 2 - plateau phase'],5576893
-782,['Phase 1 - inactivation of fast Na+ channels'],5576894
-783,['Phase 4 - resting membrane potential'],5576886
-784,['Phase 0 - rapid depolarisation'],5576892
-785,"['Glycogen storage disease type 0 (muscle GYS1)', 'GSD 0 (muscle)']",3828062
-786,['Potassium Channels'],1296071
-787,['Inwardly rectifying K+ channels'],1296065
-788,['Ketone body metabolism'],74182
-789,['Assembly of active LPL and LIPC lipase complexes'],8963889
-790,['Growth hormone receptor signaling'],982772
-791,['Transport of inorganic cations/anions and amino acids/oligopeptides'],425393
-792,['Regulation of TP53 Activity through Methylation'],6804760
-793,['O-glycosylation of TSR domain-containing proteins'],5173214
-794,['Deactivation of the beta-catenin transactivating complex'],3769402
-795,['Activation of BMF and translocation to mitochondria'],139910
-796,['Diseases of cellular response to stress'],9675132
-797,"['Formation of the ternary complex, and subsequently, the 43S complex']",72695
-798,['Extracellular matrix organization'],1474244
-799,['Branched-chain amino acid catabolism'],70895
-800,['Signalling to p38 via RIT and RIN'],187706
-801,['MECP2 regulates transcription of neuronal ligands'],9022702
-802,['Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells'],210744
-803,['ATF4 activates genes in response to endoplasmic reticulum  stress'],380994
-804,"['Pentose phosphate pathway', 'Pentose phosphate pathway (hexose monophosphate shunt)']",71336
-805,['Defective MGAT2 causes MGAT2-CDG (CDG-2a)'],4793952
-806,"['Glycogen storage disease type IV (GBE1)', 'GSD IV', 'Andersen Disease']",3878781
-807,['Keratinization'],6805567
-808,['Binding and entry of HIV virion'],173107
-809,['ER Quality Control Compartment (ERQC)'],901032
-810,['Beta-oxidation of very long chain fatty acids'],390247
-811,['Long-term potentiation'],9620244
-812,['Metabolism of cofactors'],8978934
-813,['Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer'],2173793
-814,['Pre-NOTCH Processing in Golgi'],1912420
-815,['Regulation of commissural axon pathfinding by SLIT and ROBO'],428542
-816,['PP2A-mediated dephosphorylation of key metabolic factors'],163767
-817,['PKA-mediated phosphorylation of key metabolic factors'],163358
-818,['Regulation of actin dynamics for phagocytic cup formation'],2029482
-819,['Integration of energy metabolism'],163685
-820,['Regulation of cholesterol biosynthesis by SREBP (SREBF)'],1655829
-821,['Linoleic acid (LA) metabolism'],2046105
-822,['Hedgehog ligand biogenesis'],5358346
-823,['CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde'],442729
-824,['Abortive elongation of HIV-1 transcript in the absence of Tat'],167242
-825,['Biosynthesis of DPAn-6 SPMs'],9025106
-826,['Biosynthesis of DHA-derived SPMs'],9018677
-827,['Biosynthesis of aspirin-triggered D-series resolvins'],9020265
-828,['Biosynthesis of protectins'],9018681
-829,['Biosynthesis of DHA-derived sulfido conjugates'],9026395
-830,['Biosynthesis of D-series resolvins'],9018676
-831,['Biosynthesis of E-series 18(R)-resolvins'],9023661
-832,['Biosynthesis of E-series 18(S)-resolvins'],9018896
-833,['Late Phase of HIV Life Cycle'],162599
-834,['Free fatty acids regulate insulin secretion'],400451
-835,['Activated NTRK2 signals through PLCG1'],9026527
-836,['Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion'],434316
-837,['Tat-mediated elongation of the HIV-1 transcript'],167246
-838,['Digestion of dietary lipid'],192456
-839,['Transcriptional regulation of granulopoiesis'],9616222
-840,['Fatty acyl-CoA biosynthesis'],75105
-841,"['Signaling by NTRK1 (TRKA)', 'NGF signalling via TRKA from the plasma membrane']",187037
-842,['Wax and plasmalogen biosynthesis'],8848584
-843,['Defective ABCD1 causes adrenoleukodystrophy (ALD)'],5684045
-844,['FGFR3 ligand binding and activation'],190239
-845,['Trafficking of AMPA receptors'],399719
-846,['Free fatty acid receptors'],444209
-847,['Wax biosynthesis'],9640463
-848,['PTK6 promotes HIF1A stabilization'],8857538
-849,['Peroxisomal lipid metabolism'],390918
-850,['Pexophagy'],9664873
-851,['Beta oxidation of myristoyl-CoA to lauroyl-CoA'],77285
-852,['Beta oxidation of palmitoyl-CoA to myristoyl-CoA'],77305
-853,['Killing mechanisms'],9664420
-854,['RNA Polymerase II Pre-transcription Events'],674695
-855,"['Carnitine metabolism', 'Import of palmitoyl-CoA into the mitochondrial matrix']",200425
-856,['rRNA processing in the mitochondrion'],8868766
-857,['p75 NTR receptor-mediated signalling'],193704
-858,['Alpha-defensins'],1462054
-859,['Digestion'],8935690
-860,['Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA'],77310
-861,['Netrin mediated repulsion signals'],418886
-862,['Phospholipid metabolism'],1483257
-863,['Glycosaminoglycan metabolism'],1630316
-864,['Tachykinin receptors bind tachykinins'],380095
-865,['Disinhibition of SNARE formation'],114516
-866,['Regulation of insulin secretion'],422356
-867,['Transcription of the HIV genome'],167172
-868,['Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)'],5083625
-869,['MPS VII - Sly syndrome'],2206292
-870,['RNA Polymerase I Transcription'],73864
-871,['tRNA processing in the mitochondrion'],6785470
-872,['EGR2 and SOX10-mediated initiation of Schwann cell myelination'],9619665
-873,['Advanced glycosylation endproduct receptor signaling'],879415
-874,['Defective HLCS causes multiple carboxylase deficiency'],3371599
-875,['The retinoid cycle in cones (daylight vision)'],2187335
-876,"['Transport of vitamins, nucleosides, and related molecules']",425397
-877,['Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)'],5619067
-878,['Gene expression (Transcription)'],74160
-879,['tRNA processing'],72306
-880,['Lewis blood group biosynthesis'],9037629
-881,['Fc epsilon receptor (FCERI) signaling'],2454202
-882,['Beta-catenin phosphorylation cascade'],196299
-883,"[""S45 mutants of beta-catenin aren't phosphorylated""]",5358751
-884,['Defects in cobalamin (B12) metabolism'],3296469
-885,['SUMO E3 ligases SUMOylate target proteins'],3108232
-886,['Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA'],428359
-887,['Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA'],450385
-888,['Cohesin Loading onto Chromatin'],2470946
-889,['Extension of Telomeres'],180786
-890,['ERBB2 Activates PTK6 Signaling'],8847993
-891,['SUMOylation of intracellular receptors'],4090294
-892,"['Ethanol oxidation', 'Alcohol catabolism']",71384
-893,['Extra-nuclear estrogen signaling'],9009391
-894,['PTK6 Expression'],8849473
-895,"['Regulation of glycolysis by fructose 2,6-bisphosphate metabolism']",9634600
-896,['WNT5:FZD7-mediated leishmania damping'],9673324
-897,['Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)'],5619049
-898,['MAP2K and MAPK activation'],5674135
-899,['Negative regulation of MAPK pathway'],5675221
-900,['Anti-inflammatory response favouring Leishmania parasite infection'],9662851
-901,"['MAPK1/MAPK3 signaling', 'ERK1/ERK2 pathway']",5684996
-902,['Synthesis of IPs in the ER lumen'],1855231
-903,['IPs transport between ER lumen and cytosol'],1855215
-904,['IPs transport between ER lumen and nucleus'],1855156
-905,['IPs transport between cytosol and ER lumen'],1855184
-906,['VxPx cargo-targeting to cilium'],5620916
-907,['Depolymerisation of the Nuclear Lamina'],4419969
-908,['Regulation of PTEN gene transcription'],8943724
-909,['Signaling by moderate kinase activity BRAF mutants'],6802946
-910,['Ligand-receptor interactions'],5632681
-911,['Signaling by ERBB2 KD Mutants'],9664565
-912,['SMAD4 MH2 Domain Mutants in Cancer'],3311021
-913,['Loss of Function of SMAD2/3 in Cancer'],3304349
-914,['SMAD2/3 Phosphorylation Motif Mutants in Cancer'],3304356
-915,['SMAD2/3 MH2 Domain Mutants in Cancer'],3315487
-916,['Defective EXT2 causes exostoses 2'],3656237
-917,['Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate'],2978092
-918,['Interconversion of 2-oxoglutarate and 2-hydroxyglutarate'],880009
-919,['TNFR1-induced NFkappaB signaling pathway'],5357956
-920,['TNFR1-induced proapoptotic signaling'],5357786
-921,['TNF signaling'],75893
-922,['Assembly of the pre-replicative complex'],68867
-923,['DNA Replication Pre-Initiation'],69002
-924,['Pre-NOTCH Expression and Processing'],1912422
-925,['Processing of Capped Intronless Pre-mRNA'],75067
-926,['Pre-NOTCH Processing in the Endoplasmic Reticulum'],1912399
-927,['E2F-enabled inhibition of pre-replication complex formation'],113507
-928,['SLBP independent Processing of Histone Pre-mRNAs'],111367
-929,['Processing of Capped Intron-Containing Pre-mRNA'],72203
-930,['RNA Polymerase II Transcription Pre-Initiation And Promoter Opening'],73779
-931,"['mRNA Splicing - Minor Pathway', 'U12 Dependent Splicing']",72165
-932,['Presynaptic function of Kainate receptors'],500657
-933,['Antigen processing-Cross presentation'],1236975
-934,['Major pathway of rRNA processing in the nucleolus and cytosol'],6791226
-935,['Inhibition of Host mRNA Processing and RNA Silencing'],168315
-936,['Presynaptic depolarization and calcium channel opening'],112308
-937,['Diseases associated with glycosylation precursor biosynthesis'],5609975
-938,"['Caspase activation via Death Receptors in the presence of ligand', 'Ligand-dependent caspase activation']",140534
-939,['Cross-presentation of soluble exogenous antigens (endosomes)'],1236978
-940,['Cross-presentation of particulate exogenous antigens (phagosomes)'],1236973
-941,['Class I MHC mediated antigen processing & presentation'],983169
-942,['Regulation of gene expression in early pancreatic precursor cells'],210747
-943,['Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding'],389958
-944,['Prefoldin mediated transfer of substrate  to CCT/TriC'],389957
-945,['mRNA Capping'],72086
-946,"['mRNA Splicing - Major Pathway', 'pre-mRNA splicing', 'U2 Dependent Splicing']",72163
-947,"['Antigen Presentation: Folding, assembly and peptide loading of class I MHC']",983170
-948,['RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known'],8939243
-949,['Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus'],159763
-950,"['Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein']",446193
-951,['Defective MUTYH substrate binding'],9608287
-952,['XBP1(S) activates chaperone genes'],381038
-953,['Class I peroxisomal membrane protein import'],9603798
-954,['Defective MUTYH substrate processing'],9608290
-955,['RAB geranylgeranylation'],8873719
-956,['RAB GEFs exchange GTP for GDP on RABs'],8876198
-957,['Unwinding of DNA'],176974
-958,['Neurotransmitter release cycle'],112310
-959,['RNA Polymerase I Transcription Termination'],73863
-960,['Neurotransmitter receptors and postsynaptic signal transmission'],112314
-961,['Neurotransmitter clearance'],112311
-962,['HDL clearance'],8964011
-963,['Plasma lipoprotein remodeling'],8963899
-964,['Defective SLC1A3 causes episodic ataxia 6 (EA6)'],5619062
-965,['SDK interactions'],373756
-966,['NGF processing'],167060
-967,['Astrocytic Glutamate-Glutamine Uptake And Metabolism'],210455
-968,['Defective SLC6A5 causes hyperekplexia 3 (HKPX3)'],5619089
-969,['snRNP Assembly'],191859
-970,['Transmission across Electrical Synapses '],112307
-971,['Electric Transmission Across Gap Junctions'],112303
-972,['Neurexins and neuroligins'],6794361
-973,['Deposition of new CENPA-containing nucleosomes at the centromere'],606279
-974,['Gastrin-CREB signalling pathway via PKC and MAPK'],881907
-975,['Assembly of the ORC complex at the origin of replication'],68616
-976,['Plasma lipoprotein clearance'],8964043
-977,['Eukaryotic Translation Elongation'],156842
-978,['mRNA Editing: C to U Conversion'],72200
-979,['Neuronal System'],112316
-980,['Signaling by GPCR'],372790
-981,"['Cell Cycle, Mitotic']",69278
-982,['Beta defensins'],1461957
-983,['Rhesus blood group biosynthesis'],9037628
-984,['Protein repair'],5676934
-985,['Regulation of TP53 Expression and Degradation'],6806003
-986,"['POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation']",2892245
-987,"['POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation']",2892247
-988,['Signaling by cytosolic PDGFRA and PDGFRB fusion proteins'],9673766
-989,['Signaling by PDGFRA extracellular domain mutants'],9673770
-990,['Signaling by membrane-tethered fusions of PDGFRA or PDGFRB'],9673768
-991,['Signaling by Ligand-Responsive EGFR Variants in Cancer'],5637815
-992,['Programmed Cell Death'],5357801
-993,['Intracellular signaling by second messengers'],9006925
-994,['Events associated with phagocytolytic activity of PMN cells'],8941413
-995,['Transcriptional regulation of white adipocyte differentiation'],381340
-996,['Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)'],5619081
-997,['Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)'],5660724
-998,['Acetylation'],156582
-999,['Methylation'],156581
-1000,['Amino Acid conjugation'],156587
-1001,['Defective CYP21A2 causes Adrenal hyperplasia 3 (AH3)'],5579021
-1002,['Defective CYP26B1 causes Radiohumeral fusions with other skeletal and craniofacial anomalies (RHFCA)'],5579015
-1003,['Defective CYP11B1 causes Adrenal hyperplasia 4 (AH4)'],5579017
-1004,['RHO GTPases activate IQGAPs'],5626467
-1005,['Transport to the Golgi and subsequent modification'],948021
-1006,"['Signaling by Insulin receptor', 'Insulin receptor mediated signaling']",74752
-1007,['FOXO-mediated transcription of cell death genes'],9614657
-1008,['Signaling by NOTCH1 in Cancer'],2644603
-1009,['FBXW7 Mutants and NOTCH1 in Cancer'],2644605
-1010,['Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling'],2644607
-1011,['Defective ACTH causes Obesity and Pro-opiomelanocortinin deficiency (POMCD)'],5579031
-1012,['Defective CYP26C1 causes Focal facial dermal dysplasia 4 (FFDD4)'],5579004
-1013,['BBSome-mediated cargo-targeting to cilium'],5620922
-1014,['Gap junction assembly'],190861
-1015,['Developmental Biology'],1266738
-1016,['Defective LARGE causes MDDGA6 and MDDGB6'],5083627
-1017,['Neutrophil degranulation'],6798695
-1018,['Defects in biotin (Btn) metabolism'],3323169
-1019,"['NR1H2 & NR1H3 regulate gene expression linked to triglyceride lipolysis in adipose', 'LXRs regulate gene expression linked to triglyceride lipolysis in adipose']",9031528
-1020,['Defective SLC6A2 causes orthostatic intolerance (OI)'],5619109
-1021,['Nef mediated downregulation of CD28 cell surface expression'],164939
-1022,['Cyclin E associated events during G1/S transition '],69202
-1023,['Nef Mediated CD8 Down-regulation'],182218
-1024,['Fructose metabolism'],5652084
-1025,['Glycogen synthesis'],3322077
-1026,"['Glycogen storage disease type XV (GYG1)', 'GSD XV']",3814836
-1027,"['Glycogen storage disease type Ib (SLC37A4)', 'GSD Ib']",3229133
-1028,"['Glycogen storage disease type Ia (G6PC)', 'GSD Ia']",3274531
-1029,"['Glycogen storage disease type II (GAA)', 'GSD II']",5357609
-1030,"['Glycogen storage disease type 0 (liver GYS2)', 'GSD 0']",3858516
-1031,['Misspliced GSK3beta mutants stabilize beta-catenin'],5339716
-1032,['GLI3 is processed to GLI3R by the proteasome'],5610785
-1033,"['Metabolism of carbohydrates', 'Carbohydrate metabolism']",71387
-1034,['Glucagon signaling in metabolic regulation'],163359
-1035,"['Glucose metabolism', 'Glycolysis and gluconeogenesis']",70326
-1036,['Defective SLC2A2 causes Fanconi-Bickel syndrome (FBS)'],5619098
-1037,['Signaling by WNT'],195721
-1038,['Diseases of programmed cell death'],9645723
-1039,['NRAGE signals death through JNK'],193648
-1040,['NRIF signals cell death from the nucleus'],205043
-1041,"['Cell death signalling via NRAGE, NRIF and NADE']",204998
-1042,['TRAIL  signaling'],75158
-1043,"['SMAC, XIAP-regulated apoptotic response']",111469
-1044,['Regulation of the apoptosome activity'],9627069
-1045,['Intrinsic Pathway for Apoptosis'],109606
-1046,['Apoptotic factor-mediated response'],111471
-1047,['Transcriptional Regulation by TP53'],3700989
-1048,['TP53 Regulates Transcription of Caspase Activators and Caspases'],6803207
-1049,['Sorafenib-resistant PDGFR mutants'],9674404
-1050,['Defective DOLK causes DOLK-CDG (CDG-1m)'],4755583
-1051,"[""mRNA decay by 3' to 5' exoribonuclease""]",429958
-1052,['Deadenylation-dependent mRNA decay'],429914
-1053,['Antagonism of Activin by Follistatin'],2473224
-1054,['Release of apoptotic factors from the mitochondria'],111457
-1055,['Deadenylation of mRNA'],429947
-1056,['Stimuli-sensing channels'],2672351
-1057,['TP53 Regulates Transcription of Genes Involved in Cytochrome C Release'],6803204
-1058,['Activated point mutants of FGFR2'],2033519
-1059,['FasL/ CD95L signaling'],75157
-1060,['Caspase activation via extrinsic apoptotic signalling pathway'],5357769
-1061,['Dimerization of procaspase-8'],69416
-1062,['Regulation of PAK-2p34 activity by PS-GAP/RHG10'],211728
-1063,['Apoptotic cleavage of cellular proteins'],111465
-1064,['Regulation of activated PAK-2p34 by proteasome mediated degradation'],211733
-1065,['PAOs oxidise polyamines to amines'],141334
-1066,['Defective B3GALT6 causes EDSP2 and SEMDJL1'],4420332
-1067,"['Caspase activation via Dependence Receptors in the absence of ligand', 'Ligand-independent caspase activation via DCC']",418889
-1068,['MyD88-independent TLR4 cascade '],166166
-1069,['Synthesis of diphthamide-EEF2'],5358493
-1070,"['Defective HEXB causes GM2G2', 'Defective HEXB causes GM2-gangliosidosis 2']",3656248
-1071,"['Defective HEXA causes GM2G1', 'Defective HEXA causes GM2-gangliosidosis 1']",3656234
-1072,['Defective ALG1 causes ALG1-CDG (CDG-1k)'],4549380
-1073,['MPS IIIA - Sanfilippo syndrome A'],2206307
-1074,['MPS IIIB - Sanfilippo syndrome B'],2206282
-1075,['MyD88:MAL(TIRAP) cascade initiated on plasma membrane'],166058
-1076,['MPS IIID - Sanfilippo syndrome D'],2206305
-1077,['MPS I - Hurler syndrome'],2206302
-1078,['TNFR1-mediated ceramide production'],5626978
-1079,['MAPK targets/ Nuclear events mediated by MAP kinases'],450282
-1080,['RHO GTPases activate PAKs'],5627123
-1081,['Toll Like Receptor 4 (TLR4) Cascade'],166016
-1082,['Interleukin-33 signaling'],9014843
-1083,['MyD88 deficiency (TLR2/4)'],5602498
-1084,['MyD88 deficiency (TLR5)'],5602680
-1085,"['Alpha-protein kinase 1 signaling pathway', 'ALPK1 signaling pathway']",9645460
-1086,['NCAM signaling for neurite out-growth'],375165
-1087,['N-glycan trimming in the ER and Calnexin/Calreticulin cycle'],532668
-1088,['Aggrephagy'],9646399
-1089,['Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization'],180897
-1090,['Calnexin/calreticulin cycle'],901042
-1091,['Defective MAOA causes Brunner syndrome (BRUNS)'],5579012
-1092,['vRNP Assembly'],192905
-1093,['Metabolic disorders of biological oxidation enzymes'],5579029
-1094,['Transferrin endocytosis and recycling'],917977
-1095,['Intestinal absorption'],8963676
-1096,['Transport of glycerol from adipocytes to the liver by Aquaporins'],432030
-1097,"['Utilization of Ketone Bodies', 'Ketone body catabolism']",77108
-1098,['Digestion and absorption'],8963743
-1099,['Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE'],3359467
-1100,"['Defective CYP24A1 causes Hypercalcemia, infantile (HCAI)']",5579010
-1101,['Pyrophosphate hydrolysis'],71737
-1102,['Pyrimidine catabolism'],73621
-1103,['Early Phase of HIV Life Cycle'],162594
-1104,['Zinc transporters'],435354
-1105,['Translesion Synthesis by POLH'],110320
-1106,['CD28 dependent Vav1 pathway'],389359
-1107,['Complex I biogenesis'],6799198
-1108,['Lysosomal oligosaccharide catabolism'],8853383
-1109,['Export of Viral Ribonucleoproteins from Nucleus'],168274
-1110,['ABC-family proteins mediated transport'],382556
-1111,['Defective SLC22A12 causes renal hypouricemia 1 (RHUC1)'],5619071
-1112,['Proton-coupled monocarboxylate transport'],433692
-1113,['Vasopressin regulates renal water homeostasis via Aquaporins'],432040
-1114,['Erythrocytes take up carbon dioxide and release oxygen'],1237044
-1115,['Cell Cycle'],1640170
-1116,['Formation of the Early Elongation Complex'],113418
-1117,['Transport of Ribonucleoproteins into the Host Nucleus'],168271
-1118,['Cation-coupled Chloride cotransporters'],426117
-1119,['Defective CP causes aceruloplasminemia (ACERULOP)'],5619060
-1120,['DNA Damage Bypass'],73893
-1121,"['Translesion synthesis by POLK', 'Translesion Synthesis by DNA Polymerase Kappa']",5655862
-1122,['Striated Muscle Contraction'],390522
-1123,['Interconversion of nucleotide di- and triphosphates'],499943
-1124,['Paradoxical activation of RAF signaling by kinase inactive BRAF'],6802955
-1125,['RMTs methylate histone arginines'],3214858
-1126,['Circadian Clock'],400253
-1127,['Defective SLC2A9 causes hypouricemia renal 2 (RHUC2)'],5619047
-1128,"['Defective SLC4A1 causes hereditary spherocytosis type 4 (HSP4),  distal renal tubular acidosis (dRTA) and dRTA with hemolytic anemia (dRTA-HA)']",5619050
-1129,['Amino acid transport across the plasma membrane'],352230
-1130,['AMER1 mutants destabilize the destruction complex'],4839748
-1131,['Defective SLC34A1 causes hypophosphatemic nephrolithiasis/osteoporosis 1 (NPHLOP1)'],5619040
-1132,['Organic anion transport'],561048
-1133,['Defective SLC3A1 causes cystinuria (CSNU)'],5619113
-1134,['Defective SLC7A9 causes cystinuria (CSNU)'],5660883
-1135,['Sunitinib-resistant PDGFR mutants'],9674401
-1136,['Defective SLC36A2 causes iminoglycinuria (IG) and hyperglycinuria (HG)'],5619041
-1137,['Defective SLC34A3 causes Hereditary hypophosphatemic rickets with hypercalciuria (HHRH)'],5619097
-1138,['Defective SLC12A3 causes Gitelman syndrome (GS)'],5619087
-1139,['Defective SLC12A1 causes Bartter syndrome 1 (BS1)'],5619104
-1140,['Defective SLC6A19 causes Hartnup disorder (HND)'],5659735
-1141,['Defective SLC6A19 causes Hartnup disorder (HND)'],5619044
-1142,['Defective SLC7A7 causes lysinuric protein intolerance (LPI)'],5660862
-1143,['Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG)'],5619101
-1144,['Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG)'],5660686
-1145,['Adherens junctions interactions'],418990
-1146,['TFAP2 (AP-2) family regulates transcription of cell cycle factors'],8866911
-1147,['FMO oxidises nucleophiles'],217271
-1148,['Anchoring of the basal body to the plasma membrane'],5620912
-1149,['G1/S-Specific Transcription'],69205
-1150,"['Signaling by FGFR1', 'Fibroblast Growth Factor Receptor (FGFR) signaling']",5654736
-1151,"['Signaling by FGFR3', 'Fibroblast Growth Factor Receptor (FGFR) signaling']",5654741
-1152,['Glutamate Neurotransmitter Release Cycle'],210500
-1153,['CLEC7A (Dectin-1) signaling'],5607764
-1154,"['Signaling by FGFR2', 'Fibroblast Growth Factor Receptor (FGFR) signaling']",5654738
-1155,"['Signaling by FGFR', 'Fibroblast Growth Factor Receptor (FGFR) signaling']",190236
-1156,"['Signaling by FGFR4', 'Fibroblast Growth Factor Receptor (FGFR) signaling']",5654743
-1157,['Signal regulatory protein family interactions'],391160
-1158,['Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters'],164938
-1159,['Nef mediated downregulation of MHC class I complex cell surface expression'],164940
-1160,['Constitutive Signaling by Aberrant PI3K in Cancer'],2219530
-1161,['Conjugation of phenylacetate with glutamine'],177162
-1162,['Defective CYP1B1 causes Glaucoma'],5579000
-1163,['Synthesis of pyrophosphates in the cytosol'],1855167
-1164,['Endosomal Sorting Complex Required For Transport (ESCRT)'],917729
-1165,['Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer'],2894858
-1166,['Tandem pore domain halothane-inhibited K+ channel (THIK)'],1299287
-1167,['FLT3 Signaling'],9607240
-1168,['Signaling by NOTCH1 HD Domain Mutants in Cancer'],2691230
-1169,['Signaling by NOTCH1 PEST Domain Mutants in Cancer'],2644602
-1170,['Constitutive Signaling by NOTCH1 HD Domain Mutants'],2691232
-1171,['Constitutive Signaling by NOTCH1 PEST Domain Mutants'],2644606
-1172,['Synthesis of Prostaglandins (PG) and Thromboxanes (TX)'],2162123
-1173,['PIPs transport between Golgi and plasma membranes'],1660510
-1174,['Scavenging of heme from plasma'],2168880
-1175,['RUNX1 regulates transcription of genes involved in differentiation of HSCs'],8939236
-1176,['Defective TPMT causes Thiopurine S-methyltransferase deficiency (TPMT deficiency)'],5578995
-1177,['Signaling by SCF-KIT'],1433557
-1178,['Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants'],2894862
-1179,['RUNX2 regulates genes involved in cell migration'],8941332
-1180,['Signalling to STAT3'],198745
-1181,['Intestinal infectious diseases'],8942233
-1182,['Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant'],2660825
-1183,['CD163 mediating an anti-inflammatory response'],9662834
-1184,['Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant'],2660826
-1185,['NrCAM interactions'],447038
-1186,['Activation of HOX genes during differentiation'],5619507
-1187,['Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)'],5658471
-1188,['Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)'],5619114
-1189,['Defective B3GALTL causes Peters-plus syndrome (PpS)'],5083635
-1190,"['Metabolism of non-coding RNA', 'Non-coding RNA Metabolism']",194441
-1191,['TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway'],5676594
-1192,['NIK-->noncanonical NF-kB signaling'],5676590
-1193,['Noncanonical activation of NOTCH3'],9017802
-1194,['Dectin-1 mediated noncanonical NF-kB signaling'],5607761
-1195,['Beta-catenin independent WNT signaling'],3858494
-1196,['Protein methylation'],8876725
-1197,['Amine Oxidase reactions'],140179
-1198,['Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB'],141333
-1199,['Rhesus glycoproteins mediate ammonium transport.'],444411
-1200,['RNA Polymerase III Transcription Termination'],73980
-1201,['Defective MAT1A causes Methionine adenosyltransferase deficiency (MATD)'],5579024
-1202,['Regulation of PTEN mRNA translation'],8943723
-1203,['TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest'],6804114
-1204,['Establishment of Sister Chromatid Cohesion'],2468052
-1205,['MET activates PTK2 signaling'],8874081
-1206,['AKT-mediated inactivation of FOXO1A'],211163
-1207,['MECP2 regulates transcription factors'],9022707
-1208,"['Defective CHST3 causes SEDCJD', 'Defective CHST3 causes spondyloepiphyseal dysplasia with congenital joint dislocations']",3595172
-1209,['GRB2:SOS provides linkage to MAPK signaling for Integrins '],354194
-1210,['IPs transport between nucleus and cytosol'],1855170
-1211,['Carboxyterminal post-translational modifications of tubulin'],8955332
-1212,['Entry of Influenza Virion into Host Cell via Endocytosis'],168275
-1213,['NS1 Mediated Effects on Host Pathways'],168276
-1214,['Assembly of Viral Components at the Budding Site'],168316
-1215,['Viral RNP Complexes in the Host Cell Nucleus'],168330
-1216,['NEP/NS2 Interacts with the Cellular Export Machinery'],168333
-1217,['Influenza Viral RNA Transcription and Replication'],168273
-1218,['Viral mRNA Translation'],192823
-1219,['Viral Messenger RNA Synthesis'],168325
-1220,['vRNA Synthesis'],192814
-1221,['Inhibition of Interferon Synthesis'],168305
-1222,['Inhibition of PKR'],169131
-1223,['Influenza Virus Induced Apoptosis'],168277
-1224,['Fusion and Uncoating of the Influenza Virion'],168270
-1225,['Fusion of the Influenza Virion to the Host Cell Endosome'],168288
-1226,['Uncoating of the Influenza Virion'],168336
-1227,['Virus Assembly and Release'],168268
-1228,['Release'],168298
-1229,['Budding'],168302
-1230,"['Transport of HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus']",168874
-1231,['Signaling by plasma membrane FGFR1 fusions'],8853336
-1232,"['Defective ST3GAL3 causes MCT12 and EIEE15', 'Defective ST3GAL3 causes mental retardation, autosomal recessive 12 and early infantile epileptic encephalopathy-15']",3656243
-1233,['Defective SLC24A5 causes oculocutaneous albinism 6 (OCA6)'],5619036
-1234,['EML4 and NUDC in mitotic spindle formation'],9648025
-1235,"['5-Phosphoribose 1-diphosphate biosynthesis', 'PRPP biosynthesis', 'Synthesis of cytosolic 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) from D-ribose 5-phosphate']",73843
-1236,['Inhibition of Signaling by Overexpressed EGFR'],5638303
-1237,"['ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression', 'Activation of rRNA Expression by ERCC6 (CSB) and EHMT2 (G9a)', 'Activation of rRNA Expression by Cockayne Syndrome Protein CSB and Histone Methyltransferase G9a']",427389
-1238,['RNA Polymerase III Transcription Initiation From Type 3 Promoter'],76071
-1239,"['Signaling by the B Cell Receptor (BCR)', 'B Cell Activation']",983705
-1240,['RNA Polymerase II Transcription Termination'],73856
-1241,['Gene Silencing by RNA'],211000
-1242,['Ca2+ pathway'],4086398
-1243,['DEx/H-box helicases activate type I IFN and inflammatory cytokines production '],3134963
-1244,['Collagen chain trimerization'],8948216
-1245,['Late endosomal microautophagy'],9615710
-1246,['Polymerase switching'],69091
-1247,['Competing endogenous RNAs (ceRNAs) regulate PTEN translation'],8948700
-1248,['Sialic acid metabolism'],4085001
-1249,['Polymerase switching on the C-strand of the telomere'],174411
-1250,['Parasite infection'],9664407
-1251,['2-LTR circle formation'],164843
-1252,['HIV Transcription Elongation'],167169
-1253,['Vif-mediated degradation of APOBEC3G'],180585
-1254,['Relaxin receptors'],444821
-1255,['IL-6-type cytokine receptor ligand interactions'],6788467
-1256,['Leishmania phagocytosis'],9664417
-1257,['G beta:gamma signalling through BTK'],8964315
-1258,['Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)'],2142816
-1259,['Protein folding'],391251
-1260,['Metabolism of RNA'],8953854
-1261,['Downregulation of ERBB2 signaling'],8863795
-1262,['TCF dependent signaling in response to WNT'],201681
-1263,['Regulation of FZD by ubiquitination'],4641263
-1264,['Elevation of cytosolic Ca2+ levels'],139853
-1265,['Post-translational protein modification'],597592
-1266,['Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants'],1236382
-1267,['RHO GTPases Activate ROCKs'],5627117
-1268,['Apoptosis induced DNA fragmentation'],140342
-1269,['Interleukin-15 signaling'],8983432
-1270,['Role of LAT2/NTAL/LAB on calcium mobilization'],2730905
-1271,['Leishmania infection'],9658195
-1272,['APOBEC3G mediated resistance to HIV-1 infection'],180689
-1273,['Opsins'],419771
-1274,['Platelet calcium homeostasis'],418360
-1275,['Signaling by Retinoic Acid'],5362517
-1276,['ABO blood group biosynthesis'],9033807
-1277,['RUNX2 regulates osteoblast differentiation'],8940973
-1278,"[""Hedgehog 'off' state""]",5610787
-1279,"[""Hedgehog 'on' state""]",5632684
-1280,['Signaling by Nuclear Receptors'],9006931
-1281,['Nucleotide Excision Repair'],5696398
-1282,['Regulation of RUNX2 expression and activity'],8939902
-1283,"['HSP90 chaperone cycle for steroid hormone receptors (SHR)', 'HSP90 chaperone cycle for SHRs']",3371497
-1284,['PKMTs methylate histone lysines'],3214841
-1285,['Regulation of HSF1-mediated heat shock response'],3371453
-1286,['Attenuation phase'],3371568
-1287,['Cellular response to heat stress'],3371556
-1288,['HSF1 activation'],3371511
-1289,['HSF1-dependent transactivation'],3371571
-1290,['AUF1 (hnRNP D0) binds and destabilizes mRNA'],450408
-1291,['TNFs bind their physiological receptors'],5669034
-1292,['activated TAK1 mediates p38 MAPK activation'],450302
-1293,['Hyaluronan metabolism'],2142845
-1294,['Keratan sulfate/keratin metabolism'],1638074
-1295,['Constitutive Signaling by EGFRvIII'],5637810
-1296,['Aryl hydrocarbon receptor signalling'],8937144
-1297,['RAF-independent MAPK1/3 activation'],112409
-1298,['Post-translational protein phosphorylation'],8957275
-1299,['Post-transcriptional silencing by small RNAs'],426496
-1300,['Post-chaperonin tubulin folding pathway'],389977
-1301,['Switching of origins to a post-replicative state'],69052
-1302,['Highly sodium permeable postsynaptic acetylcholine nicotinic receptors'],629587
-1303,"['Hypusine synthesis from eIF5A-lysine', 'Hypusinylation']",204626
-1304,"['Gamma carboxylation, hypusine formation and arylsulfatase activation']",163841
-1305,['trans-Golgi Network Vesicle Budding'],199992
-1306,['SUMO is conjugated to E1 (UBA2:SAE1)'],3065676
-1307,['tRNA modification in the mitochondrion'],6787450
-1308,['KSRP (KHSRP) binds and destabilizes mRNA'],450604
-1309,"['WNT5A-dependent internalization of FZD2, FZD5 and ROR2']",5140745
-1310,['Sodium/Proton exchangers'],425986
-1311,['Regulation of mRNA stability by proteins that bind AU-rich elements'],450531
-1312,"['Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA']",450513
-1313,['Transcriptional activation of mitochondrial biogenesis'],2151201
-1314,['tRNA modification in the nucleus and cytosol'],6782315
-1315,['IRAK2 mediated activation of TAK1 complex'],937042
-1316,['HuR (ELAVL1) binds and stabilizes mRNA'],450520
-1317,['Signaling by BRAF and RAF fusions'],6802952
-1318,['Processing and activation of SUMO'],3215018
-1319,['SUMO is proteolytically processed'],3065679
-1320,['Insertion of tail-anchored proteins into the endoplasmic reticulum membrane'],9609523
-1321,['CREB1 phosphorylation through the activation of Adenylate Cyclase'],442720
-1322,['O-linked glycosylation'],5173105
-1323,['Defective Mismatch Repair Associated With MSH3'],5632927
-1324,['Regulation of TP53 Activity'],5633007
-1325,['Spry regulation of FGF signaling'],1295596
-1326,"['VLDL assembly', 'VLDL biosynthesis']",8866423
-1327,['Membrane Trafficking'],199991
-1328,['EPHB-mediated forward signaling'],3928662
-1329,['eNOS activation'],203615
-1330,['HIV Life Cycle'],162587
-1331,['Crosslinking of collagen fibrils'],2243919
-1332,['COX reactions'],140180
-1333,['Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2'],5678520
-1334,['Defective LFNG causes SCDO3'],5083630
-1335,['Diseases associated with visual transduction'],2474795
-1336,['Retinoid cycle disease events'],2453864
-1337,['Retinoid metabolism disease events'],6809583
-1338,['Diseases of the neuronal system'],9675143
-1339,['Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding'],6814122
-1340,['NOTCH3 Activation and Transmission of Signal to the Nucleus'],9013507
-1341,['The canonical retinoid cycle in rods (twilight vision)'],2453902
-1342,['Activation of the phototransduction cascade'],2485179
-1343,['The phototransduction cascade'],2514856
-1344,['Retinoid metabolism and transport'],975634
-1345,['Visual phototransduction'],2187338
-1346,['Ephrin signaling'],3928664
-1347,['RUNX3 regulates BCL2L11 (BIM) transcription'],8952158
-1348,"[""S37 mutants of beta-catenin aren't phosphorylated""]",5358749
-1349,['RUNX3 regulates YAP1-mediated transcription'],8951671
-1350,"['Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)']",400511
-1351,"['Incretin synthesis, secretion, and inactivation']",400508
-1352,['Arachidonic acid metabolism'],2142753
-1353,['Activation of gene expression by SREBF (SREBP)'],2426168
-1354,['Defective MPI causes MPI-CDG (CDG-1b)'],4043916
-1355,['HCMV Early Events'],9609690
-1356,['HCMV Late Events'],9610379
-1357,['Resistance of ERBB2 KD mutants to lapatinib'],9665251
-1358,['Resistance of ERBB2 KD mutants to AEE788'],9665250
-1359,['Defective GFPT1 causes CMSTA1'],4085023
-1360,['Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)'],3656244
-1361,['Defective ALG2 causes ALG2-CDG (CDG-1i)'],4549349
-1362,['Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)'],4793953
-1363,['Defective ALG3 causes ALG3-CDG (CDG-1d)'],4720475
-1364,['Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha'],1234176
-1365,['Hereditary fructose intolerance'],5657560
-1366,['Defective CUBN causes hereditary megaloblastic anemia 1'],3359463
-1367,['Defective AMN causes hereditary megaloblastic anemia 1'],3359462
-1368,['Defective TCN2 causes hereditary megaloblastic anemia'],3359454
-1369,['Defective GIF causes intrinsic factor deficiency'],3359457
-1370,['Defective Mismatch Repair Associated With PMS2'],5632987
-1371,"['Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)']",5619110
-1372,['Defective Mismatch Repair Associated With MSH2'],5632928
-1373,['Defective HK1 causes hexokinase deficiency (HK deficiency)'],5619056
-1374,['Defective GSS causes Glutathione synthetase deficiency (GSS deficiency)'],5579006
-1375,['Defective GGT1 causes Glutathionuria (GLUTH)'],9035968
-1376,['Defective GGT1 causes Glutathionuria (GLUTH)'],5579022
-1377,['Defective FMO3 causes Trimethylaminuria (TMAU)'],5579019
-1378,['Defective OPLAH causes 5-oxoprolinase deficiency (OPLAHD)'],5578998
-1379,['Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT)'],5619070
-1380,['Defective UGT1A4 causes hyperbilirubinemia'],5579016
-1381,['Defective UGT1A1 causes hyperbilirubinemia'],5579002
-1382,['Nephrin family interactions'],373753
-1383,['Diseases of glycosylation'],3781865
-1384,['Defective Mismatch Repair Associated With MLH1'],5545483
-1385,['S Phase'],69242
-1386,['Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD)'],5578999
-1387,['Diseases of Cellular Senescence'],9630747
-1388,['Defective CYP27A1 causes Cerebrotendinous xanthomatosis (CTX)'],5578996
-1389,['Binding and Uptake of Ligands by Scavenger Receptors'],2173782
-1390,['Orexin and neuropeptides FF and QRFP bind to their respective receptors'],389397
-1391,['Synthesis of PIPs at the ER membrane'],1483248
-1392,['Norepinephrine Neurotransmitter Release Cycle'],181430
-1393,['Toll Like Receptor TLR1:TLR2 Cascade'],168179
-1394,['IKBKB deficiency causes SCID'],5602636
-1395,['Adaptive Immune System'],1280218
-1396,"['Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2']",5083629
-1397,"['Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3']",5083628
-1398,"['Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1']",5083633
-1399,['Defective GALE can cause Epimerase-deficiency galactosemia (EDG)'],5609977
-1400,"['Plasma lipoprotein assembly, remodeling, and clearance', 'Lipoprotein metabolism']",174824
-1401,['Interleukin-23 signaling'],9020933
-1402,['TBC/RABGAPs'],8854214
-1403,['Defective Base Excision Repair Associated with OGG1'],9656249
-1404,['Signaling by Overexpressed Wild-Type EGFR in Cancer'],5638302
-1405,['STAT5 Activation'],9645135
-1406,['Loss of Function of TGFBR2 in Cancer'],3642278
-1407,['Oncogenic MAPK signaling'],6802957
-1408,['RAS GTPase cycle mutants'],9649913
-1409,['Signaling downstream of RAS mutants'],9649948
-1410,['Regorafenib-resistant PDGFR mutants'],9674403
-1411,['Imatinib-resistant PDGFR mutants'],9674396
-1412,['PDGFR mutants bind TKIs'],9674428
-1413,['FGFR3 mutant receptor activation'],2033514
-1414,['Signaling by activated point mutants of FGFR3'],1839130
-1415,['Signaling by FGFR4 in disease'],5655291
-1416,['FGFR4 mutant receptor activation'],1839128
-1417,['phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex'],4839743
-1418,"[""T41 mutants of beta-catenin aren't phosphorylated""]",5358752
-1419,"['XAV939 inhibits tankyrase, stabilizing AXIN']",5545619
-1420,['APC truncation mutants are not K63 polyubiquitinated'],5467333
-1421,['WNT ligand secretion is abrogated by the PORCN inhibitor LGK974'],5340573
-1422,['Truncations of AMER1 destabilize the destruction complex'],5467348
-1423,['Deletions in the AMER1 gene destabilize the destruction complex'],5467343
-1424,['RNF mutants show enhanced WNT signaling and proliferation'],5340588
-1425,"['AXIN mutants destabilize the destruction complex, activating WNT signaling']",4839735
-1426,['Deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT signaling'],5467345
-1427,['AXIN missense mutants destabilize the destruction complex'],5467340
-1428,['Signaling by ERBB2 ECD mutants'],9665348
-1429,['Drug resistance in ERBB2 TMD/JMD mutants'],9665737
-1430,['Drug resistance in ERBB2 KD mutants'],9665230
-1431,['Resistance of ERBB2 KD mutants to trastuzumab'],9665233
-1432,['Resistance of ERBB2 KD mutants to afatinib'],9665249
-1433,['Resistance of ERBB2 KD mutants to osimertinib'],9665247
-1434,['Resistance of ERBB2 KD mutants to neratinib'],9665246
-1435,['Resistance of ERBB2 KD mutants to tesevatinib'],9665245
-1436,['Resistance of ERBB2 KD mutants to sapitinib'],9665244
-1437,['Signaling by EGFR in Cancer'],1643713
-1438,['Signaling by EGFRvIII in Cancer'],5637812
-1439,['PTEN Loss of Function in Cancer'],5674404
-1440,['Constitutive Signaling by AKT1 E17K in Cancer'],5674400
-1441,['TGFBR2 MSI Frameshift Mutants in Cancer'],3642279
-1442,['Loss of Function of TGFBR1 in Cancer'],3656534
-1443,['TGFBR1 LBD Mutants in Cancer'],3656535
-1444,['TGFBR1 KD Mutants in Cancer'],3656532
-1445,['Defective Intrinsic Pathway for Apoptosis Due to p14ARF Loss of Function'],9645722
-1446,['Defective Mismatch Repair Associated With MSH6'],5632968
-1447,['Defective OGG1 Localization'],9657050
-1448,['Defective OGG1 Substrate Binding'],9656255
-1449,['Defective NTHL1 substrate binding'],9630222
-1450,['Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4'],9632697
-1451,['Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6'],9632700
-1452,['Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4'],9630791
-1453,['Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6'],9630794
-1454,['Misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling'],5339717
-1455,['Signaling by PDGF'],186797
-1456,"['Base-Excision Repair, AP Site Formation']",73929
-1457,['Energy dependent regulation of mTOR by LKB1-AMPK'],380972
-1458,['Trafficking of GluR2-containing AMPA receptors'],416993
-1459,['Formation of Incision Complex in GG-NER'],5696395
-1460,['Mitochondrial transcription initiation'],163282
-1461,['Vitamin B1 (thiamin) metabolism'],196819
-1462,['BDNF activates NTRK2 (TRKB) signaling'],9024909
-1463,['Activated NTRK2 signals through FRS2 and FRS3'],9028731
-1464,['NTF3 activates NTRK2 (TRKB) signaling'],9025046
-1465,['Synthesis of bile acids and bile salts via 24-hydroxycholesterol'],193775
-1466,['Activated NTRK3 signals through PLCG1'],9034793
-1467,['P2Y receptors'],417957
-1468,['Abacavir transmembrane transport'],2161517
-1469,['RSK activation'],444257
-1470,['SHC-related events triggered by IGF1R'],2428933
-1471,['IRS-related events triggered by IGF1R'],2428928
-1472,['IGF1R signaling cascade'],2428924
-1473,['Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)'],2404192
-1474,['Acyl chain remodelling of PE'],1482839
-1475,['Acyl chain remodelling of PS'],1482801
-1476,['Acyl chain remodelling of PC'],1482788
-1477,['Acyl chain remodelling of PG'],1482925
-1478,['DCC mediated attractive signaling'],418885
-1479,['Metal ion SLC transporters'],425410
-1480,"['TET1,2,3 and TDG demethylate DNA', 'Active DNA Demethylation by TET1,2,3', 'Oxidative demethylation of DNA']",5221030
-1481,['Reelin signalling pathway'],8866376
-1482,['Histidine catabolism'],70921
-1483,['Agmatine biosynthesis'],351143
-1484,['Serine biosynthesis'],977347
-1485,['Nervous system development'],9675108
-1486,['Creatine metabolism'],71288
-1487,['ROBO receptors bind AKAP5'],9010642
-1488,"[""Hh mutants that don't undergo autocatalytic processing are degraded by ERAD""]",5362768
-1489,['Pervasive developmental disorders'],9005895
-1490,['Carnitine synthesis'],71262
-1491,['FGFR2 ligand binding and activation'],190241
-1492,['Hh mutants abrogate ligand secretion'],5387390
-1493,['DARPP-32 events'],180024
-1494,['Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1)'],5619043
-1495,"['Cobalamin (Cbl, vitamin B12) transport and metabolism']",196741
-1496,['Receptor Mediated Mitophagy'],8934903
-1497,['Cellular responses to stress'],2262752
-1498,['Cellular responses to external stimuli'],8953897
-1499,['Lipid particle organization'],8964572
-1500,['Cytosolic tRNA aminoacylation'],379716
-1501,['RUNX2 regulates genes involved in differentiation of myeloid cells'],8941333
-1502,['RUNX1 regulates transcription of genes involved in differentiation of myeloid cells'],8939246
-1503,['Vasopressin-like receptors'],388479
-1504,['Regulation of thyroid hormone activity'],350864
-1505,['Signaling by Activin'],1502540
-1506,['Zinc efflux and compartmentalization by the SLC30 family'],435368
-1507,['ER-Phagosome pathway'],1236974
-1508,['PIPs transport between early and late endosome membranes'],1660502
-1509,['COPI-mediated anterograde transport'],6807878
-1510,['COPII-mediated vesicle transport'],204005
-1511,['Transfer of LPS from LBP carrier to CD14'],166020
-1512,['Uptake and actions of bacterial toxins'],5339562
-1513,"['Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2']",964827
-1514,['MET receptor recycling'],8875656
-1515,['Transport of connexins along the secretory pathway'],190827
-1516,['PI Metabolism'],1483255
-1517,['Intra-Golgi traffic'],6811438
-1518,['NOTCH2 intracellular domain regulates transcription'],2197563
-1519,"['Metabolism of nucleotides', 'Nucleotide metabolism']",15869
-1520,['RHO GTPases Activate Formins'],5663220
-1521,['Nitric oxide stimulates guanylate cyclase'],392154
-1522,['Budding and maturation of HIV virion'],162588
-1523,['DNA strand elongation'],69190
-1524,['ARMS-mediated activation'],170984
-1525,['Defective SLC29A3 causes histiocytosis-lymphadenopathy plus syndrome (HLAS)'],5619063
-1526,['Resolution of Sister Chromatid Cohesion'],2500257
-1527,['Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3'],5625886
-1528,['CaM pathway'],111997
-1529,['Loss of function of MECP2 in Rett syndrome'],9005891
-1530,['Formation of the beta-catenin:TCF transactivating complex'],201722
-1531,['RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)'],8877330
-1532,['Negative regulation of NMDA receptor-mediated neuronal transmission'],9617324
-1533,['Axonal growth stimulation'],209563
-1534,['Reduction of cytosolic Ca++ levels'],418359
-1535,['Rap1 signalling'],392517
-1536,['Defective PGM1 causes PGM1-CDG (CDG1t)'],5609974
-1537,['IPs transport between nucleus and ER lumen'],1855192
-1538,['Defective BTD causes biotidinase deficiency'],3371598
-1539,['IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation'],975163
-1540,"['Defective CHSY1 causes TPBS', 'Defective CHSY1 causes temtamy preaxial brachydactyly syndrome']",3595177
-1541,['Defective ALG6 causes ALG6-CDG (CDG-1c)'],4724289
-1542,['Glucagon-like Peptide-1 (GLP1) regulates insulin secretion'],381676
-1543,['Peptide ligand-binding receptors'],375276
-1544,['SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription'],2173796
-1545,['Translocation of ZAP-70 to Immunological synapse'],202430
-1546,['NCAM1 interactions'],419037
-1547,['Signalling to ERKs'],187687
-1548,['Other interleukin signaling'],449836
-1549,['Metabolism of polyamines'],351202
-1550,['Role of ABL in ROBO-SLIT signaling'],428890
-1551,['The activation of arylsulfatases'],1663150
-1552,['RNA Polymerase III Transcription Initiation From Type 2 Promoter'],76066
-1553,"['Signaling by Interleukins', 'Signaling by Interleukins and related cytokines']",449147
-1554,['CREB phosphorylation'],199920
-1555,['Defective PMM2 causes PMM2-CDG (CDG-1a)'],4043911
-1556,['Invadopodia formation'],8941237
-1557,['Prolonged ERK activation events'],169893
-1558,['TCR signaling'],202403
-1559,['DAP12 interactions'],2172127
-1560,['Degradation of GLI2 by the proteasome'],5610783
-1561,['APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1'],174178
-1562,['Regulation of PTEN stability and activity'],8948751
-1563,['Cytosolic sensors of pathogen-associated DNA '],1834949
-1564,['The NLRP3 inflammasome'],844456
-1565,['Receptor-type tyrosine-protein phosphatases'],388844
-1566,['LGI-ADAM interactions'],5682910
-1567,['Toxicity of botulinum toxin type B (BoNT/B)'],5250958
-1568,['IkBA variant leads to EDA-ID'],5603029
-1569,['Factors involved in megakaryocyte development and platelet production'],983231
-1570,['RET signaling'],8853659
-1571,['Defective ABCC6 causes pseudoxanthoma elasticum (PXE)'],5690338
-1572,['VLDL clearance'],8964046
-1573,['Regulation of Glucokinase by Glucokinase Regulatory Protein'],170822
-1574,"['NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis', 'LXRs regulate gene expression to control bile acid homeostasis']",9623433
-1575,['ChREBP activates metabolic gene expression'],163765
-1576,['Vitamin E'],8877627
-1577,['Chylomicron clearance'],8964026
-1578,['Heme biosynthesis'],189451
-1579,['Essential fructosuria'],5657562
-1580,['Essential pentosuria'],5662853
-1581,['MET interacts with TNS proteins'],8875513
-1582,['Recruitment of NuMA to mitotic centrosomes'],380320
-1583,['Potassium transport channels'],1296067
-1584,['TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling'],975110
-1585,['Leading Strand Synthesis'],69109
-1586,['TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation'],975138
-1587,"['TICAM1, RIP1-mediated IKK complex recruitment']",168927
-1588,['RNA Polymerase I Promoter Escape'],73772
-1589,['RUNX2 regulates bone development'],8941326
-1590,['PI and PC transport between ER and Golgi membranes'],1483196
-1591,['Cristae formation'],8949613
-1592,['COPI-dependent Golgi-to-ER retrograde traffic'],6811434
-1593,['Activated NTRK3 signals through PI3K'],9603381
-1594,['NOTCH2 Activation and Transmission of Signal to the Nucleus'],2979096
-1595,['MET promotes cell motility'],8875878
-1596,['Translesion synthesis by REV1'],110312
-1597,['Mitotic G1 phase and G1/S transition'],453279
-1598,['FGFR1c and Klotho ligand binding and activation'],190374
-1599,['Activation of RAC1'],428540
-1600,['Biotin transport and metabolism'],196780
-1601,['Ion influx/efflux at host-pathogen interface'],6803544
-1602,"['DDX58/IFIH1-mediated induction of interferon-alpha/beta', 'RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways']",168928
-1603,['Choline catabolism'],6798163
-1604,['Nicotinate metabolism'],196807
-1605,['Phenylalanine and tyrosine metabolism'],8963691
-1606,['PLC-gamma1 signalling'],167021
-1607,['APC/C:Cdc20 mediated degradation of mitotic proteins'],176409
-1608,['Defects in vitamin and cofactor metabolism'],3296482
-1609,['Metabolism of folate and pterines'],196757
-1610,['Vitamin B2 (riboflavin) metabolism'],196843
-1611,['Ca-dependent events'],111996
-1612,['Sodium-coupled phosphate cotransporters'],427652
-1613,['Diseases of metabolism'],5668914
-1614,['TYSND1 cleaves peroxisomal proteins'],9033500
-1615,['Role of phospholipids in phagocytosis'],2029485
-1616,['Interleukin-9 signaling'],8985947
-1617,['The NLRP1 inflammasome'],844455
-1618,['Signaling by NODAL'],1181150
-1619,['SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes '],111464
-1620,['EPH-ephrin mediated repulsion of cells'],3928665
-1621,['The role of Nef in HIV-1 replication and disease pathogenesis'],164952
-1622,['GPVI-mediated activation cascade'],114604
-1623,['Metabolism'],1430728
-1624,['Selenoamino acid metabolism'],2408522
-1625,['EGFR downregulation'],182971
-1626,['NOD1/2 Signaling Pathway'],168638
-1627,['Inflammasomes'],622312
-1628,['Orc1 removal from chromatin'],68949
-1629,['Activation of PPARGC1A (PGC-1alpha) by phosphorylation'],2151209
-1630,['Recruitment of mitotic centrosome proteins and complexes'],380270
-1631,['Centrosome maturation'],380287
-1632,['Glyoxylate metabolism and glycine degradation'],389661
-1633,['GAB1 signalosome'],180292
-1634,['Organic anion transporters'],428643
-1635,['Erythropoietin activates STAT5'],9027283
-1636,['TICAM1 deficiency - HSE'],5602566
-1637,['Trafficking of myristoylated proteins to the cilium'],5624138
-1638,['Thyroxine biosynthesis'],209968
-1639,['Synthesis of PIPs at the late endosome membrane'],1660517
-1640,['mRNA Splicing'],72172
-1641,['Uncoating of the HIV Virion'],162585
-1642,['Lysosphingolipid and LPA receptors'],419408
-1643,['Tight junction interactions'],420029
-1644,['CLEC7A/inflammasome pathway'],5660668
-1645,['GPCR downstream signalling'],388396
-1646,['Tandem pore domain potassium channels'],1296346
-1647,['EPHA-mediated growth cone collapse'],3928663
-1648,['Biosynthesis of DPAn-3-derived maresins'],9026290
-1649,['Biosynthesis of DPAn-3-derived protectins and resolvins'],9026286
-1650,['ADORA2B mediated anti-inflammatory cytokines production'],9660821
-1651,['BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members'],111453
-1652,['ISG15 antiviral mechanism'],1169408
-1653,['Classical antibody-mediated complement activation'],173623
-1654,['Antiviral mechanism by IFN-stimulated genes'],1169410
-1655,['Biosynthesis of DPAn-3 SPMs'],9025094
-1656,['Synthesis of Lipoxins (LX)'],2142700
-1657,['Interleukin-6 family signaling'],6783589
-1658,['Interleukin-6 signaling'],1059683
+58,['Phase 4 - resting membrane potential'],5576886
+59,['Classical Kir channels'],1296053
+60,['Regulation of cortical dendrite branching'],8985801
+61,['Formation of the cornified envelope'],6809371
+62,['TWIK-related spinal cord K+ channel (TRESK)'],1299344
+63,['Defective CYP11B2 causes Corticosterone methyloxidase 1 deficiency (CMO-1 deficiency)'],5579009
+64,['NR1D1 (REV-ERBA) represses gene expression'],1368071
+65,['Notch-HLH transcription pathway'],350054
+66,['Nuclear Receptor transcription pathway'],383280
+67,['Dissolution of Fibrin Clot'],75205
+68,['Defective ABCG5 causes sitosterolemia'],5679096
+69,['Defective ABCG8 causes gallbladder disease 4 and sitosterolemia'],5679090
+70,['Cell surface interactions at the vascular wall'],202733
+71,['RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known'],8939243
+72,"['Hemostasis', 'Blood coagulation']",109582
+73,['Formation of Fibrin Clot (Clotting Cascade)'],140877
+74,['Common Pathway of Fibrin Clot Formation'],140875
+75,"['Signaling by VEGF', 'Signaling by Vascular Epithelial Growth Factors (VEGF)']",194138
+76,"['Extrinsic Pathway of Fibrin Clot Formation', 'Generation of extrinsic Factor X activating complex']",140834
+77,['Signaling by NOTCH4'],9013694
+78,['Defective CYP26B1 causes Radiohumeral fusions with other skeletal and craniofacial anomalies (RHFCA)'],5579015
+79,"['Defective CHSY1 causes TPBS', 'Defective CHSY1 causes temtamy preaxial brachydactyly syndrome']",3595177
+80,['Defective LARGE causes MDDGA6 and MDDGB6'],5083627
+81,['Defective SLC7A7 causes lysinuric protein intolerance (LPI)'],5660862
+82,['RSK activation'],444257
+83,['MPS VII - Sly syndrome'],2206292
+84,['t(4;14) translocations of FGFR3'],2033515
+85,['Depolymerisation of the Nuclear Lamina'],4419969
+86,['Initiation of Nuclear Envelope (NE) Reformation'],2995383
+87,['Smooth Muscle Contraction'],445355
+88,['Defective CYP1B1 causes Glaucoma'],5579000
+89,['Elastic fibre formation'],1566948
+90,['Defective ABCC8 can cause hypoglycemias and hyperglycemias'],5683177
+91,['Leishmania parasite growth and survival'],9664433
+92,['Cellular Senescence'],2559583
+93,['Assembly of the pre-replicative complex'],68867
+94,['Resolution of Sister Chromatid Cohesion'],2500257
+95,['Senescence-Associated Secretory Phenotype (SASP)'],2559582
+96,['Activation of ATR in response to replication stress'],176187
+97,['VEGFR2 mediated vascular permeability'],5218920
+98,['Infection with Mycobacterium tuberculosis'],9635486
+99,['Defective AVP does not bind AVPR2 and causes neurohypophyseal diabetes insipidus (NDI)'],9036092
+100,"['Defective AVP does not bind AVPR1A,B and causes neurohypophyseal diabetes insipidus (NDI)']",5619099
+101,['DNA Damage/Telomere Stress Induced Senescence'],2559586
+102,['TNFR1-induced NFkappaB signaling pathway'],5357956
+103,['Phase 3 - rapid repolarisation'],5576890
+104,"['Synthesis, secretion, and deacylation of Ghrelin']",422085
+105,['RNA polymerase II transcribes snRNA genes'],6807505
+106,['PIWI-interacting RNA (piRNA) biogenesis'],5601884
+107,['Glycosaminoglycan metabolism'],1630316
+108,['VEGFA-VEGFR2 Pathway'],4420097
+109,['Plasma lipoprotein remodeling'],8963899
+110,['Signal amplification'],392518
+111,['MPS VI - Maroteaux-Lamy syndrome'],2206285
+112,"['Plasma lipoprotein assembly, remodeling, and clearance', 'Lipoprotein metabolism']",174824
+113,['Toll Like Receptor 4 (TLR4) Cascade'],166016
+114,['Metabolism of nitric oxide: eNOS activation and regulation'],202131
+115,['Signaling by ROBO receptors'],376176
+116,['Collagen formation'],1474290
+117,['cGMP effects'],418457
+118,['TAK1 activates NFkB by phosphorylation and activation of IKKs complex'],445989
+119,['activated TAK1 mediates p38 MAPK activation'],450302
+120,['Signaling by BRAF and RAF fusions'],6802952
+121,['NOTCH3 Activation and Transmission of Signal to the Nucleus'],9013507
+122,['Defective SLC2A10 causes arterial tortuosity syndrome (ATS)'],5619068
+123,['VEGF binds to VEGFR leading to receptor dimerization'],195399
+124,['VEGF ligand-receptor interactions'],194313
+125,['VEGFR2 mediated cell proliferation'],5218921
+126,"['Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation']",1474151
+127,['Syndecan interactions'],3000170
+128,['Negative regulation of NOTCH4 signaling'],9604323
+129,['Detoxification of Reactive Oxygen Species'],3299685
+130,"['Ca2+ activated K+ channels', 'Ca activated K+ channels']",1296052
+131,['NOTCH4 Intracellular Domain Regulates Transcription'],9013695
+132,['RHO GTPases Activate NADPH Oxidases'],5668599
+133,['STING mediated induction of host immune responses'],1834941
+134,"['Signal Transduction', 'Signaling Pathways']",162582
+135,['Signaling by NOTCH3'],9012852
+136,['NOTCH1 Intracellular Domain Regulates Transcription'],2122947
+137,['Drug-mediated inhibition of ERBB2 signaling'],9652282
+138,['Platelet homeostasis'],418346
+139,['Signaling by PTK6'],8848021
+140,['Platelet Aggregation (Plug Formation)'],76009
+141,['Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1)'],5619111
+142,['Nucleotide-like (purinergic) receptors'],418038
+143,['Prostacyclin signalling through prostacyclin receptor'],392851
+144,['ATP sensitive Potassium channels'],1296025
+145,['Signaling by NOTCH1'],1980143
+146,['Neddylation'],8951664
+147,['Biosynthesis of maresins'],9018682
+148,['PECAM1 interactions'],210990
+149,['Defective TBXAS1 causes Ghosal hematodiaphyseal dysplasia (GHDD)'],5579032
+150,['Synthesis of Leukotrienes (LT) and Eoxins (EX)'],2142691
+151,['Hyaluronan uptake and degradation'],2160916
+152,['NOTCH4 Activation and Transmission of Signal to the Nucleus'],9013700
+153,['Signaling by PDGFR in disease'],9671555
+154,['Platelet degranulation '],114608
+155,['Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell'],198933
+156,['Biosynthesis of DPAn-3-derived 13-series resolvins'],9026403
+157,['Integrin signaling'],354192
+158,['Platelet Adhesion to exposed collagen'],75892
+159,['Activation of the TFAP2 (AP-2) family of transcription factors'],8866907
+160,['Cohesin Loading onto Chromatin'],2470946
+161,['Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M)'],5619072
+162,['Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)'],5655799
+163,"['Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)']",5619048
+164,['Complement cascade'],166658
+165,['Crosslinking of collagen fibrils'],2243919
+166,['NOTCH3 Intracellular Domain Regulates Transcription'],9013508
+167,['Signaling by cytosolic FGFR1 fusion mutants'],1839117
+168,['Suppression of phagosomal maturation'],9637687
+169,['Escape of Mtb from the phagocyte'],9637679
+170,['Phagocyte cell death caused by cytosolic Mtb'],9637698
+171,['Suppression of apoptosis'],9635465
+172,['Prevention of phagosomal-lysosomal fusion'],9636383
+173,['Tolerance of reactive oxygen produced by macrophages'],1222387
+174,['Blockage of phagosome acidification'],9636467
+175,['Response of Mtb to phagocytosis'],9637690
+176,['Cell redox homeostasis'],1222541
+177,['Manipulation of host energy metabolism'],9636667
+178,['Inhibition of membrane repair'],9635644
+179,['Modulation by Mtb of host immune system'],9637628
+180,['Inhibition of nitric oxide production'],9636249
+181,['Antimicrobial action and antimicrobial resistance in Mtb'],9639775
+182,['Latent infection - Other responses of Mtb to phagocytosis'],1222499
+183,['Mtb iron assimilation by chelation'],1222449
+184,['Tolerance by Mtb to nitric oxide produced by macrophages'],1222538
+185,['Suppression of autophagy'],9636569
+186,['Infectious disease'],5663205
+187,['CD209 (DC-SIGN) signaling'],5621575
+188,['C-type lectin receptors (CLRs)'],5621481
+189,['Purinergic signaling in leishmaniasis infection'],9660826
+190,['Disease'],1643685
+191,['Phase 2 - plateau phase'],5576893
+192,['Phase 1 - inactivation of fast Na+ channels'],5576894
+193,['Phase 0 - rapid depolarisation'],5576892
+194,"['Glycogen storage disease type 0 (muscle GYS1)', 'GSD 0 (muscle)']",3828062
+195,['Potassium Channels'],1296071
+196,['Inwardly rectifying K+ channels'],1296065
+197,['Ketone body metabolism'],74182
+198,['Assembly of active LPL and LIPC lipase complexes'],8963889
+199,['Growth hormone receptor signaling'],982772
+200,['Triglyceride metabolism'],8979227
+201,['Transport of inorganic cations/anions and amino acids/oligopeptides'],425393
+202,"['Triglyceride catabolism', 'Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis']",163560
+203,['Activated NOTCH1 Transmits Signal to the Nucleus'],2122948
+204,['Regulation of TP53 Activity through Methylation'],6804760
+205,['O-glycosylation of TSR domain-containing proteins'],5173214
+206,['Deactivation of the beta-catenin transactivating complex'],3769402
+207,['Formation of Senescence-Associated Heterochromatin Foci (SAHF)'],2559584
+208,['Activation of BMF and translocation to mitochondria'],139910
+209,['Activation of BH3-only proteins'],114452
+210,"['Activation, myristolyation of BID and translocation to mitochondria', 'Activation of BID and translocation to mitochondria']",75108
+211,['Apoptosis'],109581
+212,['Regulation of TP53 Activity through Phosphorylation'],6804756
+213,['Diseases of cellular response to stress'],9675132
+214,"['Formation of the ternary complex, and subsequently, the 43S complex']",72695
+215,['Extracellular matrix organization'],1474244
+216,['Branched-chain amino acid catabolism'],70895
+217,['Signalling to p38 via RIT and RIN'],187706
+218,['MECP2 regulates transcription of neuronal ligands'],9022702
+219,['Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells'],210744
+220,['ATF4 activates genes in response to endoplasmic reticulum  stress'],380994
+221,['Glycogen breakdown (glycogenolysis)'],70221
+222,"['Pentose phosphate pathway', 'Pentose phosphate pathway (hexose monophosphate shunt)']",71336
+223,['Defective MGAT2 causes MGAT2-CDG (CDG-2a)'],4793952
+224,"['Glycogen storage disease type IV (GBE1)', 'GSD IV', 'Andersen Disease']",3878781
+225,['Keratinization'],6805567
+226,['Glycogen metabolism'],8982491
+227,['Binding and entry of HIV virion'],173107
+228,['ER Quality Control Compartment (ERQC)'],901032
+229,['Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol'],193368
+230,['PCNA-Dependent Long Patch Base Excision Repair'],5651801
+231,['Biosynthesis of DPA-derived SPMs'],9018683
+232,['Nonsense-Mediated Decay (NMD)'],927802
+233,['Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)'],975957
+234,['Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)'],975956
+235,['Beta-catenin phosphorylation cascade'],196299
+236,['Oxidative Stress Induced Senescence'],2559580
+237,['FOXO-mediated transcription of cell cycle genes'],9617828
+238,"[""S45 mutants of beta-catenin aren't phosphorylated""]",5358751
+239,['Defects in cobalamin (B12) metabolism'],3296469
+240,['Defective Base Excision Repair Associated with NEIL1'],9616334
+241,['SUMO E3 ligases SUMOylate target proteins'],3108232
+242,['Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA'],428359
+243,['Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA'],450385
+244,['Extension of Telomeres'],180786
+245,['ERBB2 Activates PTK6 Signaling'],8847993
+246,['Estrogen-dependent nuclear events downstream of ESR-membrane signaling'],9634638
+247,['SUMOylation of intracellular receptors'],4090294
+248,"['Ethanol oxidation', 'Alcohol catabolism']",71384
+249,['Extra-nuclear estrogen signaling'],9009391
+250,"['Telomere Maintenance', 'Maintenance of Telomeres']",157579
+251,['PTK6 Expression'],8849473
+252,"['PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases']",8849471
+253,['PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1'],8849469
+254,"['Regulation of glycolysis by fructose 2,6-bisphosphate metabolism']",9634600
+255,['Nonhomologous End-Joining (NHEJ)'],5693571
+256,['MET activates STAT3'],8875791
+257,['Telomere C-strand (Lagging Strand) Synthesis'],174417
+258,['Telomere Extension By Telomerase'],171319
+259,['Packaging Of Telomere Ends'],171306
+260,['WNT5:FZD7-mediated leishmania damping'],9673324
+261,['Scavenging of heme from plasma'],2168880
+262,['Binding and Uptake of Ligands by Scavenger Receptors'],2173782
+263,['Defective Base Excision Repair Associated with MUTYH'],9605310
+264,['Condensation of Prometaphase Chromosomes'],2514853
+265,['NCAM1 interactions'],419037
+266,['Neutrophil degranulation'],6798695
+267,['Regulation of MECP2 expression and activity'],9022692
+268,['Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)'],5083625
+269,['Defective GALNT12 causes colorectal cancer 1 (CRCS1)'],5083636
+270,['Defective Base Excision Repair Associated with NTHL1'],9616333
+271,['Defective NTHL1 substrate binding'],9630222
+272,['Vasopressin regulates renal water homeostasis via Aquaporins'],432040
+273,['Termination of translesion DNA synthesis'],5656169
+274,['Aquaporin-mediated transport'],445717
+275,['Passive transport by Aquaporins'],432047
+276,['Laminin interactions'],3000157
+277,['Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)'],5619049
+278,['MAP2K and MAPK activation'],5674135
+279,['Negative regulation of MAPK pathway'],5675221
+280,['RAF activation'],5673000
+281,['Anti-inflammatory response favouring Leishmania parasite infection'],9662851
+282,"['MAPK1/MAPK3 signaling', 'ERK1/ERK2 pathway']",5684996
+283,['Synthesis of IPs in the ER lumen'],1855231
+284,['IPs transport between ER lumen and cytosol'],1855215
+285,['IPs transport between ER lumen and nucleus'],1855156
+286,['IPs transport between cytosol and ER lumen'],1855184
+287,['Lipophagy'],9613354
+288,['VxPx cargo-targeting to cilium'],5620916
+289,['Regulation of PTEN gene transcription'],8943724
+290,['PTEN Regulation'],6807070
+291,['Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)'],5693554
+292,['Signaling by moderate kinase activity BRAF mutants'],6802946
+293,['Ligand-receptor interactions'],5632681
+294,['Transcriptional regulation of pluripotent stem cells'],452723
+295,['Transcriptional regulation of granulopoiesis'],9616222
+296,['Signaling by ERBB2 KD Mutants'],9664565
+297,['Signaling by TGF-beta Receptor Complex in Cancer'],3304351
+298,['Loss of Function of SMAD4 in Cancer'],3304347
+299,['SMAD4 MH2 Domain Mutants in Cancer'],3311021
+300,['Loss of Function of SMAD2/3 in Cancer'],3304349
+301,['SMAD2/3 Phosphorylation Motif Mutants in Cancer'],3304356
+302,['SMAD2/3 MH2 Domain Mutants in Cancer'],3315487
+303,"['Defective EXT1 causes exostoses 1, TRPS2 and CHDS']",3656253
+304,['Defective EXT2 causes exostoses 2'],3656237
+305,['Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate'],2978092
+306,['Interconversion of 2-oxoglutarate and 2-hydroxyglutarate'],880009
+307,['TNFR1-induced proapoptotic signaling'],5357786
+308,['TNF signaling'],75893
+309,['TP53 Regulates Metabolic Genes'],5628897
+310,['Rhesus blood group biosynthesis'],9037628
+311,['Protein repair'],5676934
+312,['Regulation of TP53 Degradation'],6804757
+313,['Oncogene Induced Senescence'],2559585
+314,['Regulation of TP53 Expression and Degradation'],6806003
+315,['TP53 Regulates Transcription of Cell Death Genes'],5633008
+316,['TP53 Regulates Transcription of Cell Cycle Genes'],6791312
+317,['Response of EIF2AK1 (HRI) to heme deficiency'],9648895
+318,"['POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation']",2892245
+319,"['POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation']",2892247
+320,['Transcriptional regulation by RUNX3'],8878159
+321,['Signaling by cytosolic PDGFRA and PDGFRB fusion proteins'],9673766
+322,['Signaling by PDGFRA extracellular domain mutants'],9673770
+323,['Signaling by membrane-tethered fusions of PDGFRA or PDGFRB'],9673768
+324,['Signaling by Ligand-Responsive EGFR Variants in Cancer'],5637815
+325,['Programmed Cell Death'],5357801
+326,['Intracellular signaling by second messengers'],9006925
+327,['Events associated with phagocytolytic activity of PMN cells'],8941413
+328,['ROS and RNS production in phagocytes'],1222556
+329,['Defective SLC6A2 causes orthostatic intolerance (OI)'],5619109
+330,['Signaling by NODAL'],1181150
+331,['Regulation of signaling by NODAL'],1433617
+332,['Developmental Biology'],1266738
+333,['Cilium Assembly'],5617833
+334,['Degradation of GLI1 by the proteasome'],5610780
+335,['Cyclin A:Cdk2-associated events at S phase entry'],69656
+336,['GLI proteins bind promoters of Hh responsive genes to promote transcription'],5635851
+337,['Interaction between PHLDA1 and AURKA'],8854521
+338,['Transcriptional regulation of white adipocyte differentiation'],381340
+339,['Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects'],9632693
+340,['Nef mediated downregulation of CD28 cell surface expression'],164939
+341,['Cyclin E associated events during G1/S transition '],69202
+342,['Nef Mediated CD8 Down-regulation'],182218
+343,['Evasion of Oncogene Induced Senescence Due to p16INK4A Defects'],9630750
+344,['Circadian Clock'],400253
+345,['Activated point mutants of FGFR2'],2033519
+346,['Signaling by activated point mutants of FGFR1'],1839122
+347,['Signaling by FGFR3 point mutants in cancer'],8853338
+348,['Signaling by activated point mutants of FGFR3'],1839130
+349,['Methylation'],156581
+350,"['Defective SLCO2A1 causes primary, autosomal recessive hypertrophic osteoarthropathy 2 (PHOAR2)']",5619095
+351,['RUNX2 regulates chondrocyte maturation'],8941284
+352,['RUNX2 regulates bone development'],8941326
+353,['Transcriptional regulation by RUNX2'],8878166
+354,['Biosynthesis of maresin-like SPMs'],9027307
+355,['Fructose biosynthesis'],5652227
+356,['Fructose metabolism'],5652084
+357,['Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion'],434316
+358,['Signaling by Leptin'],2586552
+359,['Defective CFTR causes cystic fibrosis'],5678895
+360,['Defective SFTPA2 causes idiopathic pulmonary fibrosis (IPF)'],5687868
+361,['RHO GTPases regulate CFTR trafficking'],5627083
+362,['MECP2 regulates transcription factors'],9022707
+363,['Defective MPI causes MPI-CDG (CDG-1b)'],4043916
+364,['Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2'],5678520
+365,['Signaling by MET'],6806834
+366,['RHO GTPase Effectors'],195258
+367,['Signaling by ERBB4'],1236394
+368,['Uptake and function of anthrax toxins'],5210891
+369,['Biosynthesis of DHA-derived SPMs'],9018677
+370,['Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant'],2660825
+371,['Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant'],2660826
+372,['Loss of Function of TGFBR2 in Cancer'],3642278
+373,['RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function'],8936459
+374,['Signaling by NOTCH1 in Cancer'],2644603
+375,['Diseases of metabolism'],5668914
+376,['HDR through MMEJ (alt-NHEJ)'],5685939
+377,"['Defective CYP11A1 causes Adrenal insufficiency, congenital, with 46,XY sex reversal (AICSR)']",5579026
+378,['Defective ACTH causes Obesity and Pro-opiomelanocortinin deficiency (POMCD)'],5579031
+379,"[""Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models""]",8862803
+380,['Nitric oxide stimulates guanylate cyclase'],392154
+381,['NrCAM interactions'],447038
+382,['GLI3 is processed to GLI3R by the proteasome'],5610785
+383,['Activation of HOX genes during differentiation'],5619507
+384,['Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)'],5658471
+385,['Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A)'],5619114
+386,['Defective B3GALTL causes Peters-plus syndrome (PpS)'],5083635
+387,"['Defective GNE causes sialuria, Nonaka myopathy and inclusion body myopathy 2']",4085011
+388,['Prolactin receptor signaling'],1170546
+389,['Elevation of cytosolic Ca2+ levels'],139853
+390,['Platelet calcium homeostasis'],418360
+391,['CaMK IV-mediated phosphorylation of CREB'],111932
+392,['FCERI mediated Ca+2 mobilization'],2871809
+393,"['NR1H2 and NR1H3-mediated signaling', 'LXR-mediated signaling']",9024446
+394,['Interleukin-15 signaling'],8983432
+395,['COX reactions'],140180
+396,['mRNA Editing'],75072
+397,['Mitochondrial translation'],5368287
+398,['Defective SLC2A9 causes hypouricemia renal 2 (RHUC2)'],5619047
+399,['Heme biosynthesis'],189451
+400,"['Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)', 'Regulation of IGF Activity by IGFBP']",381426
+401,['Fcgamma receptor (FCGR) dependent phagocytosis'],2029480
+402,['Regulation of gap junction activity'],191650
+403,['RHO GTPases activate PKNs'],5625740
+404,['Estrogen-dependent gene expression'],9018519
+405,"['Defective CHST3 causes SEDCJD', 'Defective CHST3 causes spondyloepiphyseal dysplasia with congenital joint dislocations']",3595172
+406,['Defective LFNG causes SCDO3'],5083630
+407,['Activation of gene expression by SREBF (SREBP)'],2426168
+408,['TRIF-mediated programmed cell death'],2562578
+409,['TLR3-mediated TICAM1-dependent programmed cell death'],9013957
+410,['Regulation of cholesterol biosynthesis by SREBP (SREBF)'],1655829
+411,['DNA methylation'],5334118
+412,['RAF/MAP kinase cascade'],5673001
+413,['Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks'],5693565
+414,['Signaling by high-kinase activity BRAF mutants'],6802948
+415,['TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest'],6804114
+416,['Interleukin-1 signaling'],9020702
+417,['Noncanonical activation of NOTCH3'],9017802
+418,['Killing mechanisms'],9664420
+419,['Signaling by FGFR1 in disease'],5655302
+420,['Signaling by FGFR1 amplification mutants'],1839120
+421,"['Defective CYP24A1 causes Hypercalcemia, infantile (HCAI)']",5579010
+422,['MPS IIIA - Sanfilippo syndrome A'],2206307
+423,['Insertion of tail-anchored proteins into the endoplasmic reticulum membrane'],9609523
+424,"['Alpha-protein kinase 1 signaling pathway', 'ALPK1 signaling pathway']",9645460
+425,['Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha'],1234176
+426,['HDL assembly'],8963896
+427,['Synthesis of bile acids and bile salts via 27-hydroxycholesterol'],193807
+428,['ABC transporters in lipid homeostasis'],1369062
+429,['HDL remodeling'],8964058
+430,['Diseases of Cellular Senescence'],9630747
+431,['Defective CYP27A1 causes Cerebrotendinous xanthomatosis (CTX)'],5578996
+432,['Regulation of TLR by endogenous ligand'],5686938
+433,['Activation of Matrix Metalloproteinases'],1592389
+434,['Advanced glycosylation endproduct receptor signaling'],879415
+435,['Defective Base Excision Repair Associated with OGG1'],9656249
+436,['Defective OGG1 Substrate Processing'],9656256
+437,['NFG and proNGF binds to p75NTR'],205017
+438,"['Defective HEXA causes GM2G1', 'Defective HEXA causes GM2-gangliosidosis 1']",3656234
+439,['Neurodegenerative Diseases'],8863678
+440,['Signaling by PDGF'],186797
+441,['Postsynaptic nicotinic acetylcholine receptors'],622327
+442,['Defective SLC1A3 causes episodic ataxia 6 (EA6)'],5619062
+443,['Acetylcholine binding and downstream events'],181431
+444,['Gap junction assembly'],190861
+445,['Meiotic synapsis'],1221632
+446,['Release of Hh-Np from the secreting cell'],5362798
+447,"['Signaling by NOTCH', 'NOTCH Signaling Pathway']",157118
+448,['Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT)'],5619070
+449,['Gap junction trafficking'],190828
+450,['Transcriptional regulation by RUNX1'],8878171
+451,['Collagen biosynthesis and modifying enzymes'],1650814
+452,['Synthesis of bile acids and bile salts via 24-hydroxycholesterol'],193775
+453,['Defective ABCD1 causes adrenoleukodystrophy (ALD)'],5684045
+454,['Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)'],5619067
+455,['RUNX2 regulates genes involved in cell migration'],8941332
+456,['Vasopressin-like receptors'],388479
+457,['EPHA-mediated growth cone collapse'],3928663
+458,"['Cellular response to hypoxia', 'Regulation of Hypoxia-inducible Factor (HIF) by oxygen']",1234174
+459,['Regulation of gene expression by Hypoxia-inducible Factor'],1234158
+460,['Receptor Mediated Mitophagy'],8934903
+461,['TP53 Regulates Transcription of Genes Involved in Cytochrome C Release'],6803204
+462,['Regulation of RUNX2 expression and activity'],8939902
+463,['PTK6 promotes HIF1A stabilization'],8857538
+464,['Cellular responses to stress'],2262752
+465,['Cellular responses to external stimuli'],8953897
+466,['Lipid particle organization'],8964572
+467,['Regulation of RUNX3 expression and activity'],8941858
+468,['Eukaryotic Translation Initiation'],72613
+469,['Cellular response to heat stress'],3371556
+470,['Amyloid fiber formation'],977225
+471,['Regulated proteolysis of p75NTR'],193692
+472,['RIPK1-mediated regulated necrosis'],5213460
+473,['Cytosolic tRNA aminoacylation'],379716
+474,"[""Hh mutants that don't undergo autocatalytic processing are degraded by ERAD""]",5362768
+475,['Hh mutants abrogate ligand secretion'],5387390
+476,['Hedgehog ligand biogenesis'],5358346
+477,['Regulation of expression of SLITs and ROBOs'],9010553
+478,['SLIT2:ROBO1 increases RHOA activity'],8985586
+479,['RUNX2 regulates genes involved in differentiation of myeloid cells'],8941333
+480,['RUNX1 regulates transcription of genes involved in differentiation of myeloid cells'],8939246
+481,['TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain'],6804115
+482,"[""T41 mutants of beta-catenin aren't phosphorylated""]",5358752
+483,['Regulation of thyroid hormone activity'],350864
+484,['Signaling by Activin'],1502540
+485,['Defective GGT1 causes Glutathionuria (GLUTH)'],9035968
+486,['Defective GGT1 causes Glutathionuria (GLUTH)'],5579022
+487,['HIV Infection'],162906
+488,['Regulation by TREX1'],3248023
+489,['Interleukin-23 signaling'],9020933
+490,['Defective CYP11B1 causes Adrenal hyperplasia 4 (AH4)'],5579017
+491,['Defective SLC12A3 causes Gitelman syndrome (GS)'],5619087
+492,['Defective CYP17A1 causes Adrenal hyperplasia 5 (AH5)'],5579028
+493,['Diseases associated with visual transduction'],2474795
+494,['Retinoid metabolism disease events'],6809583
+495,['Retinoid cycle disease events'],2453864
+496,['Defective DHDDS causes retinitis pigmentosa 59'],4755609
+497,['MPS I - Hurler syndrome'],2206302
+498,['Paradoxical activation of RAF signaling by kinase inactive BRAF'],6802955
+499,['Budding'],168302
+500,['Budding and maturation of HIV virion'],162588
+501,['Assembly of Viral Components at the Budding Site'],168316
+502,['trans-Golgi Network Vesicle Budding'],199992
+503,['Removal of the Flap Intermediate'],69166
+504,['DNA strand elongation'],69190
+505,"['Defective CHST14 causes EDS, musculocontractural type', 'Defective CHST14 causes Ehlers-Danlos syndrome musculocontractural type']",3595174
+506,['Defective B3GALT6 causes EDSP2 and SEMDJL1'],4420332
+507,['Negative regulation of NMDA receptor-mediated neuronal transmission'],9617324
+508,['FGFR3 mutant receptor activation'],2033514
+509,['Signaling by FGFR4 in disease'],5655291
+510,['Signaling by FGFR in disease'],1226099
+511,['FGFR3 ligand binding and activation'],190239
+512,['Signaling by FGFR3 in disease'],5655332
+513,['Defective ABCC6 causes pseudoxanthoma elasticum (PXE)'],5690338
+514,['E2F-enabled inhibition of pre-replication complex formation'],113507
+515,['Meiotic recombination'],912446
+516,['G1/S-Specific Transcription'],69205
+517,['p53-Dependent G1 DNA Damage Response'],69563
+518,['Sensing of DNA Double Strand Breaks'],5693548
+519,['Cristae formation'],8949613
+520,['Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7)'],5683371
+521,['Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD)'],5578999
+522,['Recruitment of mitotic centrosome proteins and complexes'],380270
+523,['Centrosome maturation'],380287
+524,['Interleukin-21 signaling'],9020958
+525,['Defective SLC6A19 causes Hartnup disorder (HND)'],5659735
+526,['Defective SLC6A19 causes Hartnup disorder (HND)'],5619044
+527,['Defective SLC17A5 causes Salla disease (SD) and ISSD'],5619035
+528,['Signaling by FGFR3 fusions in cancer'],8853334
+529,['Pre-NOTCH Expression and Processing'],1912422
+530,['FOXO-mediated transcription of cell death genes'],9614657
+531,['Purine ribonucleoside monophosphate biosynthesis'],73817
+532,['Export of Viral Ribonucleoproteins from Nucleus'],168274
+533,['Transport of Ribonucleoproteins into the Host Nucleus'],168271
+534,['Vitamin B2 (riboflavin) metabolism'],196843
+535,['Ribosomal scanning and start codon recognition'],72702
+536,['GTP hydrolysis and joining of the 60S ribosomal subunit'],72706
+537,['ADORA2B mediated anti-inflammatory cytokines production'],9660821
+538,['Defective AHCY causes Hypermethioninemia with S-adenosylhomocysteine hydrolase deficiency (HMAHCHD)'],5578997
+539,['RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)'],8877330
+540,['Defective SLC29A3 causes histiocytosis-lymphadenopathy plus syndrome (HLAS)'],5619063
+541,['Nef and signal transduction'],164944
+542,['Major pathway of rRNA processing in the nucleolus and cytosol'],6791226
+543,['Defective TPMT causes Thiopurine S-methyltransferase deficiency (TPMT deficiency)'],5578995
+544,['Inflammasomes'],622312
+545,['Interleukin-12 family signaling'],447115
