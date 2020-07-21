@@ -12,115 +12,111 @@
 10,Vascular Malformations,2
 11,May-Thurner Syndrome,41
 12,Vascular Ring,1
-13,Tuberculosis,25
-14,Pericarditis,0
-15,Heart Diseases,19
-16,Arrhythmias,4
-17,Atrial Fibrillation,1
-18,Atrial Flutter,0
-19,Bradycardia,0
-20,Cardiac Complexes,5
-21,Heart Block,3
-22,Adams-Stokes Syndrome,3
-23,Bundle-Branch Block,1
-24,Long QT Syndrome,1
-25,Andersen Syndrome,1
-26,Romano-Ward Syndrome,5
-27,Pre-Excitation Syndromes,12
-28,Lown-Ganong-Levine Syndrome,2
-29,Wolff-Parkinson-White Syndrome,6
-30,Tachycardia,1
-31,Ventricular Fibrillation,1
-32,Cardiac Output,1
-33,Cardiomegaly,1
-34,Cardiomyopathy,7
-35,Hypertrophy,2
-36,Cardiomyopathies,1
-37,Myocarditis,0
-38,Cardiotoxicity,1
-39,Heart Arrest,2
-40,Heart Failure,5
-41,Cardio-Renal Syndrome,8
-42,Edema,7
-43,Heart Neoplasms,1
-44,Carney Complex,1
-45,Heart Rupture,2
-46,Williams Syndrome,7
-47,Heart Valve Prolapse,0
-48,Mitral Valve Prolapse,0
-49,Myocardial Ischemia,2
-50,Acute Coronary Syndrome,2
-51,Angina Pectoris,1
-52,Angina,1
-53,Coronary Disease,3
-54,Coronary Artery Disease,1
-55,Coronary Thrombosis,2
-56,Myocardial Infarction,2
-57,Pulmonary Heart Disease,2
-58,Embolism,6
-59,Vascular Diseases,17
-60,Aneurysm,1
-61,Loeys-Dietz Syndrome,2
-62,Klippel-Trenaunay-Weber Syndrome,5
-63,Sturge-Weber Syndrome,5
-64,Angioedemas,4
-65,Hereditary Angioedema Type III,1
-66,Hereditary Angioedema Types I and II,446
-67,Aortic Diseases,6
-68,Arteriosclerosis,0
-69,Atherosclerosis,19
-70,Dementia,8
-71,Cerebrovascular Disorders,2
-72,Basal Ganglia Cerebrovascular Disease,1
-73,Brain Ischemia,1
-74,Brain Infarction,1
-75,Cerebral Infarction,0
-76,CADASIL,2
-77,Infarction,2
-78,Hypoxia-Ischemia,28
-79,Ischemic Attack,0
-80,Fabry Disease,1
-81,Stroke,4
-82,Intracranial Embolism and Thrombosis,8
-83,Intracranial Thrombosis,1
-84,Intracranial Hemorrhages,1
-85,Vasculitis,1
-86,Giant Cell Arteritis,0
-87,Lupus Vasculitis,0
-88,Vasospasm,0
-89,Colitis,1
-90,Compartment Syndromes,5
-91,Intra-Abdominal Hypertension,1
-92,Embolism and Thrombosis,14
-93,Pulmonary Embolism,5
-94,Pulmonary Infarction,1
-95,Thromboembolism,1
-96,Venous Thromboembolism,0
-97,Thrombosis,8
-98,Venous Thrombosis,1
-99,Hemostatic Disorders,2
-100,Ehlers-Danlos Syndrome,3
-101,Multiple Myeloma,9
-102,Pseudoxanthoma Elasticum,1
-103,Purpura,0
-104,Telangiectasia,4
-105,Waldenstrom Macroglobulinemia,0
-106,Hypertension,6
-107,Essential Hypertension,1
-108,Hypotension,4
-109,Post-Exercise Hypotension,1
-110,Optic Neuropathy,1
-111,Raynaud Disease,1
-112,CREST Syndrome,3
-113,Reperfusion Injury,1
-114,Spinal Cord Ischemia,1
-115,Ataxia Telangiectasia,3
-116,Arteritis,0
-117,Polyarteritis Nodosa,0
-118,Behcet Syndrome,0
-119,Systemic Vasculitis,0
-120,Rheumatoid Vasculitis,1
-121,Cardiovascular Infection,4
-122,Hemorrhoid,0
-123,Peripheral Vascular Disease,2
-124,Vascular Neoplasm,1
+13,Pericarditis,0
+14,Heart Diseases,19
+15,Arrhythmias,4
+16,Atrial Fibrillation,1
+17,Atrial Flutter,0
+18,Bradycardia,0
+19,Cardiac Complexes,5
+20,Heart Block,3
+21,Adams-Stokes Syndrome,3
+22,Bundle-Branch Block,1
+23,Long QT Syndrome,1
+24,Andersen Syndrome,1
+25,Romano-Ward Syndrome,5
+26,Pre-Excitation Syndromes,12
+27,Lown-Ganong-Levine Syndrome,2
+28,Wolff-Parkinson-White Syndrome,6
+29,Tachycardia,1
+30,Ventricular Fibrillation,1
+31,Cardiac Output,1
+32,Cardiomegaly,1
+33,Cardiomyopathy,7
+34,Hypertrophy,2
+35,Cardiomyopathies,1
+36,Myocarditis,0
+37,Cardiotoxicity,1
+38,Heart Arrest,2
+39,Heart Failure,5
+40,Cardio-Renal Syndrome,8
+41,Edema,7
+42,Heart Neoplasms,1
+43,Carney Complex,1
+44,Heart Rupture,2
+45,Williams Syndrome,7
+46,Heart Valve Prolapse,0
+47,Mitral Valve Prolapse,0
+48,Myocardial Ischemia,2
+49,Acute Coronary Syndrome,2
+50,Angina Pectoris,1
+51,Angina,1
+52,Coronary Disease,3
+53,Coronary Artery Disease,1
+54,Coronary Thrombosis,2
+55,Myocardial Infarction,2
+56,Pulmonary Heart Disease,2
+57,Embolism,6
+58,Vascular Diseases,17
+59,Aneurysm,1
+60,Loeys-Dietz Syndrome,2
+61,Klippel-Trenaunay-Weber Syndrome,5
+62,Sturge-Weber Syndrome,5
+63,Angioedemas,4
+64,Hereditary Angioedema Type III,1
+65,Aortic Diseases,6
+66,Arteriosclerosis,0
+67,Atherosclerosis,19
+68,Cerebrovascular Disorders,2
+69,Basal Ganglia Cerebrovascular Disease,1
+70,Brain Ischemia,1
+71,Brain Infarction,1
+72,Cerebral Infarction,0
+73,CADASIL,2
+74,Infarction,2
+75,Hypoxia-Ischemia,28
+76,Ischemic Attack,0
+77,Fabry Disease,1
+78,Intracranial Embolism and Thrombosis,8
+79,Intracranial Thrombosis,1
+80,Intracranial Hemorrhages,1
+81,Vasculitis,1
+82,Giant Cell Arteritis,0
+83,Lupus Vasculitis,0
+84,Vasospasm,0
+85,Colitis,1
+86,Compartment Syndromes,5
+87,Intra-Abdominal Hypertension,1
+88,Embolism and Thrombosis,14
+89,Pulmonary Embolism,5
+90,Pulmonary Infarction,1
+91,Thromboembolism,1
+92,Venous Thromboembolism,0
+93,Thrombosis,8
+94,Venous Thrombosis,1
+95,Hemostatic Disorders,2
+96,Ehlers-Danlos Syndrome,3
+97,Multiple Myeloma,9
+98,Pseudoxanthoma Elasticum,1
+99,Purpura,0
+100,Telangiectasia,4
+101,Waldenstrom Macroglobulinemia,0
+102,Hypertension,6
+103,Essential Hypertension,1
+104,Hypotension,4
+105,Post-Exercise Hypotension,1
+106,Optic Neuropathy,1
+107,Raynaud Disease,1
+108,CREST Syndrome,3
+109,Reperfusion Injury,1
+110,Spinal Cord Ischemia,1
+111,Ataxia Telangiectasia,3
+112,Arteritis,0
+113,Polyarteritis Nodosa,0
+114,Behcet Syndrome,0
+115,Systemic Vasculitis,0
+116,Rheumatoid Vasculitis,1
+117,Cardiovascular Infection,4
+118,Hemorrhoid,0
+119,Peripheral Vascular Disease,2
+120,Vascular Neoplasm,1
