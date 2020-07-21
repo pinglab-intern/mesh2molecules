@@ -4,1047 +4,904 @@
 2,Cardiovascular Diseases,R-HSA-9018679
 3,Cardiovascular Diseases,R-HSA-2682334
 4,Cardiovascular Diseases,R-HSA-9033658
-5,Cardiovascular Abnormalities,R-HSA-5617472
-6,Cardiovascular Abnormalities,R-HSA-9651496
-7,Heart Defects,R-HSA-3560801
-8,Heart Defects,R-HSA-8866906
-9,Heart Defects,R-HSA-8864260
-10,Heart Defects,R-HSA-8866910
-11,Heart Defects,R-HSA-5619053
-12,Heart Defects,R-HSA-5678420
-13,Heart Defects,R-HSA-5619092
-14,Heart Defects,R-HSA-5682113
-15,Heart Defects,R-HSA-5619039
-16,Heart Defects,R-HSA-5619108
-17,Heart Defects,R-HSA-8986944
-18,Heart Defects,R-HSA-3785653
-19,DiGeorge Syndrome,R-HSA-372449
-20,Alagille Syndrome,R-HSA-1980145
-21,Alagille Syndrome,R-HSA-1912408
-22,Barth Syndrome,R-HSA-5615556
-23,LEOPARD Syndrome,R-HSA-9656223
-24,Marfan Syndrome,R-HSA-1566948
-25,Noonan Syndrome,R-HSA-9660537
-26,Noonan Syndrome,R-HSA-9656223
-27,Noonan Syndrome,R-HSA-6802949
-28,Noonan Syndrome,R-HSA-9652169
-29,Turner Syndrome,R-HSA-5619092
-30,Turner Syndrome,R-HSA-8986944
-31,Turner Syndrome,R-HSA-5678420
-32,Turner Syndrome,R-HSA-5655302
-33,Turner Syndrome,R-HSA-1839117
-34,Turner Syndrome,R-HSA-9660537
-35,Turner Syndrome,R-HSA-6802949
-36,Turner Syndrome,R-HSA-1839122
-37,Turner Syndrome,R-HSA-9656223
-38,Turner Syndrome,R-HSA-1226099
-39,Turner Syndrome,R-HSA-9674415
-40,Turner Syndrome,R-HSA-1839126
-41,Turner Syndrome,R-HSA-9646304
-42,Turner Syndrome,R-HSA-9646303
-43,Vascular Malformations,R-HSA-8864260
-44,May-Thurner Syndrome,R-HSA-5603027
-45,May-Thurner Syndrome,R-HSA-5620920
-46,May-Thurner Syndrome,R-HSA-3656253
-47,May-Thurner Syndrome,R-HSA-9679509
-48,May-Thurner Syndrome,R-HSA-8851708
-49,May-Thurner Syndrome,R-HSA-8986944
-50,May-Thurner Syndrome,R-HSA-6781823
-51,May-Thurner Syndrome,R-HSA-5260271
-52,May-Thurner Syndrome,R-HSA-5619095
-53,May-Thurner Syndrome,R-HSA-5624958
-54,May-Thurner Syndrome,R-HSA-5602358
-55,May-Thurner Syndrome,R-HSA-5619058
-56,May-Thurner Syndrome,R-HSA-5602415
-57,May-Thurner Syndrome,R-HSA-5603041
-58,May-Thurner Syndrome,R-HSA-5603037
-59,May-Thurner Syndrome,R-HSA-9022927
-60,May-Thurner Syndrome,R-HSA-9022699
-61,May-Thurner Syndrome,R-HSA-9682708
-62,May-Thurner Syndrome,R-HSA-5358508
-63,May-Thurner Syndrome,R-HSA-9678110
-64,May-Thurner Syndrome,R-HSA-6802949
-65,May-Thurner Syndrome,R-HSA-9679504
-66,May-Thurner Syndrome,R-HSA-6782135
-67,May-Thurner Syndrome,R-HSA-3238698
-68,May-Thurner Syndrome,R-HSA-9022692
-69,May-Thurner Syndrome,R-HSA-9616334
-70,May-Thurner Syndrome,R-HSA-1226099
-71,May-Thurner Syndrome,R-HSA-8936459
-72,May-Thurner Syndrome,R-HSA-9605310
-73,May-Thurner Syndrome,R-HSA-2219528
-74,May-Thurner Syndrome,R-HSA-5628897
-75,May-Thurner Syndrome,R-HSA-5619066
-76,May-Thurner Syndrome,R-HSA-9616333
-77,May-Thurner Syndrome,R-HSA-6781827
-78,May-Thurner Syndrome,R-HSA-3248023
-79,May-Thurner Syndrome,R-HSA-9012852
-80,May-Thurner Syndrome,R-HSA-9609646
-81,May-Thurner Syndrome,R-HSA-8878166
-82,May-Thurner Syndrome,R-HSA-9033241
-83,May-Thurner Syndrome,R-HSA-1566948
-84,May-Thurner Syndrome,R-HSA-195258
-85,Vascular Ring,R-HSA-8951664
-86,Tuberculosis,R-HSA-9635486
-87,Tuberculosis,R-HSA-9637687
-88,Tuberculosis,R-HSA-9637679
-89,Tuberculosis,R-HSA-9637698
-90,Tuberculosis,R-HSA-9635465
-91,Tuberculosis,R-HSA-9636383
-92,Tuberculosis,R-HSA-1222387
-93,Tuberculosis,R-HSA-9636467
-94,Tuberculosis,R-HSA-9637690
-95,Tuberculosis,R-HSA-1222541
-96,Tuberculosis,R-HSA-9636667
-97,Tuberculosis,R-HSA-9635644
-98,Tuberculosis,R-HSA-9637628
-99,Tuberculosis,R-HSA-9636249
-100,Tuberculosis,R-HSA-9639775
-101,Tuberculosis,R-HSA-1222499
-102,Tuberculosis,R-HSA-1222449
-103,Tuberculosis,R-HSA-1222538
-104,Tuberculosis,R-HSA-9636569
-105,Tuberculosis,R-HSA-5663205
-106,Tuberculosis,R-HSA-5621575
-107,Tuberculosis,R-HSA-5621481
-108,Tuberculosis,R-HSA-1834941
-109,Tuberculosis,R-HSA-9660826
-110,Tuberculosis,R-HSA-1643685
-111,Heart Diseases,R-HSA-5682113
-112,Heart Diseases,R-HSA-5668541
-113,Heart Diseases,R-HSA-9615017
-114,Heart Diseases,R-HSA-2046106
-115,Heart Diseases,R-HSA-9629232
-116,Heart Diseases,R-HSA-392499
-117,Heart Diseases,R-HSA-201451
-118,Arrhythmias,R-HSA-9684068
-119,Arrhythmias,R-HSA-9609310
-120,Arrhythmias,R-HSA-5576895
-121,Arrhythmia,R-HSA-5678420
-122,Atrial Fibrillation,R-HSA-5678420
-123,Cardiac Complexes,R-HSA-8963889
-124,Cardiac Complexes,R-HSA-9660537
-125,Cardiac Complexes,R-HSA-1296071
-126,Cardiac Complexes,R-HSA-1980145
-127,Cardiac Complexes,R-HSA-163560
-128,Heart Block,R-HSA-9609310
-129,Heart Block,R-HSA-9615249
-130,Heart Block,R-HSA-9614933
-131,Adams-Stokes Syndrome,R-HSA-6802938
-132,Adams-Stokes Syndrome,R-HSA-9621032
-133,Adams-Stokes Syndrome,R-HSA-9621048
-134,Bundle-Branch Block,R-HSA-164508
-135,Long QT Syndrome,R-HSA-5577050
-136,Andersen Syndrome,R-HSA-9616334
-137,Romano-Ward Syndrome,R-HSA-3656253
-138,Romano-Ward Syndrome,R-HSA-3656237
-139,Romano-Ward Syndrome,R-HSA-9683439
-140,Romano-Ward Syndrome,R-HSA-9678108
-141,Romano-Ward Syndrome,R-HSA-9679506
-142,Pre-Excitation Syndromes,R-HSA-5619108
-143,Pre-Excitation Syndromes,R-HSA-5655302
-144,Pre-Excitation Syndromes,R-HSA-1226099
-145,Lown-Ganong-Levine Syndrome,R-HSA-5628897
-146,Lown-Ganong-Levine Syndrome,R-HSA-9673766
-147,Pre-Excitation,R-HSA-68867
-148,Pre-Excitation,R-HSA-69002
-149,Pre-Excitation,R-HSA-1912422
-150,Pre-Excitation,R-HSA-68962
-151,Pre-Excitation,R-HSA-1912420
-152,Pre-Excitation,R-HSA-1912408
-153,Pre-Excitation,R-HSA-77595
-154,Pre-Excitation,R-HSA-75067
-155,Pre-Excitation,R-HSA-1912399
-156,Pre-Excitation,R-HSA-674695
-157,Pre-Excitation,R-HSA-113507
-158,Pre-Excitation,R-HSA-111367
-159,Pre-Excitation,R-HSA-6781823
-160,Pre-Excitation,R-HSA-72203
-161,Pre-Excitation,R-HSA-77588
-162,Pre-Excitation,R-HSA-73779
-163,Pre-Excitation,R-HSA-72165
-164,Pre-Excitation,R-HSA-196108
-165,Pre-Excitation,R-HSA-622323
-166,Pre-Excitation,R-HSA-500657
-167,Pre-Excitation,R-HSA-1236975
-168,Pre-Excitation,R-HSA-159740
-169,Pre-Excitation,R-HSA-9636383
-170,Pre-Excitation,R-HSA-2132295
-171,Pre-Excitation,R-HSA-6791226
-172,Pre-Excitation,R-HSA-168315
-173,Pre-Excitation,R-HSA-112308
-174,Pre-Excitation,R-HSA-5609975
-175,Pre-Excitation,R-HSA-5693616
-176,Pre-Excitation,R-HSA-140534
-177,Pre-Excitation,R-HSA-9609736
-178,Pre-Excitation,R-HSA-1236978
-179,Pre-Excitation,R-HSA-1236973
-180,Pre-Excitation,R-HSA-983169
-181,Pre-Excitation,R-HSA-210747
-182,Pre-Excitation,R-HSA-5619108
-183,Pre-Excitation,R-HSA-389958
-184,Pre-Excitation,R-HSA-389957
-185,Pre-Excitation,R-HSA-8868773
-186,Pre-Excitation,R-HSA-72086
-187,Pre-Excitation,R-HSA-72187
-188,Pre-Excitation,R-HSA-72163
-189,Pre-Excitation,R-HSA-983170
-190,Pre-Excitation,R-HSA-8939243
-191,Pre-Excitation,R-HSA-159763
-192,Pre-Excitation,R-HSA-446193
-193,Pre-Excitation,R-HSA-210744
-194,Pre-Excitation,R-HSA-5678771
-195,Pre-Excitation,R-HSA-72312
-196,Pre-Excitation,R-HSA-9608287
-197,Pre-Excitation,R-HSA-9013508
-198,Pre-Excitation,R-HSA-68827
-199,Pre-Excitation,R-HSA-381038
-200,Pre-Excitation,R-HSA-6790901
-201,Pre-Excitation,R-HSA-9603798
-202,Pre-Excitation,R-HSA-9608290
-203,Pre-Excitation,R-HSA-8873719
-204,Pre-Excitation,R-HSA-8876198
-205,Pre-Excitation,R-HSA-983695
-206,Pre-Excitation,R-HSA-5576892
-207,Pre-Excitation,R-HSA-176974
-208,Pre-Excitation,R-HSA-112310
-209,Pre-Excitation,R-HSA-73863
-210,Pre-Excitation,R-HSA-203927
-211,Pre-Excitation,R-HSA-112314
-212,Pre-Excitation,R-HSA-112311
-213,Pre-Excitation,R-HSA-8964011
-214,Pre-Excitation,R-HSA-8963899
-215,Pre-Excitation,R-HSA-5619062
-216,Pre-Excitation,R-HSA-373756
-217,Pre-Excitation,R-HSA-167060
-218,Pre-Excitation,R-HSA-210455
-219,Pre-Excitation,R-HSA-6807505
-220,Pre-Excitation,R-HSA-72306
-221,Pre-Excitation,R-HSA-9036866
-222,Pre-Excitation,R-HSA-5619089
-223,Pre-Excitation,R-HSA-191859
-224,Pre-Excitation,R-HSA-112307
-225,Pre-Excitation,R-HSA-112303
-226,Pre-Excitation,R-HSA-5619067
-227,Pre-Excitation,R-HSA-6794361
-228,Pre-Excitation,R-HSA-606279
-229,Pre-Excitation,R-HSA-881907
-230,Pre-Excitation,R-HSA-428542
-231,Pre-Excitation,R-HSA-75064
-232,Pre-Excitation,R-HSA-6781827
-233,Pre-Excitation,R-HSA-381753
-234,Pre-Excitation,R-HSA-6784531
-235,Pre-Excitation,R-HSA-68616
-236,Pre-Excitation,R-HSA-442755
-237,Pre-Excitation,R-HSA-6782135
-238,Pre-Excitation,R-HSA-165054
-239,Pre-Excitation,R-HSA-8964043
-240,Pre-Excitation,R-HSA-74158
-241,Pre-Excitation,R-HSA-156842
-242,Pre-Excitation,R-HSA-72200
-243,Pre-Excitation,R-HSA-112316
-244,Pre-Excitation,R-HSA-372790
-245,Pre-Excitation,R-HSA-9012852
-246,Pre-Excitation,R-HSA-181431
-247,Pre-Excitation,R-HSA-112315
-248,Pre-Excitation,R-HSA-9034015
-249,Pre-Excitation,R-HSA-5683826
-250,Pre-Excitation,R-HSA-74160
-251,Pre-Excitation,R-HSA-9006335
-252,Pre-Excitation,R-HSA-5685938
-253,Pre-Excitation,R-HSA-69278
-254,Pre-Excitation,R-HSA-5655302
-255,Pre-Excitation,R-HSA-1461957
-256,Pre-Excitation,R-HSA-512988
-257,Pre-Excitation,R-HSA-3247509
-258,Pre-Excitation,R-HSA-176033
-259,Pre-Excitation,R-HSA-1226099
-260,Pre-Excitation,R-HSA-1170546
-261,Pre-Excitation,R-HSA-1632852
-262,Pre-Excitation,R-HSA-1266695
-263,Wolff-Parkinson-White Syndrome,R-HSA-8986944
-264,Wolff-Parkinson-White Syndrome,R-HSA-5620922
-265,Wolff-Parkinson-White Syndrome,R-HSA-5620920
-266,Wolff-Parkinson-White Syndrome,R-HSA-5083625
-267,Wolff-Parkinson-White Syndrome,R-HSA-1912408
-268,Wolff-Parkinson-White Syndrome,R-HSA-5579004
-269,Tachycardia,R-HSA-5619109
-270,Ventricular Fibrillation,R-HSA-5678420
-271,Cardiac Output,R-HSA-163560
-272,Cardiomegaly,R-HSA-5678420
-273,Cardiomyopathy,R-HSA-5678420
-274,Cardiomyopathy,R-HSA-3828062
-275,Cardiomyopathy,R-HSA-9656223
-276,Cardiomyopathy,R-HSA-9660537
-277,Cardiomyopathy,R-HSA-5655799
-278,Cardiomyopathy,R-HSA-5619049
-279,Cardiomyopathy,R-HSA-392499
-280,Hypertrophy,R-HSA-9660537
-281,Hypertrophy,R-HSA-9615017
-282,Cardiomyopathies,R-HSA-5678420
-283,Cardiotoxicity,R-HSA-1236394
-284,Heart Arrest,R-HSA-6804425
-285,Heart Arrest,R-HSA-8867667
-286,Heart Failure,R-HSA-1482798
-287,Heart Failure,R-HSA-5619053
-288,Heart Failure,R-HSA-5678420
-289,Heart Failure,R-HSA-9629232
-290,Heart Failure,R-HSA-392499
-291,Cardio-Renal Syndrome,R-HSA-5619098
-292,Cardio-Renal Syndrome,R-HSA-5619087
-293,Cardio-Renal Syndrome,R-HSA-5619104
-294,Cardio-Renal Syndrome,R-HSA-5619054
-295,Cardio-Renal Syndrome,R-HSA-5619050
-296,Cardio-Renal Syndrome,R-HSA-5678420
-297,Cardio-Renal Syndrome,R-HSA-9652169
-298,Cardio-Renal Syndrome,R-HSA-5083625
-299,Edema,R-HSA-9657689
-300,Edema,R-HSA-9657688
-301,Edema,R-HSA-9671793
-302,Edema,R-HSA-9651496
-303,Edema,R-HSA-5210891
-304,Edema,R-HSA-9018677
-305,Edema,R-HSA-9018679
-306,Heart Neoplasms,R-HSA-1912416
-307,Carney Complex,R-HSA-5685939
-308,Heart Rupture,R-HSA-9629232
-309,Heart Rupture,R-HSA-430116
-310,Williams Syndrome,R-HSA-3656253
-311,Williams Syndrome,R-HSA-5358508
-312,Williams Syndrome,R-HSA-9673766
-313,Williams Syndrome,R-HSA-2219528
-314,Williams Syndrome,R-HSA-5655332
-315,Williams Syndrome,R-HSA-195258
-316,Williams Syndrome,R-HSA-8853338
-317,Myocardial Ischemia,R-HSA-9629232
-318,Myocardial Ischemia,R-HSA-5619039
-319,Acute Coronary Syndrome,R-HSA-9611277
-320,Acute Coronary Syndrome,R-HSA-5432849
-321,Angina Pectoris,R-HSA-9609310
-322,Angina,R-HSA-9609310
-323,Coronary Disease,R-HSA-5682113
-324,Coronary Disease,R-HSA-5679090
-325,Coronary Disease,R-HSA-75205
-326,Coronary Artery Disease,R-HSA-75205
-327,Coronary Thrombosis,R-HSA-9611277
-328,Coronary Thrombosis,R-HSA-2396079
-329,Myocardial Infarction,R-HSA-5682113
-330,Myocardial Infarction,R-HSA-9629232
-331,Pulmonary Heart Disease,R-HSA-3779381
-332,Pulmonary Heart Disease,R-HSA-9609310
-333,Embolism,R-HSA-9603302
-334,Embolism,R-HSA-9015379
-335,Embolism,R-HSA-9015111
-336,Embolism,R-HSA-9015122
-337,Embolism,R-HSA-111919
-338,Embolism,R-HSA-9026967
-339,Vascular Diseases,R-HSA-9671793
-340,Vascular Diseases,R-HSA-9671555
-341,Vascular Diseases,R-HSA-1474290
-342,Vascular Diseases,R-HSA-194138
-343,Vascular Diseases,R-HSA-3299685
-344,Vascular Diseases,R-HSA-201451
-345,Vascular Diseases,R-HSA-162582
-346,Aneurysm,R-HSA-1566948
-347,Loeys-Dietz Syndrome,R-HSA-5619068
-348,Loeys-Dietz Syndrome,R-HSA-2470946
-349,Klippel-Trenaunay-Weber Syndrome,R-HSA-2206307
-350,Klippel-Trenaunay-Weber Syndrome,R-HSA-5655302
-351,Klippel-Trenaunay-Weber Syndrome,R-HSA-4043916
-352,Klippel-Trenaunay-Weber Syndrome,R-HSA-1839122
-353,Klippel-Trenaunay-Weber Syndrome,R-HSA-5693565
-354,Sturge-Weber Syndrome,R-HSA-2206307
-355,Sturge-Weber Syndrome,R-HSA-5655302
-356,Sturge-Weber Syndrome,R-HSA-4043916
-357,Sturge-Weber Syndrome,R-HSA-1839122
-358,Sturge-Weber Syndrome,R-HSA-5693565
-359,Angioedema,R-HSA-9657689
-360,Angioedema,R-HSA-9657688
-361,Angioedema,R-HSA-9651496
-362,Angioedema,R-HSA-9671793
-363,Angioedemas,R-HSA-9657689
-364,Angioedemas,R-HSA-9657688
-365,Hereditary Angioedema Type III,R-HSA-9653249
-366,Hereditary Angioedema Types I and II,R-HSA-9657689
-367,Hereditary Angioedema Types I and II,R-HSA-9657688
-368,Hereditary Angioedema Types I and II,R-HSA-5657560
-369,Hereditary Angioedema Types I and II,R-HSA-3359454
-370,Hereditary Angioedema Types I and II,R-HSA-3359463
-371,Hereditary Angioedema Types I and II,R-HSA-3359462
-372,Hereditary Angioedema Types I and II,R-HSA-5658471
-373,Hereditary Angioedema Types I and II,R-HSA-5619114
-374,Hereditary Angioedema Types I and II,R-HSA-5619097
-375,Hereditary Angioedema Types I and II,R-HSA-73857
-376,Hereditary Angioedema Types I and II,R-HSA-427589
-377,Hereditary Angioedema Types I and II,R-HSA-2206296
-378,Hereditary Angioedema Types I and II,R-HSA-156580
-379,Hereditary Angioedema Types I and II,R-HSA-75953
-380,Hereditary Angioedema Types I and II,R-HSA-73776
-381,Hereditary Angioedema Types I and II,R-HSA-75955
-382,Hereditary Angioedema Types I and II,R-HSA-2132295
-383,Hereditary Angioedema Types I and II,R-HSA-73856
-384,Hereditary Angioedema Types I and II,R-HSA-674695
-385,Hereditary Angioedema Types I and II,R-HSA-5357609
-386,Hereditary Angioedema Types I and II,R-HSA-112382
-387,Hereditary Angioedema Types I and II,R-HSA-5609976
-388,Hereditary Angioedema Types I and II,R-HSA-76042
-389,Hereditary Angioedema Types I and II,R-HSA-6807505
-390,Hereditary Angioedema Types I and II,R-HSA-77075
-391,Hereditary Angioedema Types I and II,R-HSA-167162
-392,Hereditary Angioedema Types I and II,R-HSA-73779
-393,Hereditary Angioedema Types I and II,R-HSA-5619050
-394,Hereditary Angioedema Types I and II,R-HSA-167160
-395,Hereditary Angioedema Types I and II,R-HSA-9651496
-396,Hereditary Angioedema Types I and II,R-HSA-9671793
-397,Hereditary Angioedema Types I and II,R-HSA-5619058
-398,Hereditary Angioedema Types I and II,R-HSA-5619110
-399,Hereditary Angioedema Types I and II,R-HSA-3656253
-400,Hereditary Angioedema Types I and II,R-HSA-5579011
-401,Hereditary Angioedema Types I and II,R-HSA-5250989
-402,Hereditary Angioedema Types I and II,R-HSA-5579013
-403,Hereditary Angioedema Types I and II,R-HSA-3359457
-404,Hereditary Angioedema Types I and II,R-HSA-5619046
-405,Hereditary Angioedema Types I and II,R-HSA-9629232
-406,Hereditary Angioedema Types I and II,R-HSA-452723
-407,Hereditary Angioedema Types I and II,R-HSA-3656237
-408,Hereditary Angioedema Types I and II,R-HSA-73933
-409,Hereditary Angioedema Types I and II,R-HSA-110373
-410,Hereditary Angioedema Types I and II,R-HSA-5651801
-411,Hereditary Angioedema Types I and II,R-HSA-5687128
-412,Hereditary Angioedema Types I and II,R-HSA-5579016
-413,Hereditary Angioedema Types I and II,R-HSA-5579002
-414,Hereditary Angioedema Types I and II,R-HSA-5632987
-415,Hereditary Angioedema Types I and II,R-HSA-5619039
-416,Hereditary Angioedema Types I and II,R-HSA-5250958
-417,Hereditary Angioedema Types I and II,R-HSA-5632928
-418,Hereditary Angioedema Types I and II,R-HSA-6809583
-419,Hereditary Angioedema Types I and II,R-HSA-5619107
-420,Hereditary Angioedema Types I and II,R-HSA-5619056
-421,Hereditary Angioedema Types I and II,R-HSA-3656244
-422,Hereditary Angioedema Types I and II,R-HSA-4793953
-423,Hereditary Angioedema Types I and II,R-HSA-113418
-424,Hereditary Angioedema Types I and II,R-HSA-5619061
-425,Hereditary Angioedema Types I and II,R-HSA-5579006
-426,Hereditary Angioedema Types I and II,R-HSA-5579029
-427,Hereditary Angioedema Types I and II,R-HSA-9035968
-428,Hereditary Angioedema Types I and II,R-HSA-5579022
-429,Hereditary Angioedema Types I and II,R-HSA-5579019
-430,Hereditary Angioedema Types I and II,R-HSA-5578998
-431,Hereditary Angioedema Types I and II,R-HSA-5578995
-432,Hereditary Angioedema Types I and II,R-HSA-5619035
-433,Hereditary Angioedema Types I and II,R-HSA-5619070
-434,Hereditary Angioedema Types I and II,R-HSA-2206302
-435,Hereditary Angioedema Types I and II,R-HSA-3645790
-436,Hereditary Angioedema Types I and II,R-HSA-3642278
-437,Hereditary Angioedema Types I and II,R-HSA-420092
-438,Hereditary Angioedema Types I and II,R-HSA-3229133
-439,Hereditary Angioedema Types I and II,R-HSA-173599
-440,Hereditary Angioedema Types I and II,R-HSA-5619037
-441,Hereditary Angioedema Types I and II,R-HSA-5663020
-442,Hereditary Angioedema Types I and II,R-HSA-4793952
-443,Hereditary Angioedema Types I and II,R-HSA-71336
-444,Hereditary Angioedema Types I and II,R-HSA-2206307
-445,Hereditary Angioedema Types I and II,R-HSA-446107
-446,Hereditary Angioedema Types I and II,R-HSA-5621481
-447,Hereditary Angioedema Types I and II,R-HSA-936837
-448,Hereditary Angioedema Types I and II,R-HSA-4793954
-449,Hereditary Angioedema Types I and II,R-HSA-5619078
-450,Hereditary Angioedema Types I and II,R-HSA-167242
-451,Hereditary Angioedema Types I and II,R-HSA-76071
-452,Hereditary Angioedema Types I and II,R-HSA-3642279
-453,Hereditary Angioedema Types I and II,R-HSA-390466
-454,Hereditary Angioedema Types I and II,R-HSA-3906995
-455,Hereditary Angioedema Types I and II,R-HSA-5688031
-456,Hereditary Angioedema Types I and II,R-HSA-212436
-457,Hereditary Angioedema Types I and II,R-HSA-5250992
-458,Hereditary Angioedema Types I and II,R-HSA-5250981
-459,Hereditary Angioedema Types I and II,R-HSA-5250968
-460,Hereditary Angioedema Types I and II,R-HSA-5250955
-461,Hereditary Angioedema Types I and II,R-HSA-174437
-462,Hereditary Angioedema Types I and II,R-HSA-69183
-463,Hereditary Angioedema Types I and II,R-HSA-174414
-464,Hereditary Angioedema Types I and II,R-HSA-418592
-465,Hereditary Angioedema Types I and II,R-HSA-1483101
-466,Hereditary Angioedema Types I and II,R-HSA-391251
-467,Hereditary Angioedema Types I and II,R-HSA-6782135
-468,Hereditary Angioedema Types I and II,R-HSA-388844
-469,Hereditary Angioedema Types I and II,R-HSA-3270619
-470,Hereditary Angioedema Types I and II,R-HSA-1606341
-471,Hereditary Angioedema Types I and II,R-HSA-5250971
-472,Hereditary Angioedema Types I and II,R-HSA-211897
-473,Hereditary Angioedema Types I and II,R-HSA-3282872
-474,Hereditary Angioedema Types I and II,R-HSA-8864260
-475,Hereditary Angioedema Types I and II,R-HSA-8866911
-476,Hereditary Angioedema Types I and II,R-HSA-8866910
-477,Hereditary Angioedema Types I and II,R-HSA-167158
-478,Hereditary Angioedema Types I and II,R-HSA-428359
-479,Hereditary Angioedema Types I and II,R-HSA-3000484
-480,Hereditary Angioedema Types I and II,R-HSA-72086
-481,Hereditary Angioedema Types I and II,R-HSA-444257
-482,Hereditary Angioedema Types I and II,R-HSA-4549349
-483,Hereditary Angioedema Types I and II,R-HSA-9640463
-484,Hereditary Angioedema Types I and II,R-HSA-76046
-485,Hereditary Angioedema Types I and II,R-HSA-1660514
-486,Hereditary Angioedema Types I and II,R-HSA-2173795
-487,Hereditary Angioedema Types I and II,R-HSA-6781823
-488,Hereditary Angioedema Types I and II,R-HSA-2514853
-489,Hereditary Angioedema Types I and II,R-HSA-1606322
-490,Hereditary Angioedema Types I and II,R-HSA-3560783
-491,Hereditary Angioedema Types I and II,R-HSA-3878781
-492,Hereditary Angioedema Types I and II,R-HSA-913531
-493,Hereditary Angioedema Types I and II,R-HSA-6788467
-494,Hereditary Angioedema Types I and II,R-HSA-5638302
-495,Hereditary Angioedema Types I and II,R-HSA-3359475
-496,Hereditary Angioedema Types I and II,R-HSA-3359478
-497,Hereditary Angioedema Types I and II,R-HSA-3359471
-498,Hereditary Angioedema Types I and II,R-HSA-3595174
-499,Hereditary Angioedema Types I and II,R-HSA-3274531
-500,Hereditary Angioedema Types I and II,R-HSA-3828062
-501,Hereditary Angioedema Types I and II,R-HSA-3858516
-502,Hereditary Angioedema Types I and II,R-HSA-3814836
-503,Hereditary Angioedema Types I and II,R-HSA-76066
-504,Hereditary Angioedema Types I and II,R-HSA-76061
-505,Hereditary Angioedema Types I and II,R-HSA-167161
-506,Hereditary Angioedema Types I and II,R-HSA-2299718
-507,Hereditary Angioedema Types I and II,R-HSA-2032785
-508,Hereditary Angioedema Types I and II,R-HSA-2173796
-509,Hereditary Angioedema Types I and II,R-HSA-167169
-510,Hereditary Angioedema Types I and II,R-HSA-350054
-511,Hereditary Angioedema Types I and II,R-HSA-8866907
-512,Hereditary Angioedema Types I and II,R-HSA-8866906
-513,Hereditary Angioedema Types I and II,R-HSA-8866904
-514,Hereditary Angioedema Types I and II,R-HSA-383280
-515,Hereditary Angioedema Types I and II,R-HSA-2022377
-516,Hereditary Angioedema Types I and II,R-HSA-3781865
-517,Hereditary Angioedema Types I and II,R-HSA-3560792
-518,Hereditary Angioedema Types I and II,R-HSA-176034
-519,Hereditary Angioedema Types I and II,R-HSA-168315
-520,Hereditary Angioedema Types I and II,R-HSA-1839130
-521,Hereditary Angioedema Types I and II,R-HSA-1483248
-522,Hereditary Angioedema Types I and II,R-HSA-8847453
-523,Hereditary Angioedema Types I and II,R-HSA-389960
-524,Hereditary Angioedema Types I and II,R-HSA-72649
-525,Hereditary Angioedema Types I and II,R-HSA-72662
-526,Hereditary Angioedema Types I and II,R-HSA-72702
-527,Hereditary Angioedema Types I and II,R-HSA-9029569
-528,Hereditary Angioedema Types I and II,R-HSA-1169092
-529,Hereditary Angioedema Types I and II,R-HSA-5660489
-530,Hereditary Angioedema Types I and II,R-HSA-5334118
-531,Hereditary Angioedema Types I and II,R-HSA-5619072
-532,Hereditary Angioedema Types I and II,R-HSA-1839122
-533,Hereditary Angioedema Types I and II,R-HSA-1234174
-534,Hereditary Angioedema Types I and II,R-HSA-167246
-535,Hereditary Angioedema Types I and II,R-HSA-9675135
-536,Hereditary Angioedema Types I and II,R-HSA-2404192
-537,Hereditary Angioedema Types I and II,R-HSA-373753
-538,Hereditary Angioedema Types I and II,R-HSA-5683678
-539,Hereditary Angioedema Types I and II,R-HSA-2173789
-540,Hereditary Angioedema Types I and II,R-HSA-9656223
-541,Hereditary Angioedema Types I and II,R-HSA-3134973
-542,Hereditary Angioedema Types I and II,R-HSA-3134963
-543,Hereditary Angioedema Types I and II,R-HSA-3359474
-544,Hereditary Angioedema Types I and II,R-HSA-3359473
-545,Hereditary Angioedema Types I and II,R-HSA-3359458
-546,Hereditary Angioedema Types I and II,R-HSA-5683329
-547,Hereditary Angioedema Types I and II,R-HSA-3359467
-548,Hereditary Angioedema Types I and II,R-HSA-3359469
-549,Hereditary Angioedema Types I and II,R-HSA-5682294
-550,Hereditary Angioedema Types I and II,R-HSA-5619042
-551,Hereditary Angioedema Types I and II,R-HSA-5619092
-552,Hereditary Angioedema Types I and II,R-HSA-5619088
-553,Hereditary Angioedema Types I and II,R-HSA-3304351
-554,Hereditary Angioedema Types I and II,R-HSA-69091
-555,Hereditary Angioedema Types I and II,R-HSA-8982491
-556,Hereditary Angioedema Types I and II,R-HSA-9617324
-557,Hereditary Angioedema Types I and II,R-HSA-6811555
-558,Hereditary Angioedema Types I and II,R-HSA-174411
-559,Hereditary Angioedema Types I and II,R-HSA-159782
-560,Hereditary Angioedema Types I and II,R-HSA-164940
-561,Hereditary Angioedema Types I and II,R-HSA-1482839
-562,Hereditary Angioedema Types I and II,R-HSA-1482801
-563,Hereditary Angioedema Types I and II,R-HSA-1483166
-564,Hereditary Angioedema Types I and II,R-HSA-1482788
-565,Hereditary Angioedema Types I and II,R-HSA-1482925
-566,Hereditary Angioedema Types I and II,R-HSA-1482922
-567,Hereditary Angioedema Types I and II,R-HSA-8848584
-568,Hereditary Angioedema Types I and II,R-HSA-72695
-569,Hereditary Angioedema Types I and II,R-HSA-3000480
-570,Hereditary Angioedema Types I and II,R-HSA-9674415
-571,Hereditary Angioedema Types I and II,R-HSA-381753
-572,Hereditary Angioedema Types I and II,R-HSA-2033519
-573,Hereditary Angioedema Types I and II,R-HSA-167200
-574,Hereditary Angioedema Types I and II,R-HSA-1660517
-575,Hereditary Angioedema Types I and II,R-HSA-1660516
-576,Hereditary Angioedema Types I and II,R-HSA-72706
-577,Hereditary Angioedema Types I and II,R-HSA-450520
-578,Hereditary Angioedema Types I and II,R-HSA-6803205
-579,Hereditary Angioedema Types I and II,R-HSA-5666185
-580,Hereditary Angioedema Types I and II,R-HSA-8853338
-581,Hereditary Angioedema Types I and II,R-HSA-5627117
-582,Hereditary Angioedema Types I and II,R-HSA-4419969
-583,Hereditary Angioedema Types I and II,R-HSA-5625900
-584,Hereditary Angioedema Types I and II,R-HSA-375276
-585,Hereditary Angioedema Types I and II,R-HSA-8876198
-586,Hereditary Angioedema Types I and II,R-HSA-5655332
-587,Hereditary Angioedema Types I and II,R-HSA-6811558
-588,Hereditary Angioedema Types I and II,R-HSA-1660499
-589,Hereditary Angioedema Types I and II,R-HSA-1912408
-590,Hereditary Angioedema Types I and II,R-HSA-9675126
-591,Hereditary Angioedema Types I and II,R-HSA-983705
-592,Hereditary Angioedema Types I and II,R-HSA-9632693
-593,Hereditary Angioedema Types I and II,R-HSA-9630750
-594,Hereditary Angioedema Types I and II,R-HSA-350864
-595,Hereditary Angioedema Types I and II,R-HSA-9018519
-596,Hereditary Angioedema Types I and II,R-HSA-6796648
-597,Hereditary Angioedema Types I and II,R-HSA-4341670
-598,Hereditary Angioedema Types I and II,R-HSA-8939902
-599,Hereditary Angioedema Types I and II,R-HSA-5545483
-600,Hereditary Angioedema Types I and II,R-HSA-9013694
-601,Hereditary Angioedema Types I and II,R-HSA-983695
-602,Hereditary Angioedema Types I and II,R-HSA-74158
-603,Hereditary Angioedema Types I and II,R-HSA-69242
-604,Hereditary Angioedema Types I and II,R-HSA-201451
-605,Hereditary Angioedema Types I and II,R-HSA-5693571
-606,Hereditary Angioedema Types I and II,R-HSA-391906
-607,Hereditary Angioedema Types I and II,R-HSA-211000
-608,Hereditary Angioedema Types I and II,R-HSA-6781827
-609,Hereditary Angioedema Types I and II,R-HSA-3656225
-610,Hereditary Angioedema Types I and II,R-HSA-167287
-611,Hereditary Angioedema Types I and II,R-HSA-167243
-612,Hereditary Angioedema Types I and II,R-HSA-5633008
-613,Hereditary Angioedema Types I and II,R-HSA-167238
-614,Hereditary Angioedema Types I and II,R-HSA-167290
-615,Hereditary Angioedema Types I and II,R-HSA-2022090
-616,Hereditary Angioedema Types I and II,R-HSA-193681
-617,Hereditary Angioedema Types I and II,R-HSA-5637812
-618,Hereditary Angioedema Types I and II,R-HSA-1852241
-619,Hereditary Angioedema Types I and II,R-HSA-9006936
-620,Hereditary Angioedema Types I and II,R-HSA-8878166
-621,Hereditary Angioedema Types I and II,R-HSA-418990
-622,Hereditary Angioedema Types I and II,R-HSA-9674428
-623,Hereditary Angioedema Types I and II,R-HSA-5578999
-624,Hereditary Angioedema Types I and II,R-HSA-1442490
-625,Hereditary Angioedema Types I and II,R-HSA-2022857
-626,Hereditary Angioedema Types I and II,R-HSA-187037
-627,Hereditary Angioedema Types I and II,R-HSA-69615
-628,Hereditary Angioedema Types I and II,R-HSA-622327
-629,Hereditary Angioedema Types I and II,R-HSA-390696
-630,Hereditary Angioedema Types I and II,R-HSA-391903
-631,Hereditary Angioedema Types I and II,R-HSA-9656249
-632,Hereditary Angioedema Types I and II,R-HSA-392517
-633,Hereditary Angioedema Types I and II,R-HSA-8876725
-634,Hereditary Angioedema Types I and II,R-HSA-1296071
-635,Hereditary Angioedema Types I and II,R-HSA-983712
-636,Hereditary Angioedema Types I and II,R-HSA-167152
-637,Hereditary Angioedema Types I and II,R-HSA-9674403
-638,Hereditary Angioedema Types I and II,R-HSA-9674404
-639,Hereditary Angioedema Types I and II,R-HSA-9669914
-640,Hereditary Angioedema Types I and II,R-HSA-9669934
-641,Hereditary Angioedema Types I and II,R-HSA-72203
-642,Hereditary Angioedema Types I and II,R-HSA-1500620
-643,Hereditary Angioedema Types I and II,R-HSA-1181150
-644,Hereditary Angioedema Types I and II,R-HSA-1502540
-645,Hereditary Angioedema Types I and II,R-HSA-1566977
-646,Hereditary Angioedema Types I and II,R-HSA-2142850
-647,Hereditary Angioedema Types I and II,R-HSA-181438
-648,Hereditary Angioedema Types I and II,R-HSA-390651
-649,Hereditary Angioedema Types I and II,R-HSA-8964038
-650,Hereditary Angioedema Types I and II,R-HSA-1296065
-651,Hereditary Angioedema Types I and II,R-HSA-5619060
-652,Hereditary Angioedema Types I and II,R-HSA-9620244
-653,Hereditary Angioedema Types I and II,R-HSA-159854
-654,Hereditary Angioedema Types I and II,R-HSA-9674401
-655,Hereditary Angioedema Types I and II,R-HSA-9669936
-656,Hereditary Angioedema Types I and II,R-HSA-9669926
-657,Hereditary Angioedema Types I and II,R-HSA-9669924
-658,Hereditary Angioedema Types I and II,R-HSA-9669929
-659,Hereditary Angioedema Types I and II,R-HSA-8963888
-660,Hereditary Angioedema Types I and II,R-HSA-112122
-661,Hereditary Angioedema Types I and II,R-HSA-200425
-662,Hereditary Angioedema Types I and II,R-HSA-1236394
-663,Hereditary Angioedema Types I and II,R-HSA-8951664
-664,Hereditary Angioedema Types I and II,R-HSA-8937144
-665,Hereditary Angioedema Types I and II,R-HSA-156590
-666,Hereditary Angioedema Types I and II,R-HSA-425393
-667,Hereditary Angioedema Types I and II,R-HSA-167172
-668,Hereditary Angioedema Types I and II,R-HSA-164938
-669,Hereditary Angioedema Types I and II,R-HSA-5687583
-670,Hereditary Angioedema Types I and II,R-HSA-400206
-671,Hereditary Angioedema Types I and II,R-HSA-75067
-672,Hereditary Angioedema Types I and II,R-HSA-5683826
-673,Hereditary Angioedema Types I and II,R-HSA-9612973
-674,Hereditary Angioedema Types I and II,R-HSA-416700
-675,Hereditary Angioedema Types I and II,R-HSA-5357905
-676,Hereditary Angioedema Types I and II,R-HSA-2562578
-677,Hereditary Angioedema Types I and II,R-HSA-168138
-678,Hereditary Angioedema Types I and II,R-HSA-977443
-679,Hereditary Angioedema Types I and II,R-HSA-9013957
-680,Hereditary Angioedema Types I and II,R-HSA-380095
-681,Hereditary Angioedema Types I and II,R-HSA-418597
-682,Hereditary Angioedema Types I and II,R-HSA-5619043
-683,Hereditary Angioedema Types I and II,R-HSA-110313
-684,Hereditary Angioedema Types I and II,R-HSA-426496
-685,Hereditary Angioedema Types I and II,R-HSA-448424
-686,Hereditary Angioedema Types I and II,R-HSA-9033658
-687,Hereditary Angioedema Types I and II,R-HSA-75892
-688,Hereditary Angioedema Types I and II,R-HSA-446193
-689,Hereditary Angioedema Types I and II,R-HSA-2485179
-690,Hereditary Angioedema Types I and II,R-HSA-3781860
-691,Hereditary Angioedema Types I and II,R-HSA-5688399
-692,Hereditary Angioedema Types I and II,R-HSA-73772
-693,Hereditary Angioedema Types I and II,R-HSA-72187
-694,Hereditary Angioedema Types I and II,R-HSA-75893
-695,Hereditary Angioedema Types I and II,R-HSA-6804756
-696,Hereditary Angioedema Types I and II,R-HSA-1474290
-697,Hereditary Angioedema Types I and II,R-HSA-6785807
-698,Hereditary Angioedema Types I and II,R-HSA-9609736
-699,Hereditary Angioedema Types I and II,R-HSA-2586552
-700,Hereditary Angioedema Types I and II,R-HSA-4086398
-701,Hereditary Angioedema Types I and II,R-HSA-210991
-702,Hereditary Angioedema Types I and II,R-HSA-168276
-703,Hereditary Angioedema Types I and II,R-HSA-5687868
-704,Hereditary Angioedema Types I and II,R-HSA-5619047
-705,Hereditary Angioedema Types I and II,R-HSA-5619073
-706,Hereditary Angioedema Types I and II,R-HSA-112126
-707,Hereditary Angioedema Types I and II,R-HSA-1247673
-708,Hereditary Angioedema Types I and II,R-HSA-4839744
-709,Hereditary Angioedema Types I and II,R-HSA-381426
-710,Hereditary Angioedema Types I and II,R-HSA-2980736
-711,Hereditary Angioedema Types I and II,R-HSA-69620
-712,Hereditary Angioedema Types I and II,R-HSA-2029480
-713,Hereditary Angioedema Types I and II,R-HSA-109606
-714,Hereditary Angioedema Types I and II,R-HSA-6802949
-715,Hereditary Angioedema Types I and II,R-HSA-2855086
-716,Hereditary Angioedema Types I and II,R-HSA-1839120
-717,Hereditary Angioedema Types I and II,R-HSA-2206292
-718,Hereditary Angioedema Types I and II,R-HSA-9630222
-719,Hereditary Angioedema Types I and II,R-HSA-8964043
-720,Hereditary Angioedema Types I and II,R-HSA-5603029
-721,Hereditary Angioedema Types I and II,R-HSA-73884
-722,Hereditary Angioedema Types I and II,R-HSA-73943
-723,Hereditary Angioedema Types I and II,R-HSA-418360
-724,Hereditary Angioedema Types I and II,R-HSA-2162123
-725,Hereditary Angioedema Types I and II,R-HSA-5576890
-726,Hereditary Angioedema Types I and II,R-HSA-1650814
-727,Hereditary Angioedema Types I and II,R-HSA-195258
-728,Hereditary Angioedema Types I and II,R-HSA-6783783
-729,Hereditary Angioedema Types I and II,R-HSA-5627123
-730,Hereditary Angioedema Types I and II,R-HSA-170834
-731,Hereditary Angioedema Types I and II,R-HSA-5358508
-732,Hereditary Angioedema Types I and II,R-HSA-69278
-733,Hereditary Angioedema Types I and II,R-HSA-9037629
-734,Hereditary Angioedema Types I and II,R-HSA-140342
-735,Hereditary Angioedema Types I and II,R-HSA-1638074
-736,Hereditary Angioedema Types I and II,R-HSA-140875
-737,Hereditary Angioedema Types I and II,R-HSA-156581
-738,Hereditary Angioedema Types I and II,R-HSA-3229121
-739,Hereditary Angioedema Types I and II,R-HSA-8964058
-740,Hereditary Angioedema Types I and II,R-HSA-877300
-741,Hereditary Angioedema Types I and II,R-HSA-5362517
-742,Hereditary Angioedema Types I and II,R-HSA-1433557
-743,Hereditary Angioedema Types I and II,R-HSA-5662702
-744,Hereditary Angioedema Types I and II,R-HSA-5626978
-745,Hereditary Angioedema Types I and II,R-HSA-5218859
-746,Hereditary Angioedema Types I and II,R-HSA-1236975
-747,Hereditary Angioedema Types I and II,R-HSA-6803157
-748,Hereditary Angioedema Types I and II,R-HSA-9008059
-749,Hereditary Angioedema Types I and II,R-HSA-5693532
-750,Hereditary Angioedema Types I and II,R-HSA-2187335
-751,Hereditary Angioedema Types I and II,R-HSA-1483206
-752,Hereditary Angioedema Types I and II,R-HSA-8866654
-753,Hereditary Angioedema Types I and II,R-HSA-72312
-754,Hereditary Angioedema Types I and II,R-HSA-5576891
-755,Hereditary Angioedema Types I and II,R-HSA-8852405
-756,Hereditary Angioedema Types I and II,R-HSA-8981607
-757,Hereditary Angioedema Types I and II,R-HSA-190828
-758,Hereditary Angioedema Types I and II,R-HSA-190704
-759,Hereditary Angioedema Types I and II,R-HSA-9012546
-760,Hereditary Angioedema Types I and II,R-HSA-3214858
-761,Hereditary Angioedema Types I and II,R-HSA-1226099
-762,Hereditary Angioedema Types I and II,R-HSA-1222556
-763,Hereditary Angioedema Types I and II,R-HSA-8934903
-764,Hereditary Angioedema Types I and II,R-HSA-5675221
-765,Hereditary Angioedema Types I and II,R-HSA-201688
-766,Hereditary Angioedema Types I and II,R-HSA-5607764
-767,Hereditary Angioedema Types I and II,R-HSA-5621575
-768,Hereditary Angioedema Types I and II,R-HSA-6798695
-769,Hereditary Angioedema Types I and II,R-HSA-5635851
-770,Hereditary Angioedema Types I and II,R-HSA-9678110
-771,Hereditary Angioedema Types I and II,R-HSA-156588
-772,Hereditary Angioedema Types I and II,R-HSA-74160
-773,Hereditary Angioedema Types I and II,R-HSA-1480926
-774,Hereditary Angioedema Types I and II,R-HSA-9037628
-775,Hereditary Angioedema Types I and II,R-HSA-9020558
-776,Hereditary Angioedema Types I and II,R-HSA-399721
-777,Hereditary Angioedema Types I and II,R-HSA-166520
-778,Hereditary Angioedema Types I and II,R-HSA-9617828
-779,Hereditary Angioedema Types I and II,R-HSA-1227990
-780,Hereditary Angioedema Types I and II,R-HSA-2187338
-781,Hereditary Angioedema Types I and II,R-HSA-5603027
-782,Hereditary Angioedema Types I and II,R-HSA-5668541
-783,Hereditary Angioedema Types I and II,R-HSA-381340
-784,Hereditary Angioedema Types I and II,R-HSA-5655302
-785,Hereditary Angioedema Types I and II,R-HSA-203927
-786,Hereditary Angioedema Types I and II,R-HSA-163560
-787,Hereditary Angioedema Types I and II,R-HSA-9605310
-788,Hereditary Angioedema Types I and II,R-HSA-202131
-789,Hereditary Angioedema Types I and II,R-HSA-9033807
-790,Hereditary Angioedema Types I and II,R-HSA-3248023
-791,Hereditary Angioedema Types I and II,R-HSA-512988
-792,Hereditary Angioedema Types I and II,R-HSA-8853659
-793,Hereditary Angioedema Types I and II,R-HSA-9662001
-794,Hereditary Angioedema Types I and II,R-HSA-5617833
-795,Hereditary Angioedema Types I and II,R-HSA-162582
-796,Hereditary Angioedema Types I and II,R-HSA-446203
-797,Hereditary Angioedema Types I and II,R-HSA-189200
-798,Hereditary Angioedema Types I and II,R-HSA-195721
-799,Hereditary Angioedema Types I and II,R-HSA-611105
-800,Hereditary Angioedema Types I and II,R-HSA-9616222
-801,Hereditary Angioedema Types I and II,R-HSA-1236382
-802,Hereditary Angioedema Types I and II,R-HSA-8852135
-803,Hereditary Angioedema Types I and II,R-HSA-9033241
-804,Hereditary Angioedema Types I and II,R-HSA-9024446
-805,Hereditary Angioedema Types I and II,R-HSA-6807070
-806,Hereditary Angioedema Types I and II,R-HSA-3371556
-807,Hereditary Angioedema Types I and II,R-HSA-3214842
-808,Hereditary Angioedema Types I and II,R-HSA-2243919
-809,Hereditary Angioedema Types I and II,R-HSA-1566948
-810,Hereditary Angioedema Types I and II,R-HSA-1266695
-811,Hereditary Angioedema Types I and II,R-HSA-8986944
-812,Aortic Diseases,R-HSA-977136
-813,Atherosclerosis,R-HSA-8963896
-814,Atherosclerosis,R-HSA-5679096
-815,Atherosclerosis,R-HSA-5679090
-816,Atherosclerosis,R-HSA-193807
-817,Atherosclerosis,R-HSA-1369062
-818,Atherosclerosis,R-HSA-8964058
-819,Atherosclerosis,R-HSA-5652084
-820,Atherosclerosis,R-HSA-9629232
-821,Atherosclerosis,R-HSA-9630747
-822,Atherosclerosis,R-HSA-5578996
-823,Atherosclerosis,R-HSA-1474151
-824,Atherosclerosis,R-HSA-2173782
-825,Atherosclerosis,R-HSA-5686938
-826,Atherosclerosis,R-HSA-9675132
-827,Atherosclerosis,R-HSA-1592389
-828,Atherosclerosis,R-HSA-194138
-829,Atherosclerosis,R-HSA-879415
-830,Atherosclerosis,R-HSA-9673324
-831,Atherosclerosis,R-HSA-202131
-832,Dementia,R-HSA-8862803
-833,Dementia,R-HSA-9656249
-834,Dementia,R-HSA-9656256
-835,Dementia,R-HSA-1912408
-836,Dementia,R-HSA-205017
-837,Dementia,R-HSA-3656234
-838,Dementia,R-HSA-5619111
-839,Dementia,R-HSA-8863678
-840,Cerebrovascular Disorders,R-HSA-9012852
-841,Basal Ganglia Cerebrovascular Disease,R-HSA-5619111
-842,Brain Ischemia,R-HSA-5619039
-843,Brain Infarction,R-HSA-9609310
-844,CADASIL,R-HSA-1912408
-845,CADASIL,R-HSA-9012852
-846,Infarction,R-HSA-5682113
-847,Infarction,R-HSA-9629232
-848,Hypoxia-Ischemia,R-HSA-1234174
-849,Hypoxia-Ischemia,R-HSA-1234158
-850,Hypoxia-Ischemia,R-HSA-1234176
-851,Hypoxia-Ischemia,R-HSA-8849473
-852,Hypoxia-Ischemia,R-HSA-8934903
-853,Hypoxia-Ischemia,R-HSA-9629232
-854,Hypoxia-Ischemia,R-HSA-6803204
-855,Hypoxia-Ischemia,R-HSA-8848021
-856,Hypoxia-Ischemia,R-HSA-2122947
-857,Hypoxia-Ischemia,R-HSA-8939902
-858,Hypoxia-Ischemia,R-HSA-9615017
-859,Hypoxia-Ischemia,R-HSA-452723
-860,Hypoxia-Ischemia,R-HSA-5628897
-861,Hypoxia-Ischemia,R-HSA-2559580
-862,Hypoxia-Ischemia,R-HSA-8878166
-863,Hypoxia-Ischemia,R-HSA-8857538
-864,Hypoxia-Ischemia,R-HSA-2262752
-865,Hypoxia-Ischemia,R-HSA-5619039
-866,Hypoxia-Ischemia,R-HSA-8953897
-867,Hypoxia-Ischemia,R-HSA-1980143
-868,Hypoxia-Ischemia,R-HSA-5633008
-869,Hypoxia-Ischemia,R-HSA-1236394
-870,Hypoxia-Ischemia,R-HSA-6806834
-871,Hypoxia-Ischemia,R-HSA-8964572
-872,Hypoxia-Ischemia,R-HSA-8862803
-873,Hypoxia-Ischemia,R-HSA-8941858
-874,Hypoxia-Ischemia,R-HSA-72613
-875,Hypoxia-Ischemia,R-HSA-3371556
-876,Fabry Disease,R-HSA-1605736
-877,Stroke,R-HSA-1912408
-878,Stroke,R-HSA-430116
-879,Stroke,R-HSA-5678420
-880,Stroke,R-HSA-9012852
-881,Intracranial Embolism and Thrombosis,R-HSA-109582
-882,Intracranial Embolism and Thrombosis,R-HSA-430116
-883,Intracranial Embolism and Thrombosis,R-HSA-210990
-884,Intracranial Embolism and Thrombosis,R-HSA-9668250
-885,Intracranial Embolism and Thrombosis,R-HSA-9662001
-886,Intracranial Embolism and Thrombosis,R-HSA-9672383
-887,Intracranial Embolism and Thrombosis,R-HSA-392154
-888,Intracranial Embolism and Thrombosis,R-HSA-9651496
-889,Intracranial Thrombosis,R-HSA-9668250
-890,Intracranial Hemorrhages,R-HSA-9668250
-891,Vasculitis,R-HSA-5432849
-892,Colitis,R-HSA-9020933
-893,Compartment Syndromes,R-HSA-5617820
-894,Compartment Syndromes,R-HSA-3318486
-895,Intra-Abdominal Hypertension,R-HSA-5619087
-896,Embolism and Thrombosis,R-HSA-109582
-897,Embolism and Thrombosis,R-HSA-430116
-898,Embolism and Thrombosis,R-HSA-210990
-899,Embolism and Thrombosis,R-HSA-9662001
-900,Embolism and Thrombosis,R-HSA-9668250
-901,Embolism and Thrombosis,R-HSA-9672383
-902,Embolism and Thrombosis,R-HSA-392154
-903,Embolism and Thrombosis,R-HSA-9651496
-904,Pulmonary Embolism,R-HSA-9603302
-905,Pulmonary Embolism,R-HSA-9015379
-906,Pulmonary Embolism,R-HSA-9015111
-907,Pulmonary Embolism,R-HSA-9015122
-908,Pulmonary Embolism,R-HSA-9026967
-909,Pulmonary Infarction,R-HSA-9609310
-910,Thromboembolism,R-HSA-76002
-911,Thrombosis,R-HSA-109582
-912,Thrombosis,R-HSA-430116
-913,Thrombosis,R-HSA-210990
-914,Thrombosis,R-HSA-9662001
-915,Thrombosis,R-HSA-9668250
-916,Thrombosis,R-HSA-9672383
-917,Thrombosis,R-HSA-392154
-918,Thrombosis,R-HSA-9651496
-919,Venous Thrombosis,R-HSA-9672383
-920,Hemostatic Disorders,R-HSA-9671793
-921,Hemostatic Disorders,R-HSA-9651496
-922,Ehlers-Danlos Syndrome,R-HSA-3595174
-923,Ehlers-Danlos Syndrome,R-HSA-3560783
-924,Ehlers-Danlos Syndrome,R-HSA-4420332
-925,Multiple Myeloma,R-HSA-2033515
-926,Multiple Myeloma,R-HSA-2033514
-927,Multiple Myeloma,R-HSA-5655291
-928,Multiple Myeloma,R-HSA-1226099
-929,Multiple Myeloma,R-HSA-8853338
-930,Multiple Myeloma,R-HSA-190239
-931,Multiple Myeloma,R-HSA-5655332
-932,Multiple Myeloma,R-HSA-1839130
-933,Multiple Myeloma,R-HSA-9648895
-934,Pseudoxanthoma Elasticum,R-HSA-5690338
-935,Telangiectasia,R-HSA-69563
-936,Telangiectasia,R-HSA-5693548
-937,Telangiectasia,R-HSA-6804756
-938,Telangiectasia,R-HSA-201451
-939,Hypertension,R-HSA-1474151
-940,Hypertension,R-HSA-2022377
-941,Hypertension,R-HSA-5579017
-942,Hypertension,R-HSA-5619087
-943,Hypertension,R-HSA-5579028
-944,Hypertension,R-HSA-202131
-945,Essential Hypertension,R-HSA-1474151
-946,Hypotension,R-HSA-8940959
-947,Hypotension,R-HSA-418925
-948,Hypotension,R-HSA-9660829
-949,Hypotension,R-HSA-9609310
-950,Post-Exercise Hypotension,R-HSA-9609310
-951,Optic Neuropathy,R-HSA-5579000
-952,Raynaud Disease,R-HSA-8986944
-953,CREST Syndrome,R-HSA-2424246
-954,CREST Syndrome,R-HSA-2681681
-955,CREST Syndrome,R-HSA-2681694
-956,Reperfusion Injury,R-HSA-9615017
-957,Spinal Cord Ischemia,R-HSA-5619039
-958,Ataxia Telangiectasia,R-HSA-69563
-959,Ataxia Telangiectasia,R-HSA-5693548
-960,Ataxia Telangiectasia,R-HSA-6804756
-961,Rheumatoid Vasculitis,R-HSA-5432849
-962,Cardiovascular Disease,R-HSA-216083
-963,Cardiovascular Disease,R-HSA-211935
-964,Cardiovascular Disease,R-HSA-2022377
-965,Cardiovascular Disease,R-HSA-9033658
-966,Cardiovascular Disease,R-HSA-3560801
-967,Cardiovascular Disease,R-HSA-1793185
-968,Cardiovascular Disease,R-HSA-9018678
-969,Heart Defect,R-HSA-3560801
-970,Heart Defect,R-HSA-5682113
-971,Heart Defect,R-HSA-9629232
-972,Heart Defect,R-HSA-5619108
-973,Heart Defect,R-HSA-5619053
-974,Heart Defect,R-HSA-5619039
-975,Heart Defect,R-HSA-5678420
-976,Heart Defect,R-HSA-5619092
-977,Heart Defect,R-HSA-5619066
-978,Vascular Malformation,R-HSA-8951664
-979,Cardiovascular Infection,R-HSA-9018679
-980,Cardiovascular Infection,R-HSA-9033658
-981,Cardiovascular Infection,R-HSA-1793185
-982,Cardiovascular Infection,R-HSA-9018678
-983,Tuberculosi,R-HSA-9635486
-984,Heart Disease,R-HSA-5682113
-985,Heart Disease,R-HSA-3560801
-986,Heart Disease,R-HSA-9034013
-987,Heart Disease,R-HSA-9629232
-988,Heart Disease,R-HSA-8981607
-989,Heart Disease,R-HSA-201451
-990,Heart Disease,R-HSA-3785653
-991,Heart Disease,R-HSA-5619092
-992,Heart Disease,R-HSA-2206296
-993,Heart Disease,R-HSA-5619108
-994,Heart Disease,R-HSA-5619053
-995,Heart Disease,R-HSA-9034015
-996,Heart Disease,R-HSA-1793185
-997,Heart Disease,R-HSA-5619039
-998,Heart Disease,R-HSA-2046106
-999,Heart Disease,R-HSA-8986944
-1000,Cardiac Complexe,R-HSA-8963889
-1001,Pre-Excitation Syndrome,R-HSA-5619108
-1002,Pre-Excitation Syndrome,R-HSA-1912408
-1003,Pre-Excitation Syndrome,R-HSA-6781823
-1004,Pre-Excitation Syndrome,R-HSA-5609975
-1005,Pre-Excitation Syndrome,R-HSA-5619062
-1006,Pre-Excitation Syndrome,R-HSA-5655302
-1007,Pre-Excitation Syndrome,R-HSA-5683826
-1008,Pre-Excitation Syndrome,R-HSA-6782135
-1009,Pre-Excitation Syndrome,R-HSA-1226099
-1010,Pre-Excitation Syndrome,R-HSA-5685938
-1011,Pre-Excitation Syndrome,R-HSA-6781827
-1012,Pre-Excitation Syndrome,R-HSA-9012852
-1013,Vascular Disease,R-HSA-9671555
-1014,Vascular Disease,R-HSA-9671793
-1015,Vascular Disease,R-HSA-1474151
-1016,Vascular Disease,R-HSA-201451
-1017,Vascular Disease,R-HSA-8981607
-1018,Vascular Disease,R-HSA-1296052
-1019,Vascular Disease,R-HSA-2022377
-1020,Vascular Disease,R-HSA-1296025
-1021,Vascular Disease,R-HSA-202131
-1022,Vascular Disease,R-HSA-216083
-1023,Vascular Disease,R-HSA-5619111
-1024,Vascular Disease,R-HSA-5579032
-1025,Vascular Disease,R-HSA-9657689
-1026,Vascular Disease,R-HSA-1474290
-1027,Aortic Disease,R-HSA-9008177
-1028,Aortic Disease,R-HSA-5655244
-1029,Aortic Disease,R-HSA-5655343
-1030,Aortic Disease,R-HSA-5655313
-1031,Aortic Disease,R-HSA-977136
-1032,Aortic Disease,R-HSA-9008188
-1033,Cerebrovascular Disorder,R-HSA-5619111
-1034,Intracranial Embolism and Thrombosi,R-HSA-9668250
-1035,Compartment Syndrome,R-HSA-9678108
-1036,Compartment Syndrome,R-HSA-195258
-1037,Compartment Syndrome,R-HSA-3248023
-1038,Embolism and Thrombosi,R-HSA-9603302
-1039,Embolism and Thrombosi,R-HSA-9015379
-1040,Embolism and Thrombosi,R-HSA-9015111
-1041,Embolism and Thrombosi,R-HSA-9015122
-1042,Embolism and Thrombosi,R-HSA-111919
-1043,Embolism and Thrombosi,R-HSA-9026967
-1044,Hemostatic Disorder,R-HSA-9671793
-1045,Hemostatic Disorder,R-HSA-9651496
-1046,Peripheral Vascular Disease,R-HSA-8943959
-1047,Peripheral Vascular Disease,R-HSA-9615249
-1048,Vascular Neoplasm,R-HSA-9671555
+5,Cardiovascular Diseases,R-HSA-216083
+6,Cardiovascular Diseases,R-HSA-211935
+7,Cardiovascular Diseases,R-HSA-2022377
+8,Cardiovascular Diseases,R-HSA-3560801
+9,Cardiovascular Diseases,R-HSA-1793185
+10,Cardiovascular Diseases,R-HSA-9018678
+11,Cardiovascular Abnormalities,R-HSA-5617472
+12,Cardiovascular Abnormalities,R-HSA-9651496
+13,Heart Defects,R-HSA-3560801
+14,Heart Defects,R-HSA-8866906
+15,Heart Defects,R-HSA-8864260
+16,Heart Defects,R-HSA-8866910
+17,Heart Defects,R-HSA-5619053
+18,Heart Defects,R-HSA-5678420
+19,Heart Defects,R-HSA-5619092
+20,Heart Defects,R-HSA-5682113
+21,Heart Defects,R-HSA-5619039
+22,Heart Defects,R-HSA-5619108
+23,Heart Defects,R-HSA-8986944
+24,Heart Defects,R-HSA-3785653
+25,Heart Defects,R-HSA-9629232
+26,Heart Defects,R-HSA-5619066
+27,DiGeorge Syndrome,R-HSA-372449
+28,Alagille Syndrome,R-HSA-1980145
+29,Alagille Syndrome,R-HSA-1912408
+30,Barth Syndrome,R-HSA-5615556
+31,LEOPARD Syndrome,R-HSA-9656223
+32,Marfan Syndrome,R-HSA-1566948
+33,Noonan Syndrome,R-HSA-9660537
+34,Noonan Syndrome,R-HSA-9656223
+35,Noonan Syndrome,R-HSA-6802949
+36,Noonan Syndrome,R-HSA-9652169
+37,Turner Syndrome,R-HSA-5619092
+38,Turner Syndrome,R-HSA-8986944
+39,Turner Syndrome,R-HSA-5678420
+40,Turner Syndrome,R-HSA-5655302
+41,Turner Syndrome,R-HSA-1839117
+42,Turner Syndrome,R-HSA-9660537
+43,Turner Syndrome,R-HSA-6802949
+44,Turner Syndrome,R-HSA-1839122
+45,Turner Syndrome,R-HSA-9656223
+46,Turner Syndrome,R-HSA-1226099
+47,Turner Syndrome,R-HSA-9674415
+48,Turner Syndrome,R-HSA-1839126
+49,Turner Syndrome,R-HSA-9646304
+50,Turner Syndrome,R-HSA-9646303
+51,Vascular Malformations,R-HSA-8864260
+52,Vascular Malformations,R-HSA-8951664
+53,May-Thurner Syndrome,R-HSA-5603027
+54,May-Thurner Syndrome,R-HSA-5620920
+55,May-Thurner Syndrome,R-HSA-3656253
+56,May-Thurner Syndrome,R-HSA-9679509
+57,May-Thurner Syndrome,R-HSA-8851708
+58,May-Thurner Syndrome,R-HSA-8986944
+59,May-Thurner Syndrome,R-HSA-6781823
+60,May-Thurner Syndrome,R-HSA-5260271
+61,May-Thurner Syndrome,R-HSA-5619095
+62,May-Thurner Syndrome,R-HSA-5624958
+63,May-Thurner Syndrome,R-HSA-5602358
+64,May-Thurner Syndrome,R-HSA-5619058
+65,May-Thurner Syndrome,R-HSA-5602415
+66,May-Thurner Syndrome,R-HSA-5603041
+67,May-Thurner Syndrome,R-HSA-5603037
+68,May-Thurner Syndrome,R-HSA-9022927
+69,May-Thurner Syndrome,R-HSA-9022699
+70,May-Thurner Syndrome,R-HSA-9682708
+71,May-Thurner Syndrome,R-HSA-5358508
+72,May-Thurner Syndrome,R-HSA-9678110
+73,May-Thurner Syndrome,R-HSA-6802949
+74,May-Thurner Syndrome,R-HSA-9679504
+75,May-Thurner Syndrome,R-HSA-6782135
+76,May-Thurner Syndrome,R-HSA-3238698
+77,May-Thurner Syndrome,R-HSA-9022692
+78,May-Thurner Syndrome,R-HSA-9616334
+79,May-Thurner Syndrome,R-HSA-1226099
+80,May-Thurner Syndrome,R-HSA-8936459
+81,May-Thurner Syndrome,R-HSA-9605310
+82,May-Thurner Syndrome,R-HSA-2219528
+83,May-Thurner Syndrome,R-HSA-5628897
+84,May-Thurner Syndrome,R-HSA-5619066
+85,May-Thurner Syndrome,R-HSA-9616333
+86,May-Thurner Syndrome,R-HSA-6781827
+87,May-Thurner Syndrome,R-HSA-3248023
+88,May-Thurner Syndrome,R-HSA-9012852
+89,May-Thurner Syndrome,R-HSA-9609646
+90,May-Thurner Syndrome,R-HSA-8878166
+91,May-Thurner Syndrome,R-HSA-9033241
+92,May-Thurner Syndrome,R-HSA-1566948
+93,May-Thurner Syndrome,R-HSA-195258
+94,Vascular Ring,R-HSA-8951664
+95,Tuberculosis,R-HSA-9635486
+96,Tuberculosis,R-HSA-9637687
+97,Tuberculosis,R-HSA-9637679
+98,Tuberculosis,R-HSA-9637698
+99,Tuberculosis,R-HSA-9635465
+100,Tuberculosis,R-HSA-9636383
+101,Tuberculosis,R-HSA-1222387
+102,Tuberculosis,R-HSA-9636467
+103,Tuberculosis,R-HSA-9637690
+104,Tuberculosis,R-HSA-1222541
+105,Tuberculosis,R-HSA-9636667
+106,Tuberculosis,R-HSA-9635644
+107,Tuberculosis,R-HSA-9637628
+108,Tuberculosis,R-HSA-9636249
+109,Tuberculosis,R-HSA-9639775
+110,Tuberculosis,R-HSA-1222499
+111,Tuberculosis,R-HSA-1222449
+112,Tuberculosis,R-HSA-1222538
+113,Tuberculosis,R-HSA-9636569
+114,Tuberculosis,R-HSA-5663205
+115,Tuberculosis,R-HSA-5621575
+116,Tuberculosis,R-HSA-5621481
+117,Tuberculosis,R-HSA-1834941
+118,Tuberculosis,R-HSA-9660826
+119,Tuberculosis,R-HSA-1643685
+120,Heart Diseases,R-HSA-5682113
+121,Heart Diseases,R-HSA-5668541
+122,Heart Diseases,R-HSA-9615017
+123,Heart Diseases,R-HSA-2046106
+124,Heart Diseases,R-HSA-9629232
+125,Heart Diseases,R-HSA-392499
+126,Heart Diseases,R-HSA-201451
+127,Heart Diseases,R-HSA-3560801
+128,Heart Diseases,R-HSA-9034013
+129,Heart Diseases,R-HSA-8981607
+130,Heart Diseases,R-HSA-3785653
+131,Heart Diseases,R-HSA-5619092
+132,Heart Diseases,R-HSA-2206296
+133,Heart Diseases,R-HSA-5619108
+134,Heart Diseases,R-HSA-5619053
+135,Heart Diseases,R-HSA-9034015
+136,Heart Diseases,R-HSA-1793185
+137,Heart Diseases,R-HSA-5619039
+138,Heart Diseases,R-HSA-8986944
+139,Arrhythmias,R-HSA-9684068
+140,Arrhythmias,R-HSA-9609310
+141,Arrhythmias,R-HSA-5576895
+142,Arrhythmias,R-HSA-5678420
+143,Atrial Fibrillation,R-HSA-5678420
+144,Cardiac Complexes,R-HSA-8963889
+145,Cardiac Complexes,R-HSA-9660537
+146,Cardiac Complexes,R-HSA-1296071
+147,Cardiac Complexes,R-HSA-1980145
+148,Cardiac Complexes,R-HSA-163560
+149,Heart Block,R-HSA-9609310
+150,Heart Block,R-HSA-9615249
+151,Heart Block,R-HSA-9614933
+152,Adams-Stokes Syndrome,R-HSA-6802938
+153,Adams-Stokes Syndrome,R-HSA-9621032
+154,Adams-Stokes Syndrome,R-HSA-9621048
+155,Bundle-Branch Block,R-HSA-164508
+156,Long QT Syndrome,R-HSA-5577050
+157,Andersen Syndrome,R-HSA-9616334
+158,Romano-Ward Syndrome,R-HSA-3656253
+159,Romano-Ward Syndrome,R-HSA-3656237
+160,Romano-Ward Syndrome,R-HSA-9683439
+161,Romano-Ward Syndrome,R-HSA-9678108
+162,Romano-Ward Syndrome,R-HSA-9679506
+163,Pre-Excitation Syndromes,R-HSA-5619108
+164,Pre-Excitation Syndromes,R-HSA-5655302
+165,Pre-Excitation Syndromes,R-HSA-1226099
+166,Pre-Excitation Syndromes,R-HSA-1912408
+167,Pre-Excitation Syndromes,R-HSA-6781823
+168,Pre-Excitation Syndromes,R-HSA-5609975
+169,Pre-Excitation Syndromes,R-HSA-5619062
+170,Pre-Excitation Syndromes,R-HSA-5683826
+171,Pre-Excitation Syndromes,R-HSA-6782135
+172,Pre-Excitation Syndromes,R-HSA-5685938
+173,Pre-Excitation Syndromes,R-HSA-6781827
+174,Pre-Excitation Syndromes,R-HSA-9012852
+175,Lown-Ganong-Levine Syndrome,R-HSA-5628897
+176,Lown-Ganong-Levine Syndrome,R-HSA-9673766
+177,Wolff-Parkinson-White Syndrome,R-HSA-8986944
+178,Wolff-Parkinson-White Syndrome,R-HSA-5620922
+179,Wolff-Parkinson-White Syndrome,R-HSA-5620920
+180,Wolff-Parkinson-White Syndrome,R-HSA-5083625
+181,Wolff-Parkinson-White Syndrome,R-HSA-1912408
+182,Wolff-Parkinson-White Syndrome,R-HSA-5579004
+183,Tachycardia,R-HSA-5619109
+184,Ventricular Fibrillation,R-HSA-5678420
+185,Cardiac Output,R-HSA-163560
+186,Cardiomegaly,R-HSA-5678420
+187,Cardiomyopathy,R-HSA-5678420
+188,Cardiomyopathy,R-HSA-3828062
+189,Cardiomyopathy,R-HSA-9656223
+190,Cardiomyopathy,R-HSA-9660537
+191,Cardiomyopathy,R-HSA-5655799
+192,Cardiomyopathy,R-HSA-5619049
+193,Cardiomyopathy,R-HSA-392499
+194,Hypertrophy,R-HSA-9660537
+195,Hypertrophy,R-HSA-9615017
+196,Cardiomyopathies,R-HSA-5678420
+197,Cardiotoxicity,R-HSA-1236394
+198,Heart Arrest,R-HSA-6804425
+199,Heart Arrest,R-HSA-8867667
+200,Heart Failure,R-HSA-1482798
+201,Heart Failure,R-HSA-5619053
+202,Heart Failure,R-HSA-5678420
+203,Heart Failure,R-HSA-9629232
+204,Heart Failure,R-HSA-392499
+205,Cardio-Renal Syndrome,R-HSA-5619098
+206,Cardio-Renal Syndrome,R-HSA-5619087
+207,Cardio-Renal Syndrome,R-HSA-5619104
+208,Cardio-Renal Syndrome,R-HSA-5619054
+209,Cardio-Renal Syndrome,R-HSA-5619050
+210,Cardio-Renal Syndrome,R-HSA-5678420
+211,Cardio-Renal Syndrome,R-HSA-9652169
+212,Cardio-Renal Syndrome,R-HSA-5083625
+213,Edema,R-HSA-9657689
+214,Edema,R-HSA-9657688
+215,Edema,R-HSA-9671793
+216,Edema,R-HSA-9651496
+217,Edema,R-HSA-5210891
+218,Edema,R-HSA-9018677
+219,Edema,R-HSA-9018679
+220,Heart Neoplasms,R-HSA-1912416
+221,Carney Complex,R-HSA-5685939
+222,Heart Rupture,R-HSA-9629232
+223,Heart Rupture,R-HSA-430116
+224,Williams Syndrome,R-HSA-3656253
+225,Williams Syndrome,R-HSA-5358508
+226,Williams Syndrome,R-HSA-9673766
+227,Williams Syndrome,R-HSA-2219528
+228,Williams Syndrome,R-HSA-5655332
+229,Williams Syndrome,R-HSA-195258
+230,Williams Syndrome,R-HSA-8853338
+231,Myocardial Ischemia,R-HSA-9629232
+232,Myocardial Ischemia,R-HSA-5619039
+233,Acute Coronary Syndrome,R-HSA-9611277
+234,Acute Coronary Syndrome,R-HSA-5432849
+235,Angina Pectoris,R-HSA-9609310
+236,Angina,R-HSA-9609310
+237,Coronary Disease,R-HSA-5682113
+238,Coronary Disease,R-HSA-5679090
+239,Coronary Disease,R-HSA-75205
+240,Coronary Artery Disease,R-HSA-75205
+241,Coronary Thrombosis,R-HSA-9611277
+242,Coronary Thrombosis,R-HSA-2396079
+243,Myocardial Infarction,R-HSA-5682113
+244,Myocardial Infarction,R-HSA-9629232
+245,Pulmonary Heart Disease,R-HSA-3779381
+246,Pulmonary Heart Disease,R-HSA-9609310
+247,Embolism,R-HSA-9603302
+248,Embolism,R-HSA-9015379
+249,Embolism,R-HSA-9015111
+250,Embolism,R-HSA-9015122
+251,Embolism,R-HSA-111919
+252,Embolism,R-HSA-9026967
+253,Vascular Diseases,R-HSA-9671793
+254,Vascular Diseases,R-HSA-9671555
+255,Vascular Diseases,R-HSA-1474290
+256,Vascular Diseases,R-HSA-194138
+257,Vascular Diseases,R-HSA-3299685
+258,Vascular Diseases,R-HSA-201451
+259,Vascular Diseases,R-HSA-162582
+260,Vascular Diseases,R-HSA-1474151
+261,Vascular Diseases,R-HSA-8981607
+262,Vascular Diseases,R-HSA-1296052
+263,Vascular Diseases,R-HSA-2022377
+264,Vascular Diseases,R-HSA-1296025
+265,Vascular Diseases,R-HSA-202131
+266,Vascular Diseases,R-HSA-216083
+267,Vascular Diseases,R-HSA-5619111
+268,Vascular Diseases,R-HSA-5579032
+269,Vascular Diseases,R-HSA-9657689
+270,Aneurysm,R-HSA-1566948
+271,Loeys-Dietz Syndrome,R-HSA-5619068
+272,Loeys-Dietz Syndrome,R-HSA-2470946
+273,Klippel-Trenaunay-Weber Syndrome,R-HSA-2206307
+274,Klippel-Trenaunay-Weber Syndrome,R-HSA-5655302
+275,Klippel-Trenaunay-Weber Syndrome,R-HSA-4043916
+276,Klippel-Trenaunay-Weber Syndrome,R-HSA-1839122
+277,Klippel-Trenaunay-Weber Syndrome,R-HSA-5693565
+278,Sturge-Weber Syndrome,R-HSA-2206307
+279,Sturge-Weber Syndrome,R-HSA-5655302
+280,Sturge-Weber Syndrome,R-HSA-4043916
+281,Sturge-Weber Syndrome,R-HSA-1839122
+282,Sturge-Weber Syndrome,R-HSA-5693565
+283,Angioedemas,R-HSA-9657689
+284,Angioedemas,R-HSA-9657688
+285,Angioedemas,R-HSA-9651496
+286,Angioedemas,R-HSA-9671793
+287,Hereditary Angioedema Type III,R-HSA-9653249
+288,Hereditary Angioedema Types I and II,R-HSA-9657689
+289,Hereditary Angioedema Types I and II,R-HSA-9657688
+290,Hereditary Angioedema Types I and II,R-HSA-5657560
+291,Hereditary Angioedema Types I and II,R-HSA-3359454
+292,Hereditary Angioedema Types I and II,R-HSA-3359463
+293,Hereditary Angioedema Types I and II,R-HSA-3359462
+294,Hereditary Angioedema Types I and II,R-HSA-5658471
+295,Hereditary Angioedema Types I and II,R-HSA-5619114
+296,Hereditary Angioedema Types I and II,R-HSA-5619097
+297,Hereditary Angioedema Types I and II,R-HSA-73857
+298,Hereditary Angioedema Types I and II,R-HSA-427589
+299,Hereditary Angioedema Types I and II,R-HSA-2206296
+300,Hereditary Angioedema Types I and II,R-HSA-156580
+301,Hereditary Angioedema Types I and II,R-HSA-75953
+302,Hereditary Angioedema Types I and II,R-HSA-73776
+303,Hereditary Angioedema Types I and II,R-HSA-75955
+304,Hereditary Angioedema Types I and II,R-HSA-2132295
+305,Hereditary Angioedema Types I and II,R-HSA-73856
+306,Hereditary Angioedema Types I and II,R-HSA-674695
+307,Hereditary Angioedema Types I and II,R-HSA-5357609
+308,Hereditary Angioedema Types I and II,R-HSA-112382
+309,Hereditary Angioedema Types I and II,R-HSA-5609976
+310,Hereditary Angioedema Types I and II,R-HSA-76042
+311,Hereditary Angioedema Types I and II,R-HSA-6807505
+312,Hereditary Angioedema Types I and II,R-HSA-77075
+313,Hereditary Angioedema Types I and II,R-HSA-167162
+314,Hereditary Angioedema Types I and II,R-HSA-73779
+315,Hereditary Angioedema Types I and II,R-HSA-5619050
+316,Hereditary Angioedema Types I and II,R-HSA-167160
+317,Hereditary Angioedema Types I and II,R-HSA-9651496
+318,Hereditary Angioedema Types I and II,R-HSA-9671793
+319,Hereditary Angioedema Types I and II,R-HSA-5619058
+320,Hereditary Angioedema Types I and II,R-HSA-5619110
+321,Hereditary Angioedema Types I and II,R-HSA-3656253
+322,Hereditary Angioedema Types I and II,R-HSA-5579011
+323,Hereditary Angioedema Types I and II,R-HSA-5250989
+324,Hereditary Angioedema Types I and II,R-HSA-5579013
+325,Hereditary Angioedema Types I and II,R-HSA-3359457
+326,Hereditary Angioedema Types I and II,R-HSA-5619046
+327,Hereditary Angioedema Types I and II,R-HSA-9629232
+328,Hereditary Angioedema Types I and II,R-HSA-452723
+329,Hereditary Angioedema Types I and II,R-HSA-3656237
+330,Hereditary Angioedema Types I and II,R-HSA-73933
+331,Hereditary Angioedema Types I and II,R-HSA-110373
+332,Hereditary Angioedema Types I and II,R-HSA-5651801
+333,Hereditary Angioedema Types I and II,R-HSA-5687128
+334,Hereditary Angioedema Types I and II,R-HSA-5579016
+335,Hereditary Angioedema Types I and II,R-HSA-5579002
+336,Hereditary Angioedema Types I and II,R-HSA-5632987
+337,Hereditary Angioedema Types I and II,R-HSA-5619039
+338,Hereditary Angioedema Types I and II,R-HSA-5250958
+339,Hereditary Angioedema Types I and II,R-HSA-5632928
+340,Hereditary Angioedema Types I and II,R-HSA-6809583
+341,Hereditary Angioedema Types I and II,R-HSA-5619107
+342,Hereditary Angioedema Types I and II,R-HSA-5619056
+343,Hereditary Angioedema Types I and II,R-HSA-3656244
+344,Hereditary Angioedema Types I and II,R-HSA-4793953
+345,Hereditary Angioedema Types I and II,R-HSA-113418
+346,Hereditary Angioedema Types I and II,R-HSA-5619061
+347,Hereditary Angioedema Types I and II,R-HSA-5579006
+348,Hereditary Angioedema Types I and II,R-HSA-5579029
+349,Hereditary Angioedema Types I and II,R-HSA-9035968
+350,Hereditary Angioedema Types I and II,R-HSA-5579022
+351,Hereditary Angioedema Types I and II,R-HSA-5579019
+352,Hereditary Angioedema Types I and II,R-HSA-5578998
+353,Hereditary Angioedema Types I and II,R-HSA-5578995
+354,Hereditary Angioedema Types I and II,R-HSA-5619035
+355,Hereditary Angioedema Types I and II,R-HSA-5619070
+356,Hereditary Angioedema Types I and II,R-HSA-2206302
+357,Hereditary Angioedema Types I and II,R-HSA-3645790
+358,Hereditary Angioedema Types I and II,R-HSA-3642278
+359,Hereditary Angioedema Types I and II,R-HSA-420092
+360,Hereditary Angioedema Types I and II,R-HSA-3229133
+361,Hereditary Angioedema Types I and II,R-HSA-173599
+362,Hereditary Angioedema Types I and II,R-HSA-5619037
+363,Hereditary Angioedema Types I and II,R-HSA-5663020
+364,Hereditary Angioedema Types I and II,R-HSA-4793952
+365,Hereditary Angioedema Types I and II,R-HSA-71336
+366,Hereditary Angioedema Types I and II,R-HSA-2206307
+367,Hereditary Angioedema Types I and II,R-HSA-446107
+368,Hereditary Angioedema Types I and II,R-HSA-5621481
+369,Hereditary Angioedema Types I and II,R-HSA-936837
+370,Hereditary Angioedema Types I and II,R-HSA-4793954
+371,Hereditary Angioedema Types I and II,R-HSA-5619078
+372,Hereditary Angioedema Types I and II,R-HSA-167242
+373,Hereditary Angioedema Types I and II,R-HSA-76071
+374,Hereditary Angioedema Types I and II,R-HSA-3642279
+375,Hereditary Angioedema Types I and II,R-HSA-390466
+376,Hereditary Angioedema Types I and II,R-HSA-3906995
+377,Hereditary Angioedema Types I and II,R-HSA-5688031
+378,Hereditary Angioedema Types I and II,R-HSA-212436
+379,Hereditary Angioedema Types I and II,R-HSA-5250992
+380,Hereditary Angioedema Types I and II,R-HSA-5250981
+381,Hereditary Angioedema Types I and II,R-HSA-5250968
+382,Hereditary Angioedema Types I and II,R-HSA-5250955
+383,Hereditary Angioedema Types I and II,R-HSA-174437
+384,Hereditary Angioedema Types I and II,R-HSA-69183
+385,Hereditary Angioedema Types I and II,R-HSA-174414
+386,Hereditary Angioedema Types I and II,R-HSA-418592
+387,Hereditary Angioedema Types I and II,R-HSA-1483101
+388,Hereditary Angioedema Types I and II,R-HSA-391251
+389,Hereditary Angioedema Types I and II,R-HSA-6782135
+390,Hereditary Angioedema Types I and II,R-HSA-388844
+391,Hereditary Angioedema Types I and II,R-HSA-3270619
+392,Hereditary Angioedema Types I and II,R-HSA-1606341
+393,Hereditary Angioedema Types I and II,R-HSA-5250971
+394,Hereditary Angioedema Types I and II,R-HSA-211897
+395,Hereditary Angioedema Types I and II,R-HSA-3282872
+396,Hereditary Angioedema Types I and II,R-HSA-8864260
+397,Hereditary Angioedema Types I and II,R-HSA-8866911
+398,Hereditary Angioedema Types I and II,R-HSA-8866910
+399,Hereditary Angioedema Types I and II,R-HSA-167158
+400,Hereditary Angioedema Types I and II,R-HSA-428359
+401,Hereditary Angioedema Types I and II,R-HSA-3000484
+402,Hereditary Angioedema Types I and II,R-HSA-72086
+403,Hereditary Angioedema Types I and II,R-HSA-444257
+404,Hereditary Angioedema Types I and II,R-HSA-4549349
+405,Hereditary Angioedema Types I and II,R-HSA-9640463
+406,Hereditary Angioedema Types I and II,R-HSA-76046
+407,Hereditary Angioedema Types I and II,R-HSA-1660514
+408,Hereditary Angioedema Types I and II,R-HSA-2173795
+409,Hereditary Angioedema Types I and II,R-HSA-6781823
+410,Hereditary Angioedema Types I and II,R-HSA-2514853
+411,Hereditary Angioedema Types I and II,R-HSA-1606322
+412,Hereditary Angioedema Types I and II,R-HSA-3560783
+413,Hereditary Angioedema Types I and II,R-HSA-3878781
+414,Hereditary Angioedema Types I and II,R-HSA-913531
+415,Hereditary Angioedema Types I and II,R-HSA-6788467
+416,Hereditary Angioedema Types I and II,R-HSA-5638302
+417,Hereditary Angioedema Types I and II,R-HSA-3359475
+418,Hereditary Angioedema Types I and II,R-HSA-3359478
+419,Hereditary Angioedema Types I and II,R-HSA-3359471
+420,Hereditary Angioedema Types I and II,R-HSA-3595174
+421,Hereditary Angioedema Types I and II,R-HSA-3274531
+422,Hereditary Angioedema Types I and II,R-HSA-3828062
+423,Hereditary Angioedema Types I and II,R-HSA-3858516
+424,Hereditary Angioedema Types I and II,R-HSA-3814836
+425,Hereditary Angioedema Types I and II,R-HSA-76066
+426,Hereditary Angioedema Types I and II,R-HSA-76061
+427,Hereditary Angioedema Types I and II,R-HSA-167161
+428,Hereditary Angioedema Types I and II,R-HSA-2299718
+429,Hereditary Angioedema Types I and II,R-HSA-2032785
+430,Hereditary Angioedema Types I and II,R-HSA-2173796
+431,Hereditary Angioedema Types I and II,R-HSA-167169
+432,Hereditary Angioedema Types I and II,R-HSA-350054
+433,Hereditary Angioedema Types I and II,R-HSA-8866907
+434,Hereditary Angioedema Types I and II,R-HSA-8866906
+435,Hereditary Angioedema Types I and II,R-HSA-8866904
+436,Hereditary Angioedema Types I and II,R-HSA-383280
+437,Hereditary Angioedema Types I and II,R-HSA-2022377
+438,Hereditary Angioedema Types I and II,R-HSA-3781865
+439,Hereditary Angioedema Types I and II,R-HSA-3560792
+440,Hereditary Angioedema Types I and II,R-HSA-176034
+441,Hereditary Angioedema Types I and II,R-HSA-168315
+442,Hereditary Angioedema Types I and II,R-HSA-1839130
+443,Hereditary Angioedema Types I and II,R-HSA-1483248
+444,Hereditary Angioedema Types I and II,R-HSA-8847453
+445,Hereditary Angioedema Types I and II,R-HSA-389960
+446,Hereditary Angioedema Types I and II,R-HSA-72649
+447,Hereditary Angioedema Types I and II,R-HSA-72662
+448,Hereditary Angioedema Types I and II,R-HSA-72702
+449,Hereditary Angioedema Types I and II,R-HSA-9029569
+450,Hereditary Angioedema Types I and II,R-HSA-1169092
+451,Hereditary Angioedema Types I and II,R-HSA-5660489
+452,Hereditary Angioedema Types I and II,R-HSA-5334118
+453,Hereditary Angioedema Types I and II,R-HSA-5619072
+454,Hereditary Angioedema Types I and II,R-HSA-1839122
+455,Hereditary Angioedema Types I and II,R-HSA-1234174
+456,Hereditary Angioedema Types I and II,R-HSA-167246
+457,Hereditary Angioedema Types I and II,R-HSA-9675135
+458,Hereditary Angioedema Types I and II,R-HSA-2404192
+459,Hereditary Angioedema Types I and II,R-HSA-373753
+460,Hereditary Angioedema Types I and II,R-HSA-5683678
+461,Hereditary Angioedema Types I and II,R-HSA-2173789
+462,Hereditary Angioedema Types I and II,R-HSA-9656223
+463,Hereditary Angioedema Types I and II,R-HSA-3134973
+464,Hereditary Angioedema Types I and II,R-HSA-3134963
+465,Hereditary Angioedema Types I and II,R-HSA-3359474
+466,Hereditary Angioedema Types I and II,R-HSA-3359473
+467,Hereditary Angioedema Types I and II,R-HSA-3359458
+468,Hereditary Angioedema Types I and II,R-HSA-5683329
+469,Hereditary Angioedema Types I and II,R-HSA-3359467
+470,Hereditary Angioedema Types I and II,R-HSA-3359469
+471,Hereditary Angioedema Types I and II,R-HSA-5682294
+472,Hereditary Angioedema Types I and II,R-HSA-5619042
+473,Hereditary Angioedema Types I and II,R-HSA-5619092
+474,Hereditary Angioedema Types I and II,R-HSA-5619088
+475,Hereditary Angioedema Types I and II,R-HSA-3304351
+476,Hereditary Angioedema Types I and II,R-HSA-69091
+477,Hereditary Angioedema Types I and II,R-HSA-8982491
+478,Hereditary Angioedema Types I and II,R-HSA-9617324
+479,Hereditary Angioedema Types I and II,R-HSA-6811555
+480,Hereditary Angioedema Types I and II,R-HSA-174411
+481,Hereditary Angioedema Types I and II,R-HSA-159782
+482,Hereditary Angioedema Types I and II,R-HSA-164940
+483,Hereditary Angioedema Types I and II,R-HSA-1482839
+484,Hereditary Angioedema Types I and II,R-HSA-1482801
+485,Hereditary Angioedema Types I and II,R-HSA-1483166
+486,Hereditary Angioedema Types I and II,R-HSA-1482788
+487,Hereditary Angioedema Types I and II,R-HSA-1482925
+488,Hereditary Angioedema Types I and II,R-HSA-1482922
+489,Hereditary Angioedema Types I and II,R-HSA-8848584
+490,Hereditary Angioedema Types I and II,R-HSA-72695
+491,Hereditary Angioedema Types I and II,R-HSA-3000480
+492,Hereditary Angioedema Types I and II,R-HSA-9674415
+493,Hereditary Angioedema Types I and II,R-HSA-381753
+494,Hereditary Angioedema Types I and II,R-HSA-2033519
+495,Hereditary Angioedema Types I and II,R-HSA-167200
+496,Hereditary Angioedema Types I and II,R-HSA-1660517
+497,Hereditary Angioedema Types I and II,R-HSA-1660516
+498,Hereditary Angioedema Types I and II,R-HSA-72706
+499,Hereditary Angioedema Types I and II,R-HSA-450520
+500,Hereditary Angioedema Types I and II,R-HSA-6803205
+501,Hereditary Angioedema Types I and II,R-HSA-5666185
+502,Hereditary Angioedema Types I and II,R-HSA-8853338
+503,Hereditary Angioedema Types I and II,R-HSA-5627117
+504,Hereditary Angioedema Types I and II,R-HSA-4419969
+505,Hereditary Angioedema Types I and II,R-HSA-5625900
+506,Hereditary Angioedema Types I and II,R-HSA-375276
+507,Hereditary Angioedema Types I and II,R-HSA-8876198
+508,Hereditary Angioedema Types I and II,R-HSA-5655332
+509,Hereditary Angioedema Types I and II,R-HSA-6811558
+510,Hereditary Angioedema Types I and II,R-HSA-1660499
+511,Hereditary Angioedema Types I and II,R-HSA-1912408
+512,Hereditary Angioedema Types I and II,R-HSA-9675126
+513,Hereditary Angioedema Types I and II,R-HSA-983705
+514,Hereditary Angioedema Types I and II,R-HSA-9632693
+515,Hereditary Angioedema Types I and II,R-HSA-9630750
+516,Hereditary Angioedema Types I and II,R-HSA-350864
+517,Hereditary Angioedema Types I and II,R-HSA-9018519
+518,Hereditary Angioedema Types I and II,R-HSA-6796648
+519,Hereditary Angioedema Types I and II,R-HSA-4341670
+520,Hereditary Angioedema Types I and II,R-HSA-8939902
+521,Hereditary Angioedema Types I and II,R-HSA-5545483
+522,Hereditary Angioedema Types I and II,R-HSA-9013694
+523,Hereditary Angioedema Types I and II,R-HSA-983695
+524,Hereditary Angioedema Types I and II,R-HSA-74158
+525,Hereditary Angioedema Types I and II,R-HSA-69242
+526,Hereditary Angioedema Types I and II,R-HSA-201451
+527,Hereditary Angioedema Types I and II,R-HSA-5693571
+528,Hereditary Angioedema Types I and II,R-HSA-391906
+529,Hereditary Angioedema Types I and II,R-HSA-211000
+530,Hereditary Angioedema Types I and II,R-HSA-6781827
+531,Hereditary Angioedema Types I and II,R-HSA-3656225
+532,Hereditary Angioedema Types I and II,R-HSA-167287
+533,Hereditary Angioedema Types I and II,R-HSA-167243
+534,Hereditary Angioedema Types I and II,R-HSA-5633008
+535,Hereditary Angioedema Types I and II,R-HSA-167238
+536,Hereditary Angioedema Types I and II,R-HSA-167290
+537,Hereditary Angioedema Types I and II,R-HSA-2022090
+538,Hereditary Angioedema Types I and II,R-HSA-193681
+539,Hereditary Angioedema Types I and II,R-HSA-5637812
+540,Hereditary Angioedema Types I and II,R-HSA-1852241
+541,Hereditary Angioedema Types I and II,R-HSA-9006936
+542,Hereditary Angioedema Types I and II,R-HSA-8878166
+543,Hereditary Angioedema Types I and II,R-HSA-418990
+544,Hereditary Angioedema Types I and II,R-HSA-9674428
+545,Hereditary Angioedema Types I and II,R-HSA-5578999
+546,Hereditary Angioedema Types I and II,R-HSA-1442490
+547,Hereditary Angioedema Types I and II,R-HSA-2022857
+548,Hereditary Angioedema Types I and II,R-HSA-187037
+549,Hereditary Angioedema Types I and II,R-HSA-69615
+550,Hereditary Angioedema Types I and II,R-HSA-622327
+551,Hereditary Angioedema Types I and II,R-HSA-390696
+552,Hereditary Angioedema Types I and II,R-HSA-391903
+553,Hereditary Angioedema Types I and II,R-HSA-9656249
+554,Hereditary Angioedema Types I and II,R-HSA-392517
+555,Hereditary Angioedema Types I and II,R-HSA-8876725
+556,Hereditary Angioedema Types I and II,R-HSA-1296071
+557,Hereditary Angioedema Types I and II,R-HSA-983712
+558,Hereditary Angioedema Types I and II,R-HSA-167152
+559,Hereditary Angioedema Types I and II,R-HSA-9674403
+560,Hereditary Angioedema Types I and II,R-HSA-9674404
+561,Hereditary Angioedema Types I and II,R-HSA-9669914
+562,Hereditary Angioedema Types I and II,R-HSA-9669934
+563,Hereditary Angioedema Types I and II,R-HSA-72203
+564,Hereditary Angioedema Types I and II,R-HSA-1500620
+565,Hereditary Angioedema Types I and II,R-HSA-1181150
+566,Hereditary Angioedema Types I and II,R-HSA-1502540
+567,Hereditary Angioedema Types I and II,R-HSA-1566977
+568,Hereditary Angioedema Types I and II,R-HSA-2142850
+569,Hereditary Angioedema Types I and II,R-HSA-181438
+570,Hereditary Angioedema Types I and II,R-HSA-390651
+571,Hereditary Angioedema Types I and II,R-HSA-8964038
+572,Hereditary Angioedema Types I and II,R-HSA-1296065
+573,Hereditary Angioedema Types I and II,R-HSA-5619060
+574,Hereditary Angioedema Types I and II,R-HSA-9620244
+575,Hereditary Angioedema Types I and II,R-HSA-159854
+576,Hereditary Angioedema Types I and II,R-HSA-9674401
+577,Hereditary Angioedema Types I and II,R-HSA-9669936
+578,Hereditary Angioedema Types I and II,R-HSA-9669926
+579,Hereditary Angioedema Types I and II,R-HSA-9669924
+580,Hereditary Angioedema Types I and II,R-HSA-9669929
+581,Hereditary Angioedema Types I and II,R-HSA-8963888
+582,Hereditary Angioedema Types I and II,R-HSA-112122
+583,Hereditary Angioedema Types I and II,R-HSA-200425
+584,Hereditary Angioedema Types I and II,R-HSA-1236394
+585,Hereditary Angioedema Types I and II,R-HSA-8951664
+586,Hereditary Angioedema Types I and II,R-HSA-8937144
+587,Hereditary Angioedema Types I and II,R-HSA-156590
+588,Hereditary Angioedema Types I and II,R-HSA-425393
+589,Hereditary Angioedema Types I and II,R-HSA-167172
+590,Hereditary Angioedema Types I and II,R-HSA-164938
+591,Hereditary Angioedema Types I and II,R-HSA-5687583
+592,Hereditary Angioedema Types I and II,R-HSA-400206
+593,Hereditary Angioedema Types I and II,R-HSA-75067
+594,Hereditary Angioedema Types I and II,R-HSA-5683826
+595,Hereditary Angioedema Types I and II,R-HSA-9612973
+596,Hereditary Angioedema Types I and II,R-HSA-416700
+597,Hereditary Angioedema Types I and II,R-HSA-5357905
+598,Hereditary Angioedema Types I and II,R-HSA-2562578
+599,Hereditary Angioedema Types I and II,R-HSA-168138
+600,Hereditary Angioedema Types I and II,R-HSA-977443
+601,Hereditary Angioedema Types I and II,R-HSA-9013957
+602,Hereditary Angioedema Types I and II,R-HSA-380095
+603,Hereditary Angioedema Types I and II,R-HSA-418597
+604,Hereditary Angioedema Types I and II,R-HSA-5619043
+605,Hereditary Angioedema Types I and II,R-HSA-110313
+606,Hereditary Angioedema Types I and II,R-HSA-426496
+607,Hereditary Angioedema Types I and II,R-HSA-448424
+608,Hereditary Angioedema Types I and II,R-HSA-9033658
+609,Hereditary Angioedema Types I and II,R-HSA-75892
+610,Hereditary Angioedema Types I and II,R-HSA-446193
+611,Hereditary Angioedema Types I and II,R-HSA-2485179
+612,Hereditary Angioedema Types I and II,R-HSA-3781860
+613,Hereditary Angioedema Types I and II,R-HSA-5688399
+614,Hereditary Angioedema Types I and II,R-HSA-73772
+615,Hereditary Angioedema Types I and II,R-HSA-72187
+616,Hereditary Angioedema Types I and II,R-HSA-75893
+617,Hereditary Angioedema Types I and II,R-HSA-6804756
+618,Hereditary Angioedema Types I and II,R-HSA-1474290
+619,Hereditary Angioedema Types I and II,R-HSA-6785807
+620,Hereditary Angioedema Types I and II,R-HSA-9609736
+621,Hereditary Angioedema Types I and II,R-HSA-2586552
+622,Hereditary Angioedema Types I and II,R-HSA-4086398
+623,Hereditary Angioedema Types I and II,R-HSA-210991
+624,Hereditary Angioedema Types I and II,R-HSA-168276
+625,Hereditary Angioedema Types I and II,R-HSA-5687868
+626,Hereditary Angioedema Types I and II,R-HSA-5619047
+627,Hereditary Angioedema Types I and II,R-HSA-5619073
+628,Hereditary Angioedema Types I and II,R-HSA-112126
+629,Hereditary Angioedema Types I and II,R-HSA-1247673
+630,Hereditary Angioedema Types I and II,R-HSA-4839744
+631,Hereditary Angioedema Types I and II,R-HSA-381426
+632,Hereditary Angioedema Types I and II,R-HSA-2980736
+633,Hereditary Angioedema Types I and II,R-HSA-69620
+634,Hereditary Angioedema Types I and II,R-HSA-2029480
+635,Hereditary Angioedema Types I and II,R-HSA-109606
+636,Hereditary Angioedema Types I and II,R-HSA-6802949
+637,Hereditary Angioedema Types I and II,R-HSA-2855086
+638,Hereditary Angioedema Types I and II,R-HSA-1839120
+639,Hereditary Angioedema Types I and II,R-HSA-2206292
+640,Hereditary Angioedema Types I and II,R-HSA-9630222
+641,Hereditary Angioedema Types I and II,R-HSA-8964043
+642,Hereditary Angioedema Types I and II,R-HSA-5603029
+643,Hereditary Angioedema Types I and II,R-HSA-73884
+644,Hereditary Angioedema Types I and II,R-HSA-73943
+645,Hereditary Angioedema Types I and II,R-HSA-418360
+646,Hereditary Angioedema Types I and II,R-HSA-2162123
+647,Hereditary Angioedema Types I and II,R-HSA-5576890
+648,Hereditary Angioedema Types I and II,R-HSA-1650814
+649,Hereditary Angioedema Types I and II,R-HSA-195258
+650,Hereditary Angioedema Types I and II,R-HSA-6783783
+651,Hereditary Angioedema Types I and II,R-HSA-5627123
+652,Hereditary Angioedema Types I and II,R-HSA-170834
+653,Hereditary Angioedema Types I and II,R-HSA-5358508
+654,Hereditary Angioedema Types I and II,R-HSA-69278
+655,Hereditary Angioedema Types I and II,R-HSA-9037629
+656,Hereditary Angioedema Types I and II,R-HSA-140342
+657,Hereditary Angioedema Types I and II,R-HSA-1638074
+658,Hereditary Angioedema Types I and II,R-HSA-140875
+659,Hereditary Angioedema Types I and II,R-HSA-156581
+660,Hereditary Angioedema Types I and II,R-HSA-3229121
+661,Hereditary Angioedema Types I and II,R-HSA-8964058
+662,Hereditary Angioedema Types I and II,R-HSA-877300
+663,Hereditary Angioedema Types I and II,R-HSA-5362517
+664,Hereditary Angioedema Types I and II,R-HSA-1433557
+665,Hereditary Angioedema Types I and II,R-HSA-5662702
+666,Hereditary Angioedema Types I and II,R-HSA-5626978
+667,Hereditary Angioedema Types I and II,R-HSA-5218859
+668,Hereditary Angioedema Types I and II,R-HSA-1236975
+669,Hereditary Angioedema Types I and II,R-HSA-6803157
+670,Hereditary Angioedema Types I and II,R-HSA-9008059
+671,Hereditary Angioedema Types I and II,R-HSA-5693532
+672,Hereditary Angioedema Types I and II,R-HSA-2187335
+673,Hereditary Angioedema Types I and II,R-HSA-1483206
+674,Hereditary Angioedema Types I and II,R-HSA-8866654
+675,Hereditary Angioedema Types I and II,R-HSA-72312
+676,Hereditary Angioedema Types I and II,R-HSA-5576891
+677,Hereditary Angioedema Types I and II,R-HSA-8852405
+678,Hereditary Angioedema Types I and II,R-HSA-8981607
+679,Hereditary Angioedema Types I and II,R-HSA-190828
+680,Hereditary Angioedema Types I and II,R-HSA-190704
+681,Hereditary Angioedema Types I and II,R-HSA-9012546
+682,Hereditary Angioedema Types I and II,R-HSA-3214858
+683,Hereditary Angioedema Types I and II,R-HSA-1226099
+684,Hereditary Angioedema Types I and II,R-HSA-1222556
+685,Hereditary Angioedema Types I and II,R-HSA-8934903
+686,Hereditary Angioedema Types I and II,R-HSA-5675221
+687,Hereditary Angioedema Types I and II,R-HSA-201688
+688,Hereditary Angioedema Types I and II,R-HSA-5607764
+689,Hereditary Angioedema Types I and II,R-HSA-5621575
+690,Hereditary Angioedema Types I and II,R-HSA-6798695
+691,Hereditary Angioedema Types I and II,R-HSA-5635851
+692,Hereditary Angioedema Types I and II,R-HSA-9678110
+693,Hereditary Angioedema Types I and II,R-HSA-156588
+694,Hereditary Angioedema Types I and II,R-HSA-74160
+695,Hereditary Angioedema Types I and II,R-HSA-1480926
+696,Hereditary Angioedema Types I and II,R-HSA-9037628
+697,Hereditary Angioedema Types I and II,R-HSA-9020558
+698,Hereditary Angioedema Types I and II,R-HSA-399721
+699,Hereditary Angioedema Types I and II,R-HSA-166520
+700,Hereditary Angioedema Types I and II,R-HSA-9617828
+701,Hereditary Angioedema Types I and II,R-HSA-1227990
+702,Hereditary Angioedema Types I and II,R-HSA-2187338
+703,Hereditary Angioedema Types I and II,R-HSA-5603027
+704,Hereditary Angioedema Types I and II,R-HSA-5668541
+705,Hereditary Angioedema Types I and II,R-HSA-381340
+706,Hereditary Angioedema Types I and II,R-HSA-5655302
+707,Hereditary Angioedema Types I and II,R-HSA-203927
+708,Hereditary Angioedema Types I and II,R-HSA-163560
+709,Hereditary Angioedema Types I and II,R-HSA-9605310
+710,Hereditary Angioedema Types I and II,R-HSA-202131
+711,Hereditary Angioedema Types I and II,R-HSA-9033807
+712,Hereditary Angioedema Types I and II,R-HSA-3248023
+713,Hereditary Angioedema Types I and II,R-HSA-512988
+714,Hereditary Angioedema Types I and II,R-HSA-8853659
+715,Hereditary Angioedema Types I and II,R-HSA-9662001
+716,Hereditary Angioedema Types I and II,R-HSA-5617833
+717,Hereditary Angioedema Types I and II,R-HSA-162582
+718,Hereditary Angioedema Types I and II,R-HSA-446203
+719,Hereditary Angioedema Types I and II,R-HSA-189200
+720,Hereditary Angioedema Types I and II,R-HSA-195721
+721,Hereditary Angioedema Types I and II,R-HSA-611105
+722,Hereditary Angioedema Types I and II,R-HSA-9616222
+723,Hereditary Angioedema Types I and II,R-HSA-1236382
+724,Hereditary Angioedema Types I and II,R-HSA-8852135
+725,Hereditary Angioedema Types I and II,R-HSA-9033241
+726,Hereditary Angioedema Types I and II,R-HSA-9024446
+727,Hereditary Angioedema Types I and II,R-HSA-6807070
+728,Hereditary Angioedema Types I and II,R-HSA-3371556
+729,Hereditary Angioedema Types I and II,R-HSA-3214842
+730,Hereditary Angioedema Types I and II,R-HSA-2243919
+731,Hereditary Angioedema Types I and II,R-HSA-1566948
+732,Hereditary Angioedema Types I and II,R-HSA-1266695
+733,Hereditary Angioedema Types I and II,R-HSA-8986944
+734,Aortic Diseases,R-HSA-977136
+735,Aortic Diseases,R-HSA-9008177
+736,Aortic Diseases,R-HSA-5655244
+737,Aortic Diseases,R-HSA-5655343
+738,Aortic Diseases,R-HSA-5655313
+739,Aortic Diseases,R-HSA-9008188
+740,Atherosclerosis,R-HSA-8963896
+741,Atherosclerosis,R-HSA-5679096
+742,Atherosclerosis,R-HSA-5679090
+743,Atherosclerosis,R-HSA-193807
+744,Atherosclerosis,R-HSA-1369062
+745,Atherosclerosis,R-HSA-8964058
+746,Atherosclerosis,R-HSA-5652084
+747,Atherosclerosis,R-HSA-9629232
+748,Atherosclerosis,R-HSA-9630747
+749,Atherosclerosis,R-HSA-5578996
+750,Atherosclerosis,R-HSA-1474151
+751,Atherosclerosis,R-HSA-2173782
+752,Atherosclerosis,R-HSA-5686938
+753,Atherosclerosis,R-HSA-9675132
+754,Atherosclerosis,R-HSA-1592389
+755,Atherosclerosis,R-HSA-194138
+756,Atherosclerosis,R-HSA-879415
+757,Atherosclerosis,R-HSA-9673324
+758,Atherosclerosis,R-HSA-202131
+759,Dementia,R-HSA-8862803
+760,Dementia,R-HSA-9656249
+761,Dementia,R-HSA-9656256
+762,Dementia,R-HSA-1912408
+763,Dementia,R-HSA-205017
+764,Dementia,R-HSA-3656234
+765,Dementia,R-HSA-5619111
+766,Dementia,R-HSA-8863678
+767,Cerebrovascular Disorders,R-HSA-9012852
+768,Cerebrovascular Disorders,R-HSA-5619111
+769,Basal Ganglia Cerebrovascular Disease,R-HSA-5619111
+770,Brain Ischemia,R-HSA-5619039
+771,Brain Infarction,R-HSA-9609310
+772,CADASIL,R-HSA-1912408
+773,CADASIL,R-HSA-9012852
+774,Infarction,R-HSA-5682113
+775,Infarction,R-HSA-9629232
+776,Hypoxia-Ischemia,R-HSA-1234174
+777,Hypoxia-Ischemia,R-HSA-1234158
+778,Hypoxia-Ischemia,R-HSA-1234176
+779,Hypoxia-Ischemia,R-HSA-8849473
+780,Hypoxia-Ischemia,R-HSA-8934903
+781,Hypoxia-Ischemia,R-HSA-9629232
+782,Hypoxia-Ischemia,R-HSA-6803204
+783,Hypoxia-Ischemia,R-HSA-8848021
+784,Hypoxia-Ischemia,R-HSA-2122947
+785,Hypoxia-Ischemia,R-HSA-8939902
+786,Hypoxia-Ischemia,R-HSA-9615017
+787,Hypoxia-Ischemia,R-HSA-452723
+788,Hypoxia-Ischemia,R-HSA-5628897
+789,Hypoxia-Ischemia,R-HSA-2559580
+790,Hypoxia-Ischemia,R-HSA-8878166
+791,Hypoxia-Ischemia,R-HSA-8857538
+792,Hypoxia-Ischemia,R-HSA-2262752
+793,Hypoxia-Ischemia,R-HSA-5619039
+794,Hypoxia-Ischemia,R-HSA-8953897
+795,Hypoxia-Ischemia,R-HSA-1980143
+796,Hypoxia-Ischemia,R-HSA-5633008
+797,Hypoxia-Ischemia,R-HSA-1236394
+798,Hypoxia-Ischemia,R-HSA-6806834
+799,Hypoxia-Ischemia,R-HSA-8964572
+800,Hypoxia-Ischemia,R-HSA-8862803
+801,Hypoxia-Ischemia,R-HSA-8941858
+802,Hypoxia-Ischemia,R-HSA-72613
+803,Hypoxia-Ischemia,R-HSA-3371556
+804,Fabry Disease,R-HSA-1605736
+805,Stroke,R-HSA-1912408
+806,Stroke,R-HSA-430116
+807,Stroke,R-HSA-5678420
+808,Stroke,R-HSA-9012852
+809,Intracranial Embolism and Thrombosis,R-HSA-109582
+810,Intracranial Embolism and Thrombosis,R-HSA-430116
+811,Intracranial Embolism and Thrombosis,R-HSA-210990
+812,Intracranial Embolism and Thrombosis,R-HSA-9668250
+813,Intracranial Embolism and Thrombosis,R-HSA-9662001
+814,Intracranial Embolism and Thrombosis,R-HSA-9672383
+815,Intracranial Embolism and Thrombosis,R-HSA-392154
+816,Intracranial Embolism and Thrombosis,R-HSA-9651496
+817,Intracranial Thrombosis,R-HSA-9668250
+818,Intracranial Hemorrhages,R-HSA-9668250
+819,Vasculitis,R-HSA-5432849
+820,Colitis,R-HSA-9020933
+821,Compartment Syndromes,R-HSA-5617820
+822,Compartment Syndromes,R-HSA-3318486
+823,Compartment Syndromes,R-HSA-9678108
+824,Compartment Syndromes,R-HSA-195258
+825,Compartment Syndromes,R-HSA-3248023
+826,Intra-Abdominal Hypertension,R-HSA-5619087
+827,Embolism and Thrombosis,R-HSA-109582
+828,Embolism and Thrombosis,R-HSA-430116
+829,Embolism and Thrombosis,R-HSA-210990
+830,Embolism and Thrombosis,R-HSA-9662001
+831,Embolism and Thrombosis,R-HSA-9668250
+832,Embolism and Thrombosis,R-HSA-9672383
+833,Embolism and Thrombosis,R-HSA-392154
+834,Embolism and Thrombosis,R-HSA-9651496
+835,Embolism and Thrombosis,R-HSA-9603302
+836,Embolism and Thrombosis,R-HSA-9015379
+837,Embolism and Thrombosis,R-HSA-9015111
+838,Embolism and Thrombosis,R-HSA-9015122
+839,Embolism and Thrombosis,R-HSA-111919
+840,Embolism and Thrombosis,R-HSA-9026967
+841,Pulmonary Embolism,R-HSA-9603302
+842,Pulmonary Embolism,R-HSA-9015379
+843,Pulmonary Embolism,R-HSA-9015111
+844,Pulmonary Embolism,R-HSA-9015122
+845,Pulmonary Embolism,R-HSA-9026967
+846,Pulmonary Infarction,R-HSA-9609310
+847,Thromboembolism,R-HSA-76002
+848,Thrombosis,R-HSA-109582
+849,Thrombosis,R-HSA-430116
+850,Thrombosis,R-HSA-210990
+851,Thrombosis,R-HSA-9662001
+852,Thrombosis,R-HSA-9668250
+853,Thrombosis,R-HSA-9672383
+854,Thrombosis,R-HSA-392154
+855,Thrombosis,R-HSA-9651496
+856,Venous Thrombosis,R-HSA-9672383
+857,Hemostatic Disorders,R-HSA-9671793
+858,Hemostatic Disorders,R-HSA-9651496
+859,Ehlers-Danlos Syndrome,R-HSA-3595174
+860,Ehlers-Danlos Syndrome,R-HSA-3560783
+861,Ehlers-Danlos Syndrome,R-HSA-4420332
+862,Multiple Myeloma,R-HSA-2033515
+863,Multiple Myeloma,R-HSA-2033514
+864,Multiple Myeloma,R-HSA-5655291
+865,Multiple Myeloma,R-HSA-1226099
+866,Multiple Myeloma,R-HSA-8853338
+867,Multiple Myeloma,R-HSA-190239
+868,Multiple Myeloma,R-HSA-5655332
+869,Multiple Myeloma,R-HSA-1839130
+870,Multiple Myeloma,R-HSA-9648895
+871,Pseudoxanthoma Elasticum,R-HSA-5690338
+872,Telangiectasia,R-HSA-69563
+873,Telangiectasia,R-HSA-5693548
+874,Telangiectasia,R-HSA-6804756
+875,Telangiectasia,R-HSA-201451
+876,Hypertension,R-HSA-1474151
+877,Hypertension,R-HSA-2022377
+878,Hypertension,R-HSA-5579017
+879,Hypertension,R-HSA-5619087
+880,Hypertension,R-HSA-5579028
+881,Hypertension,R-HSA-202131
+882,Essential Hypertension,R-HSA-1474151
+883,Hypotension,R-HSA-8940959
+884,Hypotension,R-HSA-418925
+885,Hypotension,R-HSA-9660829
+886,Hypotension,R-HSA-9609310
+887,Post-Exercise Hypotension,R-HSA-9609310
+888,Optic Neuropathy,R-HSA-5579000
+889,Raynaud Disease,R-HSA-8986944
+890,CREST Syndrome,R-HSA-2424246
+891,CREST Syndrome,R-HSA-2681681
+892,CREST Syndrome,R-HSA-2681694
+893,Reperfusion Injury,R-HSA-9615017
+894,Spinal Cord Ischemia,R-HSA-5619039
+895,Ataxia Telangiectasia,R-HSA-69563
+896,Ataxia Telangiectasia,R-HSA-5693548
+897,Ataxia Telangiectasia,R-HSA-6804756
+898,Rheumatoid Vasculitis,R-HSA-5432849
+899,Cardiovascular Infection,R-HSA-9018679
+900,Cardiovascular Infection,R-HSA-9033658
+901,Cardiovascular Infection,R-HSA-1793185
+902,Cardiovascular Infection,R-HSA-9018678
+903,Peripheral Vascular Disease,R-HSA-8943959
+904,Peripheral Vascular Disease,R-HSA-9615249
+905,Vascular Neoplasm,R-HSA-9671555
