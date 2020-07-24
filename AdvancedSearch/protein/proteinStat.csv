@@ -1,0 +1,708 @@
+,pathwayID,numbers
+0,5-HETE,1
+1,H2O,54
+2,5-HETEL,1
+3,"ADRB1,2,3:β-blockers",20
+4,"ADRB1,2,3",20
+5,β-blockers,20
+6,urate,4
+7,ADIPOQ trimer:ADIPOR dimers,2
+8,ADIPOQ trimer,2
+9,ADIPOR dimers,2
+10,TLR4:LY96:S100A8:S100A9,8
+11,TLR4:LY96,9
+12,S100A8:S100A9,8
+13,PPi,6
+14,ACA-CoA,2
+15,AMP,3
+16,ATP,49
+17,CoA-SH,15
+18,ACA,2
+19,HSCN,3
+20,PYR,3
+21,sulfanegen,3
+22,HCN,3
+23,RFNA,3
+24,hydroquinone,3
+25,RFDHN,3
+26,quinone,3
+27,CR:atREs,4
+28,NADP+,12
+29,TMAO,2
+30,O2,20
+31,H+,15
+32,TMA,2
+33,NADPH,12
+34,13-HDHA,2
+35,DHA,2
+36,"NR1H2,3:RXR:NR1H2,3 ligand:ABCG5 gene",1
+37,ABCG5 gene,1
+38,"NR1H3, NR1H2 ligands",4
+39,"NR1H2,3:RXR",3
+40,"NR1H2,3:RXR:NR1H2,3 ligand:ABCG8 gene",1
+41,ABCG8 gene,1
+42,"TFAP2A,TFAP2C homodimers:CITED2:PITX2 Gene",1
+43,"TFAP2A,TFAP2C homodimers:CITED2",1
+44,PITX2 Gene,1
+45,ADP,40
+46,"p-S23,S24-TNNI3",2
+47,TNNI3,2
+48,JAG1:NOTCH2,2
+49,JAG1,4
+50,NOTCH2/Fringe-modified NOTCH2,2
+51,"LPA,PA",3
+52,"MAG,DAG",3
+53,L-PCARN,1
+54,CAR,5
+55,PALM-CoA,1
+56,HCO3-,5
+57,Cl-,22
+58,Glc,8
+59,SLC22A18 substrates,2
+60,L-Asp,2
+61,L-Glu,2
+62,GPIHBP1:HSPG:LPL dimer,5
+63,GPIHBP1,5
+64,HSPG:LPL dimer,1
+65,Na+,18
+66,p-S16-PLN pentamer,2
+67,PLN pentamer,2
+68,K+,18
+69,CIT,2
+70,PEP,2
+71,Cleaved fibrillin-1,1
+72,Fibrillin-1,1
+73,RAS mutants:GTP:p-RAF homo/heterodimer,2
+74,"p-T,Y MAPKs",3
+75,RAF/MAPK scaffolds,4
+76,p-2S MAP2K homo/heterodimers,3
+77,"mutant RAS:GTP:p-RAF:p-2S MAP2Ks:p-T,Y MAPKs:scaffold proteins",2
+78,Heparan sulfate chain,1
+79,HS core proteins,1
+80,HS/HPIN-PGs,1
+81,ZFPM proteins:GATA proteins,1
+82,GATA proteins,1
+83,"ZFPM1, ZFPM2",1
+84,BRAF inhibitors:high kinase activity BRAF mutants,3
+85,BRAF inhibitors,3
+86,high kinase activity BRAF mutants,5
+87,ARL6:GTP:BBSome:ciliary cargo,2
+88,ARL6:GTP,2
+89,BBSome,4
+90,BBSome ciliary cargo,2
+91,chondroitin(2)-core proteins,2
+92,UDP,3
+93,UDP-GlcA,2
+94,chondroitin(1)-core proteins,2
+95,DSCAM:p-S144-PAK1:RAC1:GTP,1
+96,p-S144-PAK1:RAC1:GTP,1
+97,DSCAM,2
+98,"Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1",3
+99,Ub,1
+100,Hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1,1
+101,Ac-Cohesin:PDS5:WAPAL:Centromere,2
+102,Cohesin:PDS5:WAPAL:Centromere,2
+103,Ac-CoA,7
+104,FGFR2c mutant dimers with enhanced ligand-binding bound to FGFs,1
+105,FGFR2c mutant binding FGFs,1
+106,HS,4
+107,FGFR2c mutants with enhanced ligand binding,1
+108,CDC42:GTP:p-Y-WASP/p-Y-WASL:WIP:SH3 proteins,1
+109,CDC42:GTP:WASP/N-WASP:WIP:SH3 proteins,2
+110,2'-deoxynucleoside,1
+111,PPPi,1
+112,dNTP(4-),1
+113,L-Orn,2
+114,L-Cit,2
+115,FGFR2b mutant dimers with enhanced ligand-binding bound to FGFs,1
+116,FGFR2b mutant-binding FGFs,1
+117,FGFR2b mutants with enhanced ligand binding,1
+118,Activated FGFR2 ligand-independent mutants,1
+119,FGFR2 ligand-independent mutant dimers,3
+120,"Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300",2
+121,HMGN1,2
+122,XPA,2
+123,EP300,2
+124,TCEA1,2
+125,XAB2 complex,2
+126,UVSSA:USP7,2
+127,WIP family proteins,1
+128,SH3 domain proteins,1
+129,CDC42:GTP:WASP/N-WASP,1
+130,TC-NER pre-incision complex:Open bubble damaged DNA template:RPA:ERCC5:trimmed nascent mRNA,1
+131,RPA heterotrimer,2
+132,TC-NER pre-incision complex:Open bubble damaged DNA template:trimmed nascent mRNA,2
+133,ERCC5,2
+134,DSCAM/DSCAML1 homodimers,1
+135,"DSCAM, DSCAML1",1
+136,Fru 1-P,1
+137,Fru,1
+138,Ac-Cohesin:PDS5:WAPAL:Chromosomal Arm,1
+139,Cohesin:PDS5:WAPAL:Chromosomal Arm,1
+140,Telomerase RNP,3
+141,NOP10,2
+142,DKC1,2
+143,Telomerase RNA Component (TERC),2
+144,TERT,2
+145,GAR1,2
+146,WRAP53,2
+147,NHP2,2
+148,Pi,10
+149,TC-NER pre-incision complex,1
+150,SUCCA,9
+151,CO2,14
+152,Lysyl hydroxylases:Lysyl hydroxylated collagen propeptides,2
+153,Lysyl hydroxylases:Lysyl hydroxylase procollagen substrates,2
+154,2OG,9
+155,Activated FGFR1 mutants and fusions:PLCG1,2
+156,"PI(3,4,5)P3",11
+157,Activated FGFR1 mutants and fusions,2
+158,PLCG1,11
+159,Activated FGFR3 mutants: PLCG1,3
+160,Activated FGFR3 mutants,4
+161,Activated FGFR2 mutants:PLCG1,3
+162,Activated FGFR2 mutants,4
+163,Activated FGFR4 mutants:PLCG1,3
+164,Activated FGFR4 mutants,4
+165,acetylated microtubule,2
+166,Microtubule,2
+167,SPRED dimer:NF1,1
+168,SPRED dimer,1
+169,NF1(2-2839),1
+170,dNTP,2
+171,"3' overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex:EXO1,DNA2:BLM,WRN:p-S990,Ac-K1249-BRIP1",1
+172,"3' short overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex:EXO1,DNA2:BLM,WRN:p-S990,Ac-K1249-BRIP1",1
+173,GLI:SUFU,3
+174,"GLI1,2,3",3
+175,SUFU,3
+176,MECP2:FOXG1,1
+177,FOXG1,1
+178,MECP2,1
+179,p-2S-SMAD2/3:SMAD4:MEN1,1
+180,p-2S-SMAD2/3:SMAD4,1
+181,MEN1,1
+182,NTP,11
+183,DSIF:NELF:early elongation complex,4
+184,RNA Pol II (hypophosphorylated) complex bound to DSIF protein,4
+185,NELF complex,4
+186,BTN2A1:CD209,3
+187,BTN2A1,3
+188,CD209,3
+189,Telomerase RNP:G-strand telomeric chromosome end,1
+190,Telomeric G-strand chromosome end:Shelterin,1
+191,RTEL1,1
+192,MECP2:DGCR8,2
+193,DGCR8,2
+194,p-S80-MECP2,2
+195,"GPCHO, GPETAM",1
+196,fatty aldehyde,1
+197,"PMCHO, PMETAM",1
+198,"PI(4,5)P2:p-T156 AP-2:clathrin:ITSNs:EPS15:REPS1:SGIP1:NECAPs:AAK1:CLASP proteins:cargo:F-BAR proteins:BAR domain proteins:ARP2/3 complex:WASL:f-actin:HIP dimers",1
+199,ARP2/3 complex,1
+200,HIP1 dimer,1
+201,HIP1R dimer,1
+202,f-actin,1
+203,"WASL,CTTN",1
+204,"PI(4,5)P2:p-T156 AP-2:clathrin:ITSNs:EPS15:REPS1:SGIP1:NECAPs:AAK1:CLASP proteins:cargo:F-BAR proteins:BAR domain proteins",1
+205,"ABCG1 gene:NR1H2,3:RXR:oxysterol:GPS2:KDMs",1
+206,GPS2,1
+207,"KDM1A, KDM1B, KDM3A, KDM4A",1
+208,ABCG1 gene,1
+209,"EDNRA,EDNRB:Endothelin",3
+210,"EDNRA,EDNRB",3
+211,Endothelin,3
+212,NTF3:p-5Y-NTRK3 homodimer,1
+213,NTF3:NTRK3 homodimer,1
+214,H2O2,4
+215,PA,1
+216,1-acyl LPA,1
+217,acyl-CoA,2
+218,P2RY12:P2RY12 antagonists,9
+219,P2RY12 antagonists,9
+220,P2RY12,9
+221,ARBs:AGTR1,8
+222,ARBs,8
+223,AGTR1,8
+224,Lp(a),2
+225,LPA,2
+226,LDL,6
+227,ACEIs:ACE(30-1232),9
+228,ACE(30-1232),9
+229,ACEIs,9
+230,SCUBE3(?-993),4
+231,SCUBE3(21-?),4
+232,SCUBE3,4
+233,Ca2+,12
+234,TPH1 gene:EGR1,1
+235,TPH1 gene,1
+236,EGR1,1
+237,Virion with gp41 forming hairpin structure,1
+238,Virion with gp41 fusion peptide in insertion complex,1
+239,CUBN:AMN:GIF:Cbl,1
+240,GIF:Cbl,1
+241,CUBN:AMN,1
+242,GG-NER pre-incision complex:Open bubble-dsDNA,1
+243,"Open bubble-dsDNA:PAR-UV-DDB:TFIIH Core:XPA:PAR-PARP1, PAR-PARP2:CHD1L",1
+244,DOLP,1
+245,(Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1,1
+246,(GlcNAc)2 (Man)9 (PP-Dol)1,1
+247,DbGP,1
+248,AdoHcy,9
+249,pre-rRNA containing 7-methylG-1639,2
+250,AdoMet,9
+251,pre-rRNA,2
+252,18SE pre-rRNA containing 1-methylpseudoU-1248,1
+253,pre-rRNA containing pseudouridine,1
+254,Mother filament:branching complex,1
+255,F-actin,1
+256,"WAVE2, WASP, N-WASP:ARP2/3 complex:G-actin",1
+257,cytosolic FGFR1 fusion mutant dimers,2
+258,cytosolic FGFR1 fusion mutants,1
+259,PG,4
+260,cytosolic PDGFR fusion dimers,3
+261,cytosolic PDGFR fusions,2
+262,BBS1,2
+263,BBS9,2
+264,BBS4,2
+265,TTC8,2
+266,BBS7,2
+267,BBS5,2
+268,BBIP1,2
+269,BBS2,2
+270,NAd,2
+271,Ile-tRNA(Ile),1
+272,adenosine 5'-monophosphate,3
+273,tRNA(Ile),1
+274,L-Ile,1
+275,Intermediate 1,1
+276,TIMMDC1,1
+277,IP subcomplex,1
+278,NDUFAF4,1
+279,NDUFAF3,1
+280,heme A,1
+281,heme O,1
+282,tRNA containing 1-methylG-9,1
+283,tRNA containing G-9,1
+284,tRNA containing 1-methylA-9,1
+285,tRNA containing A-9,1
+286,12S rRNA containing 5-methylC-841,1
+287,12S rRNA,1
+288,TFR2 dimer:2xholoTF,1
+289,holoTF,1
+290,TFR2,1
+291,RUNX2:HDAC4,1
+292,RUNX2,2
+293,HDAC4,1
+294,Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (inactive).,1
+295,G-protein G12/G13 (inactive),1
+296,Ligand:GPCR complexes that activate G12/13,1
+297,CTF1:LIFR:JAKs,1
+298,CTF1,1
+299,JAKs:LIFR,1
+300,"RRAD gene:EGR1,EGR2",1
+301,"EGR1,EGR2",1
+302,RRAD gene,1
+303,RRAD gene:EGR2:NAB2:CHD4,1
+304,RRAD gene:EGR2,1
+305,CHD4,1
+306,NAB2,1
+307,"PI5P, PI3P, PI(3,5)P2",1
+308,"PI(4,5)P2, PI(3,4)P2, PI(3,4,5)P3",1
+309,VLDL:PCSK9,1
+310,VLDLR,3
+311,PCSK9,1
+312,DOXOL,2
+313,DOX,2
+314,"p-S15,S20-TP53 Tetramer:POU4F2",1
+315,"p-S15,S20-TP53 Tetramer",3
+316,POU4F2,1
+317,25OH-CHOL,2
+318,cAMP,2
+319,DIGX,2
+320,β3-agonists:ADBR3,1
+321,β3-agonists,1
+322,ADRB3,1
+323,high kinase activity BRAF mutants:scaffold:MAP2K:MAPK complex,1
+324,MAP2K homo/heterodimers,1
+325,MAPKs,1
+326,"high kinase activity BRAF mutants:scaffold:p-2S MAP2K:p-T,Y MAPK complex",1
+327,THMN,4
+328,EF:LF:(PA63:ANTXR2 oligomer),1
+329,EF,2
+330,PA63:ANTXR2 oligomer,1
+331,LF,2
+332,EF:LF:(PA63:ANTXR1 oligomer),1
+333,PA63:ANTXR1 oligomer,1
+334,"17(S)-HDPAn-6, 10(S),17(S)-diHDPAn-6",1
+335,DPAn-6,1
+336,"3' short overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex",1
+337,"DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:p-BRCA1-C complex",1
+338,Extended microhomologous 3'-ssDNA overhangs-DSB:MRN:RBBP8:LIG3:XRCC1,2
+339,Extended microhomologous 3'-ssDNA overhangs-DSB:MRN:RBBP8,1
+340,LIG3:XRCC1,2
+341,MRN,1
+342,RBBP8 homotetramer,1
+343,dsDNA with base substitutions and inter-MMEJ deletion,1
+344,Mal-CoA,1
+345,cytosolic p-Y PDGFR fusion dimers,1
+346,"I(1,3,4)P3",1
+347,"I(1,3,4,5)P4",1
+348,pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB1:PI3K,1
+349,p-Y177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2:PIK3R1,1
+350,PIK3CA,2
+351,p-FGFR1 mutant fusions:PI3K,1
+352,p-FGFR1 fusion mutant dimers:PIK3R1,1
+353,FGFR1 fusion mutant dimers:TKIs,1
+354,Tyrosine kinase inhibitors of FGFR1 fusion mutants,1
+355,basal body:transition zone proteins,1
+356,Tectonic-like complex,1
+357,NPHP complex,1
+358,basal body,1
+359,"ADORA1,3:Ade-Rib",3
+360,"ADORA1,3",3
+361,Ade-Rib,5
+362,LPL,4
+363,HSPG,4
+364,VLDL:VLDLR,2
+365,VLDL,5
+366,Vitronectin:Plasminogen activator inhibitor 1,4
+367,SERPINE1,10
+368,VTN,4
+369,Factor IIa inhibitors (peptide):IIa,5
+370,Factor IIa inhibitors (peptide),5
+371,activated thrombin (factor IIa),14
+372,Factor IIa inhibitors (compounds):IIa,4
+373,Factor IIa inhibitors (compounds),4
+374,factor Xa:Factor Xa inhibitors,4
+375,Factor Xa inhibitors,8
+376,factor Xa,4
+377,Va:Xa:Factor Xa inhibitors,4
+378,Va:Xa,4
+379,p-S133-CREB1,3
+380,CREB1,3
+381,VKORC1 inhibitors:VKORC1 dimer,5
+382,VKORC1 dimer,5
+383,VKORC1 inhibitors,5
+384,integrin alpha4beta1:VCAM1,1
+385,Integrin alpha4beta1,1
+386,VCAM1,1
+387,BTNL2: activated T Cell surface,1
+388,Activated T Cell surface,1
+389,BTNL2,1
+390,"HSPG2:FGF2(10-155), Fibronectn matrix, Transthyretin tetramer, PDGFA homodimer, PDGFB homodimer",1
+391,HSPG2(22-4391),1
+392,"FGF2(10-155), Fibronectn matrix, Transthyretin tetramer, PDGFA homodimer, PDGFB homodimer",1
+393,"p-S196,T198,T200-RUNX2:CBFB",2
+394,RUNX2:CBFB,2
+395,PalmC-F3,4
+396,sequestered tissue factor,4
+397,Heparan sulfate chain(3),2
+398,SO4(2-),4
+399,Heparan sulfate chain(2),2
+400,Heparan chain(1),2
+401,Heparan sulfate chain(7),2
+402,Heparan sulfate chain(5),2
+403,GlcNAc,4
+404,Heparan sulfate chain(4),2
+405,CS/HS precursor,2
+406,Heparan chain(2),2
+407,FGFR1c P252X mutant dimers bound to FGFs,2
+408,FGFR1c-binding FGFs,2
+409,FGFR1c P252X mutants,2
+410,FGFR2 ligand-independent mutants,2
+411,"Tenascins C, R, (X, N):Lecticans",4
+412,Lecticans,4
+413,"Tenascins C, R, (X, N)",8
+414,"Tenascins C, R, (X, N):Fibronectin matrix",4
+415,Fibronectin matrix,4
+416,TNC:Syndecan-3,4
+417,TNC,4
+418,Syndecan-3,4
+419,"RUNX2:HEY1,HEY2,HES1",1
+420,"HEY1,HEY2,HES1",1
+421,spherical HDL:apoC-II:apoC-III:apoE,1
+422,APOC2,1
+423,spherical HDL,1
+424,APOC3,1
+425,APOE,1
+426,APOBR dimer:VLDL,1
+427,APOBR dimer,1
+428,LCNs:lipids,1
+429,LCNs,1
+430,lipids,1
+431,APOC4,1
+432,"VLDL (-APOC1,C4)",1
+433,APOC1,1
+434,LSR trimer:VLDL,1
+435,LSR trimer,2
+436,LSR trimer:LDL,1
+437,LRP1:Hemopexin:heme,1
+438,LRP1,1
+439,HPX:heme b,1
+440,MSR1:Ligand,1
+441,MSR1 (SCARA1) trimer,1
+442,Ligands of MSR1,1
+443,LDL:LRP8,1
+444,LRP8,1
+445,OLR1 bound to oxidized LDL,1
+446,OLR1,1
+447,LIPA-degraded LDL,1
+448,CHOL,2
+449,FA,1
+450,arachidyl ester,1
+451,Acyl-CoA,1
+452,ARACOH,1
+453,CHEST,1
+454,SERPINE2:GAG:activated thrombin (factor IIa),1
+455,SERPINE2:GAG,1
+456,"5bCHOL3a,7a,12a,27-tetrol",1
+457,"5bCHOL3a,7a,12a-triol",1
+458,FAs,1
+459,DAGs,1
+460,TAGs,1
+461,AGER ligands:AGER,1
+462,AGER,1
+463,AGER ligands,1
+464,"ABCA1gene:NR1H2,3:RXR:NR1H2,3 ligands:NCOR:GPS2:TBL1:HDAC3",1
+465,"ABCA1gene:NR1H2,3:RXR:NCOR:GPS2:TBL1:HDAC3",1
+466,"hydroxyAsn-HIF1A,HIF2A",1
+467,"HIF1A,HIF2A",1
+468,HILPDA:lipid droplet,1
+469,HILPDA,1
+470,lipid droplet,1
+471,"USP19:HIF1A,BIRC2,BIRC3",1
+472,USP19,1
+473,"HIF1A,BIRC2,BIRC3",1
+474,HIF,1
+475,HIF-alpha,1
+476,ARNT,1
+477,NICD1:HIF1A,1
+478,HIF1A,4
+479,NICD1,1
+480,"p-S15,S20-TP53 Tetramer:CREBBP:BNIP3L Gene",1
+481,CREBBP,1
+482,BNIP3L Gene,1
+483,E2F6:TFDP1/2:E2F1 gene,1
+484,E2F1 gene,1
+485,"E2F6:(TFDP1,TFDP2)",1
+486,p-S17-FUNDC1:LC3,1
+487,LC3,1
+488,p-S17-FUNDC1,1
+489,TWIST1:RUNX2 gene,1
+490,RUNX2 gene,1
+491,TWIST1,1
+492,3SUMO1:VHL,1
+493,UBE2I,2
+494,VHL,1
+495,SUMO1:C93-UBE2I,2
+496,Nuclear Pore Complex (NPC),1
+497,"p-MAPK8,9,10",2
+498,"RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5:hydroxyPro-HIF-alpha",2
+499,hydroxyPro-HIF-alpha,3
+500,"RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5",2
+501,"hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1",2
+502,"VHL:EloB,C:CUL2:RBX1",1
+503,"p-Y700,Y731,Y774-CBL",1
+504,CBL,1
+505,2xHP-HIF1A,2
+506,"hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1:LIMD1,AJUBA,WTIP:PHD2,3",2
+507,"PHD2,3:LIMD1,AJUBA,WTIP:VHL:EloB:EloC:CUL2:RBX1",1
+508,"HIF1A,EPAS1:PTK6 Gene",1
+509,PTK6 Gene,2
+510,"HIF1A,EPAS1",1
+511,"p-S15,S20-TP53 Tetramer:IGFBP3 Gene",1
+512,IGFBP3 Gene,1
+513,S100A1:TLR4:LY96,1
+514,S100A1 dimer:Ca(2+),1
+515,"E2F1:(TFDP1,TFDP2):RAD51 gene",1
+516,"E2F1:(TFDP1,TFDP2)",1
+517,RAD51 gene,1
+518,SUMO1:NFKBIA,1
+519,NFKBIA,1
+520,"ub-HIF-alpha:VHL:EloB,C:CUL2:RBX1",1
+521,"UBE2D1,2,3",3
+522,"UBE2D1,2,3:Ubiquitin",3
+523,"ub-hydroxyPro-HIF-alpha:VHL:EloB:EloC:NEDD8-CUL2:RBX1:COMMDs:CCDC22:DCUN1D1,2,4,5",1
+524,"ub-hydroxyPro-HIF-alpha:VHL:EloB:EloC:CUL2:RBX1:LIMD1,AJUBA,WTIF:PHD2,3",1
+525,"BMAL1:CLOCK,NPAS2",1
+526,ARNTL,1
+527,"CLOCK,NPAS2",1
+528,HP-HIF3A,2
+529,HIF3A,2
+530,2xHP-EPAS1,2
+531,EPAS1,3
+532,DDIT4:14-3-3 dimer,1
+533,14-3-3 dimer,1
+534,DDIT4,1
+535,KDM4B-regulated genes:H3K9me3 nucleosome:ESR1:ESTG:KDM4B,1
+536,ESR1:ESTG,1
+537,KDM4B,1
+538,KDM4B-regulated genes:H3K9me3 nucleosome,1
+539,p-S52-EIF2S1:EIF2S2:EIF2S3,1
+540,EIF2S1:EIF2S2:EIF2S3,1
+541,HGF dimer:MET,1
+542,MET,1
+543,HGF dimer,1
+544,ULK1,2
+545,FUNDC1,1
+546,p-S13-FUNDC1,1
+547,EDN1,1
+548,EDN1(53-90),1
+549,MyrG-CDK5R1(2-98),1
+550,CDK5R1(99-307),1
+551,MyrG-CDK5R1(2-307),1
+552,RvD5n-3DPA,2
+553,oxidised acceptor,2
+554,"7,17-diHp-DPAn-3",2
+555,reduced acceptor,2
+556,p-Y565-HIF1A,2
+557,"p-Y565,S797-HIF1A",1
+558,PTK6 Gene:EPAS1:NR3C1:Glucocorticoid ligand:PELP1,1
+559,PELP1,1
+560,"NR3C1:(ALDO,11DCORST,CORST,CORT) dimer",1
+561,"RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5:UBXN7",1
+562,UBXN7,1
+563,CYGB dimer:O2,1
+564,CYGB dimer,1
+565,p-AMPK heterotrimer,1
+566,AMPK heterotrimer,1
+567,Gal,1
+568,LacCer,1
+569,Gb3Cer,1
+570,Thrombin-activated PAR:Gq (active),3
+571,GDP,7
+572,GTP,7
+573,Thrombin-activated PAR:Gq (inactive),3
+574,P2X purinoreceptors:ATP,3
+575,P2RX receptors,3
+576,histidine-rich glycoprotein:plasminogen,6
+577,PLG(20-810),6
+578,HRG,6
+579,NMP,3
+580,NDP,6
+581,"fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1",3
+582,"fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)",3
+583,"fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1",3
+584,"fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)",3
+585,factor Vi intermediate form,8
+586,F5(535-737),4
+587,factor Va,4
+588,activated thrombin (factor IIa):SERPIND1,4
+589,SERPIND1,4
+590,DGL-CoA,3
+591,Malonyl-CoA,3
+592,GLA-CoA,3
+593,F5(335-534),4
+594,factor Vi,4
+595,"PSGs:Proteoglycan,TGFB1",1
+596,PSGs,1
+597,"Proteoglycans,TGFB1",2
+598,MST1 dimer,1
+599,pro-MST1,1
+600,NH3,1
+601,"Cit3-replicative histone H3, Cit9-replicative histone H3, Cit18-replicative histone H3, Cit27-replicative histone H3",1
+602,"MeR3-replicative histone H3, MeR9-replicative histone H3, MeR18-replicative histone H3, Me27-replicatve histone H3",1
+603,"OSCAR:Collagen I,II,III/SP-D",1
+604,"Collagen types I,II,III/SP-D",1
+605,OSCAR,1
+606,IFT B*,1
+607,CLUAP,1
+608,TTC26,1
+609,IFT81,1
+610,IFT172,1
+611,IFT80,1
+612,TRAF3IP1,1
+613,RABL5,1
+614,TTC30,1
+615,HSPB11,1
+616,IFT52,1
+617,IFT74,1
+618,IFT88,1
+619,IFT46,1
+620,IFT57,1
+621,IFT27,1
+622,AcK15-histone H3,1
+623,Histone H3,2
+624,Gal-Xyl-proteins,1
+625,UDP-Gal,1
+626,xylosyl-core proteins,1
+627,Cleaved collagen type V fibril,1
+628,Collagen V,1
+629,Activated FGFR3 t(4;14) translocation mutants,1
+630,FGFR3 (4;14) translocation mutant dimers,2
+631,FGFR3 (4;14) translocation mutants,1
+632,FGFR3 mutant dimers:TKIs,1
+633,FGFR3 mutant dimers,1
+634,Tyrosine kinase inhibitors of FGFR3 mutants,1
+635,MeK28-histone H3,2
+636,Me3K28-histone H3,1
+637,Me2K28-histone H3,2
+638,Centrosome:AURKA:TPX2:HMMR,1
+639,HMMR,1
+640,Centrosome:AURKA,1
+641,TPX2,1
+642,p21 RAS:GTP,4
+643,p21 RAS:GDP,4
+644,Activated FGFR1 mutants:FRS2,2
+645,Activated FGFR1 mutants,1
+646,FRS2,4
+647,Activated FGFR3 mutants with enhanced kinase activity,1
+648,FGFR3 point mutant dimers with enhanced kinase activity,2
+649,Activated FGFR3 mutants:FRS2,2
+650,Activated FGFR2 mutants:FRS2,2
+651,Activated FGFR4 mutants:FRS2,2
+652,Activated FGFR1 mutants:p-FRS2,1
+653,Activated FGFR3 mutants:p-FRS2,1
+654,Activated FGFR2 mutants:p-FRS2,1
+655,Activated FGFR4 mutants:p-FRS2,1
+656,FGFR3 point mutants with enhanced kinase activity,1
+657,CMP,1
+658,Type 2 MSGG,1
+659,CMP-Neu5Ac,1
+660,Type 2 chain,1
+661,FGFR3 cysteine mutant dimers,1
+662,FGFR3 cysteine mutants,1
+663,p-S456-ABL1,2
+664,ABL1,2
+665,p-S15-TP53 Tetramer,2
+666,TP53 Tetramer,2
+667,"DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex",2
+668,p-T68-CHEK2,2
+669,"DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex:CHEK2",2
+670,"DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAXIP1",2
+671,p-S645-DCLRE1C,2
+672,"DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAX1IP:DCLRE1C",2
+673,DNA DSBs:MRN:Ac-K3016-ATM dimer:KAT5,2
+674,"DNA DSBs:MRN:p-S1981,Ac-K3016-ATM:KAT5",2
+675,"p-S1981,Ac-K3016-ATM",2
+676,ATM:PEX5,8
+677,ATM dimer:p-PEX5,2
+678,ATM dimer:PEX5,4
+679,ATM,4
+680,PEX5,2
+681,MRE11:dsDNA,2
+682,Double-stranded DNA,2
+683,MRE11A,2
+684,BT-CoA,2
+685,BUT,2
+686,Gly,2
+687,Na+/Li+,4
+688,20-HETE,2
+689,ARA,4
+690,19-HETE,2
+691,AGT(34-43),5
+692,AGT,3
+693,TACR3:TAC3,1
+694,TACR3,1
+695,TAC3,1
+696,AGT(34-41),2
+697,NTS(151-160),1
+698,NTS(161-163),1
+699,NTS(151-163),1
+700,"ADORA2A,B:Ade-Rib",1
+701,"ADORA2A,B",1
+702,ADORA2B:Ade-Rib,1
+703,ADORA2B,1
+704,PI3K Inhibitors:PI3K,1
+705,"PI3K mutants,Activator:PI3K",1
+706,PI3K inhibitors,1

@@ -1,0 +1,1805 @@
+,name,Name
+0,Cardiovascular Diseases,"[['5-HETE', '5-hydroxy-6E,8Z,11Z,14Z-eicosatetraenoic acid']]"
+1,Cardiovascular Diseases,"[['H2O', 'water']]"
+2,Cardiovascular Diseases,"[['5-HETEL', '5-hydroxy-eicosatetraenoic acid 1,5-lactone', 'meadowlactone']]"
+3,Cardiovascular Diseases,"[['ADRB1,2,3:β-blockers']]"
+4,Cardiovascular Diseases,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+5,Cardiovascular Diseases,[['β-blockers']]
+6,Cardiovascular Diseases,"[['urate', 'Uric acid', '7,9-dihydro-1H-purine-2,6,8(3H)-trione']]"
+7,Cardiovascular Diseases,"[['urate', 'Uric acid', '7,9-dihydro-1H-purine-2,6,8(3H)-trione']]"
+8,Cardiovascular Diseases,[['ADIPOQ trimer:ADIPOR dimers']]
+9,Cardiovascular Diseases,[['ADIPOQ trimer']]
+10,Cardiovascular Diseases,[['ADIPOR dimers']]
+11,Cardiovascular Diseases,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+12,Cardiovascular Diseases,[['TLR4:LY96']]
+13,Cardiovascular Diseases,"[['S100A8:S100A9', 'calprotectin']]"
+14,Cardiovascular Diseases,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+15,Cardiovascular Diseases,"[['ACA-CoA', 'acetoacetyl-CoA']]"
+16,Cardiovascular Diseases,"[['AMP', ""adenosine 5'-monophosphate"", 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+17,Cardiovascular Diseases,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+18,Cardiovascular Diseases,"[['CoA-SH', 'coenzyme A']]"
+19,Cardiovascular Diseases,"[['ACA', '3-Oxobutanoate', 'acetoacetate']]"
+20,Cardiovascular Diseases,"[['HSCN', 'thiocyanic acid']]"
+21,Cardiovascular Diseases,"[['PYR', 'Pyruvate', 'pyruvic acid', '2-Oxopropanoate', '2-Oxopropanoic acid', 'Pyroracemic acid']]"
+22,Cardiovascular Diseases,[['sulfanegen']]
+23,Cardiovascular Diseases,"[['HCN', 'hydrogen cyanide']]"
+24,Cardiovascular Diseases,"[['RFNA', '1-(beta-D-ribofuranosyl)nicotinamide', 'N-ribosylnicotinamide']]"
+25,Cardiovascular Diseases,"[['hydroquinone', 'quinol']]"
+26,Cardiovascular Diseases,"[['RFDHN', '1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide']]"
+27,Cardiovascular Diseases,[['quinone']]
+28,Cardiovascular Diseases,"[['CR:atREs', 'TG-depleted chylomicron:atREs']]"
+29,Cardiovascular Diseases,"[['CR:atREs', 'TG-depleted chylomicron:atREs']]"
+30,Cardiovascular Diseases,"[['H2O', 'water']]"
+31,Cardiovascular Diseases,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+32,Cardiovascular Diseases,"[['TMAO', 'Trimethyamine N-oxide', 'trimethylamine N-oxide']]"
+33,Cardiovascular Diseases,"[['O2', 'Oxygen', 'dioxygen']]"
+34,Cardiovascular Diseases,"[['H+', 'hydron']]"
+35,Cardiovascular Diseases,"[['TMA', '(CH3)3N', 'trimethylamine', 'N,N-Dimethylmethanamine']]"
+36,Cardiovascular Diseases,"[['NADPH', 'TPNH']]"
+37,Cardiovascular Diseases,"[['13-HDHA', '13-HDoHE', '(4Z,7Z,10Z,14E,16Z,19Z)-13-hydroxydocosahexaenoic acid', '13-hydroxy-docosahexaenoic acid']]"
+38,Cardiovascular Diseases,"[['O2', 'Oxygen', 'dioxygen']]"
+39,Cardiovascular Diseases,"[['DHA', 'Docosahexaenoic acid', 'all-cis-docosa-4,7,10,13,16,19-hexaenoic acid', 'cis-4,7,10,13,16,19-docosahexaenoic acid']]"
+40,Cardiovascular Diseases,"[['NR1H2,3:RXR:NR1H2,3 ligand:ABCG5 gene']]"
+41,Cardiovascular Diseases,[['ABCG5 gene']]
+42,Cardiovascular Diseases,"[['NR1H3, NR1H2 ligands', 'LXR ligand', 'NR1H3, NR1H2 agonists', 'oxysterols']]"
+43,Cardiovascular Diseases,"[['NR1H2,3:RXR', 'LXR:RXR']]"
+44,Cardiovascular Diseases,"[['NR1H2,3:RXR:NR1H2,3 ligand:ABCG8 gene', 'LXR:RXR:LXR ligand:ABCG8 gene']]"
+45,Cardiovascular Diseases,"[['ABCG8 gene', 'ATP binding cassette subfamily G member 8 gene']]"
+46,Cardiovascular Diseases,"[['NR1H3, NR1H2 ligands', 'LXR ligand', 'NR1H3, NR1H2 agonists', 'oxysterols']]"
+47,Cardiovascular Diseases,"[['NR1H2,3:RXR', 'LXR:RXR']]"
+48,Heart Defects,"[['TFAP2A,TFAP2C homodimers:CITED2:PITX2 Gene']]"
+49,Heart Defects,"[['TFAP2A,TFAP2C homodimers:CITED2']]"
+50,Heart Defects,[['PITX2 Gene']]
+51,Heart Defects,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+52,Heart Defects,"[['p-S23,S24-TNNI3', 'Troponin I, cardiac muscle', 'TNNI3_HUMAN']]"
+53,Heart Defects,"[['TNNI3', 'Troponin I, cardiac muscle', 'TNNI3_HUMAN']]"
+54,Heart Defects,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+55,Heart Defects,[['JAG1:NOTCH2']]
+56,Heart Defects,"[['JAG1', 'Jagged 1 ligand']]"
+57,Heart Defects,[['NOTCH2/Fringe-modified NOTCH2']]
+58,Heart Defects,"[['JAG1', 'Jagged 1 ligand']]"
+59,Heart Defects,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+60,Heart Defects,"[['LPA,PA']]"
+61,Heart Defects,"[['MAG,DAG']]"
+62,Heart Defects,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+63,Heart Defects,"[['L-PCARN', 'L-Palmitoylcarnitine', 'O-palmitoyl-L-carnitine']]"
+64,Heart Defects,"[['CoA-SH', 'coenzyme A']]"
+65,Heart Defects,"[['CAR', 'gamma-Trimethyl-hydroxybutyrobetaine', 'carnitine', '3-Hydroxy-4-trimethylammoniobutanoate']]"
+66,Heart Defects,"[['PALM-CoA', 'palmitoyl-CoA']]"
+67,Heart Defects,"[['HCO3-', 'bicarbonate', 'hydrogencarbonate', 'acid carbonate']]"
+68,Heart Defects,"[['Cl-', 'chloride']]"
+69,Heart Defects,"[['Cl-', 'chloride']]"
+70,Heart Defects,"[['HCO3-', 'bicarbonate', 'hydrogencarbonate', 'acid carbonate']]"
+71,Heart Defects,"[['Glc', 'alpha-D-glucose']]"
+72,Heart Defects,"[['Glc', 'alpha-D-glucose']]"
+73,Heart Defects,"[['H+', 'hydron']]"
+74,Heart Defects,[['SLC22A18 substrates']]
+75,Heart Defects,[['SLC22A18 substrates']]
+76,Heart Defects,"[['H+', 'proton', 'hydron']]"
+77,Heart Defects,"[['L-Asp', 'L-Aspartate', 'L-aspartate(1-)', 'L-aspartic acid', '2-aminosuccinate']]"
+78,Heart Defects,"[['L-Glu', 'Glu', 'L-glutamate(1-)', 'L-glutamic acid', 'L-Glutamate', 'L-Glutaminic acid']]"
+79,Heart Defects,"[['L-Glu', 'L-Glutamate', 'L-glutamate(1-)', 'L-glutamic acid', 'L-Glutaminic acid']]"
+80,Heart Defects,"[['L-Asp', 'L-Aspartate', 'L-aspartate(1-)', 'L-aspartic acid', '2-aminosuccinic acid']]"
+81,Heart Defects,[['GPIHBP1:HSPG:LPL dimer']]
+82,Heart Defects,"[['GPIHBP1', 'Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1', 'HDBP1_HUMAN']]"
+83,Heart Defects,[['HSPG:LPL dimer']]
+84,Heart Defects,"[['CAR', 'gamma-Trimethyl-hydroxybutyrobetaine', 'carnitine', '3-Hydroxy-4-trimethylammoniobutanoate']]"
+85,Heart Defects,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+86,Heart Defects,"[['CAR', 'gamma-Trimethyl-hydroxybutyrobetaine', 'carnitine', '3-Hydroxy-4-trimethylammoniobutanoate']]"
+87,Heart Defects,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+88,Heart Defects,[['p-S16-PLN pentamer']]
+89,Heart Defects,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+90,Heart Defects,[['PLN pentamer']]
+91,Heart Defects,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+92,Heart Defects,"[['K+', 'Potassium', 'potassium(1+)']]"
+93,Heart Defects,"[['Cl-', 'chloride']]"
+94,Heart Defects,"[['K+', 'Potassium', 'potassium(1+)']]"
+95,Heart Defects,"[['Cl-', 'chloride']]"
+96,Heart Defects,"[['Glc', 'alpha-D-glucose']]"
+97,Heart Defects,"[['Glc', 'alpha-D-glucose']]"
+98,Heart Defects,"[['HSCN', 'thiocyanic acid']]"
+99,Heart Defects,"[['PYR', 'Pyruvate', 'pyruvic acid', '2-Oxopropanoate', '2-Oxopropanoic acid', 'Pyroracemic acid']]"
+100,Heart Defects,[['sulfanegen']]
+101,Heart Defects,"[['HCN', 'hydrogen cyanide']]"
+102,DiGeorge Syndrome,"[['CIT', 'Citrate', 'citric acid', '2-Hydroxy-1,2,3-propanetricarboxylic acid', '2-Hydroxytricarballylic acid']]"
+103,DiGeorge Syndrome,"[['PEP', 'phosphoenolpyruvate', 'Phosphoenolpyruvic acid']]"
+104,DiGeorge Syndrome,"[['CIT', 'Citrate', 'citric acid']]"
+105,DiGeorge Syndrome,"[['PEP', 'phosphoenolpyruvate', 'Phosphoenolpyruvic acid']]"
+106,Alagille Syndrome,[['JAG1:NOTCH2']]
+107,Alagille Syndrome,"[['JAG1', 'Jagged 1 ligand']]"
+108,Alagille Syndrome,[['NOTCH2/Fringe-modified NOTCH2']]
+109,Alagille Syndrome,"[['JAG1', 'Jagged 1 ligand']]"
+110,Marfan Syndrome,[['Cleaved fibrillin-1']]
+111,Marfan Syndrome,[['Fibrillin-1']]
+112,Noonan Syndrome,[['RAS mutants:GTP:p-RAF homo/heterodimer']]
+113,Noonan Syndrome,"[['p-T,Y MAPKs']]"
+114,Noonan Syndrome,[['RAF/MAPK scaffolds']]
+115,Noonan Syndrome,[['p-2S MAP2K homo/heterodimers']]
+116,Noonan Syndrome,"[['mutant RAS:GTP:p-RAF:p-2S MAP2Ks:p-T,Y MAPKs:scaffold proteins']]"
+117,Turner Syndrome,"[['Heparan sulfate chain', 'beta-D-IdoA-(1->4)-alpha-D-GlcNS6S-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+118,Turner Syndrome,[['HS core proteins']]
+119,Turner Syndrome,"[['H2O', 'water']]"
+120,Turner Syndrome,"[['HS/HPIN-PGs', 'Heparan sulfate/heparin-PGs']]"
+121,Turner Syndrome,[['RAS mutants:GTP:p-RAF homo/heterodimer']]
+122,Turner Syndrome,"[['p-T,Y MAPKs']]"
+123,Turner Syndrome,[['RAF/MAPK scaffolds']]
+124,Turner Syndrome,[['p-2S MAP2K homo/heterodimers']]
+125,Turner Syndrome,"[['mutant RAS:GTP:p-RAF:p-2S MAP2Ks:p-T,Y MAPKs:scaffold proteins']]"
+126,Turner Syndrome,[['ZFPM proteins:GATA proteins']]
+127,Turner Syndrome,[['GATA proteins']]
+128,Turner Syndrome,"[['ZFPM1, ZFPM2']]"
+129,May-Thurner Syndrome,[['BRAF inhibitors:high kinase activity BRAF mutants']]
+130,May-Thurner Syndrome,[['BRAF inhibitors']]
+131,May-Thurner Syndrome,[['high kinase activity BRAF mutants']]
+132,May-Thurner Syndrome,[['ARL6:GTP:BBSome:ciliary cargo']]
+133,May-Thurner Syndrome,[['ARL6:GTP']]
+134,May-Thurner Syndrome,[['BBSome']]
+135,May-Thurner Syndrome,[['BBSome ciliary cargo']]
+136,May-Thurner Syndrome,"[['chondroitin(2)-core proteins', '(GlcA)1 (GalNAc)1 (GlcA)1 (Gal)2 (Xyl)1 (Ser)1']]"
+137,May-Thurner Syndrome,"[['UDP', ""uridine 5'-diphosphate""]]"
+138,May-Thurner Syndrome,"[['UDP-GlcA', 'UDP-glucuronic acid', 'UDP-alpha-D-glucuronic acid']]"
+139,May-Thurner Syndrome,"[['chondroitin(1)-core proteins', '(GalNAc)1 (GlcA)1 (Gal)2 (Xyl)1 (Ser)1']]"
+140,May-Thurner Syndrome,"[['chondroitin(2)-core proteins', '(GlcA)1 (GalNAc)1 (GlcA)1 (Gal)2 (Xyl)1 (Ser)1']]"
+141,May-Thurner Syndrome,"[['UDP', ""uridine 5'-diphosphate""]]"
+142,May-Thurner Syndrome,"[['UDP-GlcA', 'UDP-glucuronic acid', 'UDP-alpha-D-glucuronic acid']]"
+143,May-Thurner Syndrome,"[['chondroitin(1)-core proteins', '(GalNAc)1 (GlcA)1 (Gal)2 (Xyl)1 (Ser)1']]"
+144,May-Thurner Syndrome,[['DSCAM:p-S144-PAK1:RAC1:GTP']]
+145,May-Thurner Syndrome,[['p-S144-PAK1:RAC1:GTP']]
+146,May-Thurner Syndrome,"[['DSCAM', 'Down syndrome cell adhesion molecule precursor', 'DSCA_HUMAN']]"
+147,May-Thurner Syndrome,"[['Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1']]"
+148,May-Thurner Syndrome,"[['Ub', 'Ubiquitin', 'UBIQ_HUMAN']]"
+149,May-Thurner Syndrome,[['Hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1']]
+150,May-Thurner Syndrome,"[['CoA-SH', 'CoA', 'coenzyme A']]"
+151,May-Thurner Syndrome,[['Ac-Cohesin:PDS5:WAPAL:Centromere']]
+152,May-Thurner Syndrome,[['Cohesin:PDS5:WAPAL:Centromere']]
+153,May-Thurner Syndrome,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+154,May-Thurner Syndrome,[['FGFR2c mutant dimers with enhanced ligand-binding bound to FGFs']]
+155,May-Thurner Syndrome,[['FGFR2c mutant binding FGFs']]
+156,May-Thurner Syndrome,"[['HS', 'Heparan Sulphate', 'heparan sulfate']]"
+157,May-Thurner Syndrome,[['FGFR2c mutants with enhanced ligand binding']]
+158,May-Thurner Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+159,May-Thurner Syndrome,[['CDC42:GTP:p-Y-WASP/p-Y-WASL:WIP:SH3 proteins']]
+160,May-Thurner Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+161,May-Thurner Syndrome,[['CDC42:GTP:WASP/N-WASP:WIP:SH3 proteins']]
+162,May-Thurner Syndrome,"[[""2'-deoxynucleoside"", ""2'-deoxyribonucleoside""]]"
+163,May-Thurner Syndrome,"[['PPPi', 'triphosphate(5-)']]"
+164,May-Thurner Syndrome,"[['H2O', 'water']]"
+165,May-Thurner Syndrome,"[['dNTP(4-)', ""2'-deoxyribonucleoside 5'-triphosphate(4-)""]]"
+166,May-Thurner Syndrome,"[['L-Orn', '(S)-2,5-diaminovaleric acid', 'L-ornithine', '(S)-2,5-Diaminopentanoic acid', '(S)-2,5-Diaminopentanoate']]"
+167,May-Thurner Syndrome,"[['L-Cit', 'L-Citrulline', 'L-Citrulline', '2-Amino-5-ureidovaleric acid', 'L-citrulline']]"
+168,May-Thurner Syndrome,"[['L-Cit', '2-Amino-5-ureidovaleric acid', 'L-citrulline']]"
+169,May-Thurner Syndrome,"[['L-Orn', '(S)-2,5-diaminovaleric acid', 'L-ornithine', '(S)-2,5-Diaminopentanoic acid', '(S)-2,5-Diaminopentanoate']]"
+170,May-Thurner Syndrome,[['FGFR2b mutant dimers with enhanced ligand-binding bound to FGFs']]
+171,May-Thurner Syndrome,[['FGFR2b mutant-binding FGFs']]
+172,May-Thurner Syndrome,[['FGFR2b mutants with enhanced ligand binding']]
+173,May-Thurner Syndrome,"[['HS', 'Heparan Sulphate', 'heparan sulfate']]"
+174,May-Thurner Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+175,May-Thurner Syndrome,[['Activated FGFR2 ligand-independent mutants']]
+176,May-Thurner Syndrome,[['FGFR2 ligand-independent mutant dimers']]
+177,May-Thurner Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+178,May-Thurner Syndrome,"[['Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH Core:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300']]"
+179,May-Thurner Syndrome,"[['Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1']]"
+180,May-Thurner Syndrome,"[['HMGN1', 'Non-histone chromosomal protein HMG-14', 'High mobility group nucleosome-binding domain-containing protein 1', 'HMG14']]"
+181,May-Thurner Syndrome,"[['XPA', 'XPA protein ', 'DNA-repair protein complementing XP-A cells (Xeroderma pigmentosum group A complementing protein)', 'xeroderma pigmentosum, complementation group A', 'DNA-repair protein complementing XP-A cells', 'Xeroderma pigmentosum group A complementing protein']]"
+182,May-Thurner Syndrome,"[['EP300', 'p300', 'Histone acetyltransferase p300', 'EP300_HUMAN', 'KAT3B']]"
+183,May-Thurner Syndrome,"[['TCEA1', 'TFIIS protein', 'Transcription elongation factor A protein 1 (Transcription elongation factor S-II protein 1) (Transcription elongation factor TFIIS.o)', 'Transcription elongation factor A protein 1', 'Transcription elongation factor S-II protein 1', 'Transcription elongation factor TFIIS.o']]"
+184,May-Thurner Syndrome,"[['XAB2 complex', 'XAB2:AQR:PRPF19:ZNF830:ISY1:PPIE']]"
+185,May-Thurner Syndrome,[['UVSSA:USP7']]
+186,May-Thurner Syndrome,[['CDC42:GTP:WASP/N-WASP:WIP:SH3 proteins']]
+187,May-Thurner Syndrome,[['WIP family proteins']]
+188,May-Thurner Syndrome,[['SH3 domain proteins']]
+189,May-Thurner Syndrome,[['CDC42:GTP:WASP/N-WASP']]
+190,May-Thurner Syndrome,"[['TC-NER pre-incision complex:Open bubble damaged DNA template:RPA:ERCC5:trimmed nascent mRNA', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Open bubble damaged DNA template:trimmed nascent mRNA:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300:RPA:ERCC5']]"
+191,May-Thurner Syndrome,[['RPA heterotrimer']]
+192,May-Thurner Syndrome,"[['TC-NER pre-incision complex:Open bubble damaged DNA template:trimmed nascent mRNA', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Open bubble damaged DNA template:trimmed nascent mRNA hybrid:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300']]"
+193,May-Thurner Syndrome,"[['ERCC5', 'XPG protein', 'DNA-repair protein complementing XP-G cells (Xeroderma pigmentosum group G complementing protein) (DNA excision repair protein ERCC-5)', 'ERCC5 or  XPGC', 'Xeroderma pigmentosum group G complementing protein', 'DNA excision repair protein ERCC-5 ', 'DNA-repair protein complementing XP-G cells', 'DNA excision repair protein ERCC-5']]"
+194,May-Thurner Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+195,May-Thurner Syndrome,"[['LPA,PA']]"
+196,May-Thurner Syndrome,"[['MAG,DAG']]"
+197,May-Thurner Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+198,May-Thurner Syndrome,[['DSCAM/DSCAML1 homodimers']]
+199,May-Thurner Syndrome,"[['DSCAM, DSCAML1']]"
+200,May-Thurner Syndrome,"[['DSCAM', 'Down syndrome cell adhesion molecule precursor', 'DSCA_HUMAN']]"
+201,May-Thurner Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+202,May-Thurner Syndrome,"[['Fru 1-P', 'D-Fructose 1-phosphate', 'keto-D-fructose 1-phosphate']]"
+203,May-Thurner Syndrome,"[['Fru', 'Levulose', 'D-fructose', 'Fruit sugar', 'D-Arabino-hexulose']]"
+204,May-Thurner Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+205,May-Thurner Syndrome,"[['CoA-SH', 'CoA', 'coenzyme A']]"
+206,May-Thurner Syndrome,[['Ac-Cohesin:PDS5:WAPAL:Chromosomal Arm']]
+207,May-Thurner Syndrome,[['Cohesin:PDS5:WAPAL:Chromosomal Arm']]
+208,May-Thurner Syndrome,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+209,May-Thurner Syndrome,[['Telomerase RNP']]
+210,May-Thurner Syndrome,"[['NOP10', 'H/ACA ribonucleoprotein complex subunit 3', 'NOP10_HUMAN']]"
+211,May-Thurner Syndrome,"[['DKC1', 'Dyskerin']]"
+212,May-Thurner Syndrome,[['Telomerase RNA Component (TERC)']]
+213,May-Thurner Syndrome,[['TERT']]
+214,May-Thurner Syndrome,"[['GAR1', 'H/ACA ribonucleoprotein complex subunit 1', 'GAR1_HUMAN']]"
+215,May-Thurner Syndrome,"[['WRAP53', 'TCAB1', 'telomerase Cajal body protein 1', 'WD repeat containing, antisense to TP53', 'WDR79', 'WD repeat-containing protein 79', 'WDR79_HUMAN']]"
+216,May-Thurner Syndrome,"[['NHP2', 'H/ACA ribonucleoprotein complex subunit 2', 'NHP2_HUMAN']]"
+217,May-Thurner Syndrome,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'Phosphate', 'Inorganic Phosphate']]"
+218,May-Thurner Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+219,May-Thurner Syndrome,"[['TC-NER pre-incision complex:Open bubble damaged DNA template:trimmed nascent mRNA', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Open bubble damaged DNA template:trimmed nascent mRNA hybrid:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300']]"
+220,May-Thurner Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+221,May-Thurner Syndrome,"[['TC-NER pre-incision complex', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300']]"
+222,May-Thurner Syndrome,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+223,May-Thurner Syndrome,"[['CO2', 'carbon dioxide']]"
+224,May-Thurner Syndrome,[['Lysyl hydroxylases:Lysyl hydroxylated collagen propeptides']]
+225,May-Thurner Syndrome,"[['O2', 'Oxygen', 'dioxygen']]"
+226,May-Thurner Syndrome,[['Lysyl hydroxylases:Lysyl hydroxylase procollagen substrates']]
+227,May-Thurner Syndrome,"[['2OG', '2-Oxoglutarate', '2-oxoglutaric acid', 'alpha-ketoglutarate', '2-oxoglutarate(2-)']]"
+228,May-Thurner Syndrome,[['Activated FGFR1 mutants and fusions:PLCG1']]
+229,May-Thurner Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+230,May-Thurner Syndrome,[['Activated FGFR1 mutants and fusions']]
+231,May-Thurner Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+232,May-Thurner Syndrome,[['Activated FGFR3 mutants: PLCG1']]
+233,May-Thurner Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+234,May-Thurner Syndrome,[['Activated FGFR3 mutants']]
+235,May-Thurner Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+236,May-Thurner Syndrome,[['Activated FGFR2 mutants:PLCG1']]
+237,May-Thurner Syndrome,[['Activated FGFR2 mutants']]
+238,May-Thurner Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+239,May-Thurner Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+240,May-Thurner Syndrome,[['Activated FGFR4 mutants:PLCG1']]
+241,May-Thurner Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+242,May-Thurner Syndrome,[['Activated FGFR4 mutants']]
+243,May-Thurner Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+244,May-Thurner Syndrome,"[['CoA-SH', 'coenzyme A']]"
+245,May-Thurner Syndrome,[['acetylated microtubule']]
+246,May-Thurner Syndrome,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+247,May-Thurner Syndrome,[['Microtubule']]
+248,May-Thurner Syndrome,[['SPRED dimer:NF1']]
+249,May-Thurner Syndrome,[['SPRED dimer']]
+250,May-Thurner Syndrome,"[['NF1(2-2839)', 'NF1']]"
+251,May-Thurner Syndrome,"[['dNTP', 'Deoxynucleoside triphosphate', ""2'-deoxyribonucleoside triphosphate""]]"
+252,May-Thurner Syndrome,"[[""3' overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex:EXO1,DNA2:BLM,WRN:p-S990,Ac-K1249-BRIP1""]]"
+253,May-Thurner Syndrome,"[['H2O', 'water']]"
+254,May-Thurner Syndrome,"[[""3' short overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex:EXO1,DNA2:BLM,WRN:p-S990,Ac-K1249-BRIP1""]]"
+255,May-Thurner Syndrome,[['GLI:SUFU']]
+256,May-Thurner Syndrome,"[['GLI1,2,3']]"
+257,May-Thurner Syndrome,"[['SUFU', 'Suppressor of fused homolog', 'SUFU_HUMAN']]"
+258,May-Thurner Syndrome,[['MECP2:FOXG1']]
+259,May-Thurner Syndrome,"[['FOXG1', 'Forkhead box protein G1', 'FOXG1_HUMAN']]"
+260,May-Thurner Syndrome,[['MECP2']]
+261,May-Thurner Syndrome,"[['H2O', 'water']]"
+262,May-Thurner Syndrome,"[['H2O', 'water']]"
+263,May-Thurner Syndrome,[['p-2S-SMAD2/3:SMAD4:MEN1']]
+264,May-Thurner Syndrome,"[['p-2S-SMAD2/3:SMAD4', 'Phospho-R-SMAD:CO-SMAD complex']]"
+265,May-Thurner Syndrome,"[['MEN1', 'Menin', 'SCG2']]"
+266,May-Thurner Syndrome,[['NTP']]
+267,May-Thurner Syndrome,[['DSIF:NELF:early elongation complex']]
+268,May-Thurner Syndrome,[['RNA Pol II (hypophosphorylated) complex bound to DSIF protein']]
+269,May-Thurner Syndrome,[['NTP']]
+270,May-Thurner Syndrome,[['NELF complex']]
+271,May-Thurner Syndrome,[['BTN2A1:CD209']]
+272,May-Thurner Syndrome,"[['BTN2A1', 'Butyrophilin subfamily 2 member A1', 'BT2A1_HUMAN']]"
+273,May-Thurner Syndrome,"[['CD209', 'DC-SIGN', 'CD209 antigen', 'CD209_HUMAN']]"
+274,May-Thurner Syndrome,[['DSIF:NELF:early elongation complex']]
+275,May-Thurner Syndrome,[['NTP']]
+276,May-Thurner Syndrome,[['RNA Pol II (hypophosphorylated) complex bound to DSIF protein']]
+277,May-Thurner Syndrome,[['NTP']]
+278,May-Thurner Syndrome,[['NELF complex']]
+279,May-Thurner Syndrome,"[['H2O', 'water']]"
+280,May-Thurner Syndrome,"[['H2O', 'water']]"
+281,May-Thurner Syndrome,[['Telomerase RNP:G-strand telomeric chromosome end']]
+282,May-Thurner Syndrome,[['Telomerase RNP']]
+283,May-Thurner Syndrome,[['Telomeric G-strand chromosome end:Shelterin']]
+284,May-Thurner Syndrome,"[['RTEL1', 'Regulator of telomere elongation helicase 1', 'NHL']]"
+285,May-Thurner Syndrome,[['MECP2:DGCR8']]
+286,May-Thurner Syndrome,"[['DGCR8', 'Microprocessor complex subunit DGCR8', 'DGCR8_HUMAN']]"
+287,May-Thurner Syndrome,[['p-S80-MECP2']]
+288,May-Thurner Syndrome,"[['GPCHO, GPETAM']]"
+289,May-Thurner Syndrome,[['fatty aldehyde']]
+290,May-Thurner Syndrome,"[['H2O', 'water']]"
+291,May-Thurner Syndrome,"[['PMCHO, PMETAM']]"
+292,May-Thurner Syndrome,"[['PI(4,5)P2:p-T156 AP-2:clathrin:ITSNs:EPS15:REPS1:SGIP1:NECAPs:AAK1:CLASP proteins:cargo:F-BAR proteins:BAR domain proteins:ARP2/3 complex:WASL:f-actin:HIP dimers']]"
+293,May-Thurner Syndrome,[['ARP2/3 complex']]
+294,May-Thurner Syndrome,[['HIP1 dimer']]
+295,May-Thurner Syndrome,[['HIP1R dimer']]
+296,May-Thurner Syndrome,[['f-actin']]
+297,May-Thurner Syndrome,"[['WASL,CTTN']]"
+298,May-Thurner Syndrome,"[['PI(4,5)P2:p-T156 AP-2:clathrin:ITSNs:EPS15:REPS1:SGIP1:NECAPs:AAK1:CLASP proteins:cargo:F-BAR proteins:BAR domain proteins']]"
+299,Heart Diseases,"[['ABCG1 gene:NR1H2,3:RXR:oxysterol:GPS2:KDMs', 'ABCG1 gene:LXR:RXR:oxysterol:GPS2:KDMs']]"
+300,Heart Diseases,"[['GPS2', 'GPS2_HUMAN', 'G protein pathway suppressor 2', 'AMF1']]"
+301,Heart Diseases,"[['KDM1A, KDM1B, KDM3A, KDM4A']]"
+302,Heart Diseases,[['ABCG1 gene']]
+303,Heart Diseases,"[['NR1H3, NR1H2 ligands', 'LXR ligand', 'NR1H3, NR1H2 agonists', 'oxysterols']]"
+304,Heart Diseases,"[['NR1H2,3:RXR', 'LXR:RXR']]"
+305,Heart Diseases,"[['EDNRA,EDNRB:Endothelin', 'Endothelin:Endothelin receptors']]"
+306,Heart Diseases,"[['EDNRA,EDNRB', 'Endothelin receptors']]"
+307,Heart Diseases,[['Endothelin']]
+308,Heart Diseases,"[['ADRB1,2,3:β-blockers']]"
+309,Heart Diseases,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+310,Heart Diseases,[['β-blockers']]
+311,Heart Diseases,[['NTF3:p-5Y-NTRK3 homodimer']]
+312,Heart Diseases,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+313,Heart Diseases,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+314,Heart Diseases,[['NTF3:NTRK3 homodimer']]
+315,Heart Diseases,"[['HSCN', 'thiocyanic acid']]"
+316,Heart Diseases,"[['PYR', 'Pyruvate', 'pyruvic acid', '2-Oxopropanoate', '2-Oxopropanoic acid', 'Pyroracemic acid']]"
+317,Heart Diseases,[['sulfanegen']]
+318,Heart Diseases,"[['HCN', 'hydrogen cyanide']]"
+319,Heart Diseases,"[['RFNA', '1-(beta-D-ribofuranosyl)nicotinamide', 'N-ribosylnicotinamide']]"
+320,Heart Diseases,"[['hydroquinone', 'quinol']]"
+321,Heart Diseases,"[['RFDHN', '1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide']]"
+322,Heart Diseases,[['quinone']]
+323,Heart Diseases,"[['H2O2', 'hydrogen peroxide']]"
+324,Heart Diseases,"[['H2O2', 'hydrogen peroxide']]"
+325,Heart Diseases,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+326,Heart Diseases,"[['ACA-CoA', 'acetoacetyl-CoA']]"
+327,Heart Diseases,"[['AMP', ""adenosine 5'-monophosphate"", 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+328,Heart Diseases,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+329,Heart Diseases,"[['CoA-SH', 'coenzyme A']]"
+330,Heart Diseases,"[['ACA', '3-Oxobutanoate', 'acetoacetate']]"
+331,Heart Diseases,"[['PA', 'phosphatidic acid']]"
+332,Heart Diseases,"[['CoA-SH', 'coenzyme A']]"
+333,Heart Diseases,"[['1-acyl LPA', '1-acyl-glycerol 3-phosphate ', '1-acyl-sn-glycerol 3-phosphate', 'lysophosphatidic acid']]"
+334,Heart Diseases,[['acyl-CoA']]
+335,Heart Diseases,"[['CAR', 'gamma-Trimethyl-hydroxybutyrobetaine', 'carnitine', '3-Hydroxy-4-trimethylammoniobutanoate']]"
+336,Heart Diseases,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+337,Heart Diseases,"[['CAR', 'gamma-Trimethyl-hydroxybutyrobetaine', 'carnitine', '3-Hydroxy-4-trimethylammoniobutanoate']]"
+338,Heart Diseases,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+339,Heart Diseases,[['P2RY12:P2RY12 antagonists']]
+340,Heart Diseases,[['P2RY12 antagonists']]
+341,Heart Diseases,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+342,Heart Diseases,[['ARBs:AGTR1']]
+343,Heart Diseases,"[['ARBs', 'Angiotensin II receptor blockers']]"
+344,Heart Diseases,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+345,Heart Diseases,"[['Lp(a)', 'apolipoprotein(a):LDL complex']]"
+346,Heart Diseases,"[['LPA', 'apolipoprotein(a)', 'apo(a)']]"
+347,Heart Diseases,"[['LDL', 'low-density lipoprotein complex']]"
+348,Heart Diseases,[['ACEIs:ACE(30-1232)']]
+349,Heart Diseases,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+350,Heart Diseases,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+351,Heart Diseases,"[['SCUBE3(?-993)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+352,Heart Diseases,"[['SCUBE3(21-?)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+353,Heart Diseases,"[['SCUBE3', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+354,Arrhythmias,"[['ADRB1,2,3:β-blockers']]"
+355,Arrhythmias,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+356,Arrhythmias,[['β-blockers']]
+357,Arrhythmias,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+358,Arrhythmias,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+359,Arrhythmias,"[['K+', 'Potassium', 'potassium(1+)']]"
+360,Arrhythmias,"[['K+', 'Potassium', 'potassium(1+)']]"
+361,Arrhythmias,"[['K+', 'Potassium', 'potassium(1+)']]"
+362,Arrhythmias,"[['K+', 'Potassium', 'potassium(1+)']]"
+363,Atrial Fibrillation,"[['ADRB1,2,3:β-blockers']]"
+364,Atrial Fibrillation,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+365,Atrial Fibrillation,[['β-blockers']]
+366,Cardiac Complexes,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+367,Cardiac Complexes,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+368,Cardiac Complexes,[['GLI:SUFU']]
+369,Cardiac Complexes,"[['GLI1,2,3']]"
+370,Cardiac Complexes,"[['SUFU', 'Suppressor of fused homolog', 'SUFU_HUMAN']]"
+371,Heart Block,"[['ADRB1,2,3:β-blockers']]"
+372,Heart Block,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+373,Heart Block,[['β-blockers']]
+374,Heart Block,[['ARBs:AGTR1']]
+375,Heart Block,"[['ARBs', 'Angiotensin II receptor blockers']]"
+376,Heart Block,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+377,Heart Block,[['ACEIs:ACE(30-1232)']]
+378,Heart Block,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+379,Heart Block,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+380,Adams-Stokes Syndrome,[['BRAF inhibitors:high kinase activity BRAF mutants']]
+381,Adams-Stokes Syndrome,[['BRAF inhibitors']]
+382,Adams-Stokes Syndrome,[['high kinase activity BRAF mutants']]
+383,Adams-Stokes Syndrome,[['TPH1 gene:EGR1']]
+384,Adams-Stokes Syndrome,[['TPH1 gene']]
+385,Adams-Stokes Syndrome,"[['EGR1', 'Early growth response protein 1', 'EGR1_HUMAN']]"
+386,Bundle-Branch Block,[['Virion with gp41 forming hairpin structure']]
+387,Bundle-Branch Block,[['Virion with gp41 fusion peptide in insertion complex']]
+388,Long QT Syndrome,"[['K+', 'Potassium', 'potassium(1+)']]"
+389,Long QT Syndrome,"[['K+', 'Potassium', 'potassium(1+)']]"
+390,Andersen Syndrome,[['CUBN:AMN:GIF:Cbl']]
+391,Andersen Syndrome,[['GIF:Cbl']]
+392,Andersen Syndrome,[['CUBN:AMN']]
+393,Romano-Ward Syndrome,"[['K+', 'Potassium', 'potassium(1+)']]"
+394,Romano-Ward Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+395,Romano-Ward Syndrome,"[['Cl-', 'chloride']]"
+396,Romano-Ward Syndrome,"[['K+', 'Potassium', 'potassium(1+)']]"
+397,Romano-Ward Syndrome,"[['Cl-', 'chloride']]"
+398,Romano-Ward Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+399,Romano-Ward Syndrome,[['P2RY12:P2RY12 antagonists']]
+400,Romano-Ward Syndrome,[['P2RY12 antagonists']]
+401,Romano-Ward Syndrome,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+402,Pre-Excitation Syndromes,"[['Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300', 'Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH Core:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1:UVSSA:USP7:XAB2 complex:XPA:TCEA1:HMGN1:EP300']]"
+403,Pre-Excitation Syndromes,"[['Ubiquitinated,hyperphosphorylated RNA Pol II:Damaged DNA template:nascent mRNA hybrid:TFIIH:Ub:ERCC6:ERCC8:DDB1:CUL4:RBX1']]"
+404,Pre-Excitation Syndromes,"[['HMGN1', 'Non-histone chromosomal protein HMG-14', 'High mobility group nucleosome-binding domain-containing protein 1', 'HMG14']]"
+405,Pre-Excitation Syndromes,"[['XPA', 'XPA protein ', 'DNA-repair protein complementing XP-A cells (Xeroderma pigmentosum group A complementing protein)', 'xeroderma pigmentosum, complementation group A', 'DNA-repair protein complementing XP-A cells', 'Xeroderma pigmentosum group A complementing protein']]"
+406,Pre-Excitation Syndromes,"[['EP300', 'p300', 'Histone acetyltransferase p300', 'EP300_HUMAN', 'KAT3B']]"
+407,Pre-Excitation Syndromes,"[['TCEA1', 'TFIIS protein', 'Transcription elongation factor A protein 1 (Transcription elongation factor S-II protein 1) (Transcription elongation factor TFIIS.o)', 'Transcription elongation factor A protein 1', 'Transcription elongation factor S-II protein 1', 'Transcription elongation factor TFIIS.o']]"
+408,Pre-Excitation Syndromes,"[['XAB2 complex', 'XAB2:AQR:PRPF19:ZNF830:ISY1:PPIE']]"
+409,Pre-Excitation Syndromes,[['UVSSA:USP7']]
+410,Pre-Excitation Syndromes,"[['GG-NER pre-incision complex:Open bubble-dsDNA', 'pre-incision complex with open DNA bubble ', 'Open bubble-dsDNA:UV-DDB:TFIIH:XPA:RPA:XPG']]"
+411,Pre-Excitation Syndromes,[['RPA heterotrimer']]
+412,Pre-Excitation Syndromes,"[['ERCC5', 'XPG protein', 'DNA-repair protein complementing XP-G cells (Xeroderma pigmentosum group G complementing protein) (DNA excision repair protein ERCC-5)', 'ERCC5 or  XPGC', 'Xeroderma pigmentosum group G complementing protein', 'DNA excision repair protein ERCC-5 ', 'DNA-repair protein complementing XP-G cells', 'DNA excision repair protein ERCC-5']]"
+413,Pre-Excitation Syndromes,"[['Open bubble-dsDNA:PAR-UV-DDB:TFIIH Core:XPA:PAR-PARP1, PAR-PARP2:CHD1L']]"
+414,Pre-Excitation Syndromes,"[['DOLP', 'Dolichol phosphate', 'dolichyl phosphate']]"
+415,Pre-Excitation Syndromes,"[['(Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1', 'alpha-Gal-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol)']]"
+416,Pre-Excitation Syndromes,"[['(GlcNAc)2 (Man)9 (PP-Dol)1', 'alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol)']]"
+417,Pre-Excitation Syndromes,"[['DbGP', 'dolichyl beta-D-glucosyl phosphate']]"
+418,Pre-Excitation Syndromes,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+419,Pre-Excitation Syndromes,[['pre-rRNA containing 7-methylG-1639']]
+420,Pre-Excitation Syndromes,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+421,Pre-Excitation Syndromes,[['pre-rRNA']]
+422,Pre-Excitation Syndromes,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+423,Pre-Excitation Syndromes,[['18SE pre-rRNA containing 1-methylpseudoU-1248']]
+424,Pre-Excitation Syndromes,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+425,Pre-Excitation Syndromes,[['pre-rRNA containing pseudouridine']]
+426,Pre-Excitation Syndromes,[['Mother filament:branching complex']]
+427,Pre-Excitation Syndromes,[['F-actin']]
+428,Pre-Excitation Syndromes,"[['WAVE2, WASP, N-WASP:ARP2/3 complex:G-actin']]"
+429,Pre-Excitation Syndromes,[['cytosolic FGFR1 fusion mutant dimers']]
+430,Pre-Excitation Syndromes,[['cytosolic FGFR1 fusion mutants']]
+431,Pre-Excitation Syndromes,"[['CoA-SH', 'CoA', 'coenzyme A']]"
+432,Pre-Excitation Syndromes,[['Ac-Cohesin:PDS5:WAPAL:Centromere']]
+433,Pre-Excitation Syndromes,[['Cohesin:PDS5:WAPAL:Centromere']]
+434,Pre-Excitation Syndromes,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+435,Pre-Excitation Syndromes,[['NTP']]
+436,Pre-Excitation Syndromes,[['DSIF:NELF:early elongation complex']]
+437,Pre-Excitation Syndromes,[['RNA Pol II (hypophosphorylated) complex bound to DSIF protein']]
+438,Pre-Excitation Syndromes,[['NTP']]
+439,Pre-Excitation Syndromes,[['NELF complex']]
+440,Pre-Excitation Syndromes,[['DSIF:NELF:early elongation complex']]
+441,Pre-Excitation Syndromes,[['NTP']]
+442,Pre-Excitation Syndromes,[['RNA Pol II (hypophosphorylated) complex bound to DSIF protein']]
+443,Pre-Excitation Syndromes,[['NTP']]
+444,Pre-Excitation Syndromes,[['NELF complex']]
+445,Pre-Excitation Syndromes,[['MECP2:DGCR8']]
+446,Pre-Excitation Syndromes,"[['DGCR8', 'Microprocessor complex subunit DGCR8', 'DGCR8_HUMAN']]"
+447,Pre-Excitation Syndromes,[['p-S80-MECP2']]
+448,Lown-Ganong-Levine Syndrome,"[['PG', 'phosphatidylglycerol']]"
+449,Lown-Ganong-Levine Syndrome,"[['PG', 'phosphatidylglycerol']]"
+450,Lown-Ganong-Levine Syndrome,[['cytosolic PDGFR fusion dimers']]
+451,Lown-Ganong-Levine Syndrome,[['cytosolic PDGFR fusions']]
+452,Wolff-Parkinson-White Syndrome,[['ARL6:GTP:BBSome:ciliary cargo']]
+453,Wolff-Parkinson-White Syndrome,[['ARL6:GTP']]
+454,Wolff-Parkinson-White Syndrome,[['BBSome']]
+455,Wolff-Parkinson-White Syndrome,[['BBSome ciliary cargo']]
+456,Wolff-Parkinson-White Syndrome,[['BBSome']]
+457,Wolff-Parkinson-White Syndrome,[['BBS1']]
+458,Wolff-Parkinson-White Syndrome,"[['BBS9', 'PTHB1']]"
+459,Wolff-Parkinson-White Syndrome,[['BBS4']]
+460,Wolff-Parkinson-White Syndrome,"[['TTC8', 'BBS8']]"
+461,Wolff-Parkinson-White Syndrome,"[['BBS7', 'BBS2L1']]"
+462,Wolff-Parkinson-White Syndrome,[['BBS5']]
+463,Wolff-Parkinson-White Syndrome,"[['BBIP1', 'BBIP10']]"
+464,Wolff-Parkinson-White Syndrome,[['BBS2']]
+465,Wolff-Parkinson-White Syndrome,"[['PG', 'phosphatidylglycerol']]"
+466,Wolff-Parkinson-White Syndrome,"[['PG', 'phosphatidylglycerol']]"
+467,Wolff-Parkinson-White Syndrome,"[['CoA-SH', 'coenzyme A']]"
+468,Wolff-Parkinson-White Syndrome,[['acetylated microtubule']]
+469,Wolff-Parkinson-White Syndrome,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+470,Wolff-Parkinson-White Syndrome,[['Microtubule']]
+471,Tachycardia,"[['NAd', 'Noradrenaline', '(R)-noradrenaline', 'Norepinephrine']]"
+472,Tachycardia,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+473,Tachycardia,"[['NAd', 'Noradrenaline', '(R)-noradrenaline', 'Norepinephrine']]"
+474,Tachycardia,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+475,Tachycardia,"[['ADRB1,2,3:β-blockers']]"
+476,Tachycardia,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+477,Tachycardia,[['β-blockers']]
+478,Ventricular Fibrillation,"[['ADRB1,2,3:β-blockers']]"
+479,Ventricular Fibrillation,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+480,Ventricular Fibrillation,[['β-blockers']]
+481,Cardiac Output,[['GLI:SUFU']]
+482,Cardiac Output,"[['GLI1,2,3']]"
+483,Cardiac Output,"[['SUFU', 'Suppressor of fused homolog', 'SUFU_HUMAN']]"
+484,Cardiomyopathy,[['Ile-tRNA(Ile)']]
+485,Cardiomyopathy,"[[""adenosine 5'-monophosphate"", 'AMP', 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+486,Cardiomyopathy,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+487,Cardiomyopathy,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+488,Cardiomyopathy,[['tRNA(Ile)']]
+489,Cardiomyopathy,"[['L-Ile', '2-Amino-3-methylvaleric acid', 'L-isoleucine zwitterion', 'L-isoleucine']]"
+490,Cardiomyopathy,"[['Intermediate 1', 'IP subcomplex:NDUFAF3:NDUFAF4:TIMMDC1']]"
+491,Cardiomyopathy,"[['TIMMDC1', 'Complex I assembly factor TIMMDC1, mitochondrial', 'TIDC1_HUMAN']]"
+492,Cardiomyopathy,"[['IP subcomplex', 'Iron-Sulfur Protein fraction']]"
+493,Cardiomyopathy,"[['NDUFAF4', 'NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4', 'NDUF4_HUMAN']]"
+494,Cardiomyopathy,"[['NDUFAF3', 'NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3', 'NDUF3_HUMAN']]"
+495,Cardiomyopathy,[['p-S16-PLN pentamer']]
+496,Cardiomyopathy,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+497,Cardiomyopathy,[['PLN pentamer']]
+498,Cardiomyopathy,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+499,Cardiomyopathy,[['heme A']]
+500,Cardiomyopathy,[['heme O']]
+501,Cardiomyopathy,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+502,Cardiomyopathy,"[['LPA,PA']]"
+503,Cardiomyopathy,"[['MAG,DAG']]"
+504,Cardiomyopathy,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+505,Cardiomyopathy,"[['AdoHcy', 'SAH', 'S-adenosyl-L-homocysteine', 'S-adenosylhomocysteine']]"
+506,Cardiomyopathy,"[['tRNA containing 1-methylG-9', 'tRNA containing 1-methylguanosine-9']]"
+507,Cardiomyopathy,"[['AdoMet', 'SAM', 'S-adenosyl-L-methionine', 'S-adenosylmethionine']]"
+508,Cardiomyopathy,"[['tRNA containing G-9', 'tRNA containing guanosine-9']]"
+509,Cardiomyopathy,"[['AdoHcy', 'SAH', 'S-adenosyl-L-homocysteine', 'S-adenosylhomocysteine']]"
+510,Cardiomyopathy,"[['tRNA containing 1-methylA-9', 'transfer RNA containing 1-methyladenosine-9']]"
+511,Cardiomyopathy,"[['AdoMet', 'SAM', 'S-adenosyl-L-methionine', 'S-adenosylmethionine']]"
+512,Cardiomyopathy,"[['tRNA containing A-9', 'transfer RNA containing adenosine-9']]"
+513,Cardiomyopathy,"[['AdoHcy', 'SAH', 'S-adenosyl-L-homocysteine', 'S-adenosylhomocysteine']]"
+514,Cardiomyopathy,"[['12S rRNA containing 5-methylC-841', '12S rRNA containing 5-methylcytosine-841', 'MT-RNR1']]"
+515,Cardiomyopathy,"[['AdoMet', 'SAM', 'S-adenosyl-L-methionine', 'S-adenosylmethionine']]"
+516,Cardiomyopathy,"[['12S rRNA', 'MT-RNR1']]"
+517,Cardiomyopathy,[['TFR2 dimer:2xholoTF']]
+518,Cardiomyopathy,[['holoTF']]
+519,Cardiomyopathy,"[['TFR2', 'Transferrin receptor protein 2', 'TFR2_HUMAN']]"
+520,Hypertrophy,[['RUNX2:HDAC4']]
+521,Hypertrophy,"[['RUNX2', 'RUNX2-P1,(RUNX2-P2)']]"
+522,Hypertrophy,"[['HDAC4', 'HDAC4_HUMAN', 'Histone deacetylase 4']]"
+523,Hypertrophy,[['Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (inactive).']]
+524,Hypertrophy,[['G-protein G12/G13 (inactive)']]
+525,Hypertrophy,[['Ligand:GPCR complexes that activate G12/13']]
+526,Hypertrophy,[['CTF1:LIFR:JAKs']]
+527,Hypertrophy,"[['CTF1', 'Cardiotrophin-1', 'CTF1_HUMAN']]"
+528,Hypertrophy,[['JAKs:LIFR']]
+529,Hypertrophy,"[['RRAD gene:EGR1,EGR2']]"
+530,Hypertrophy,"[['EGR1,EGR2']]"
+531,Hypertrophy,[['RRAD gene']]
+532,Hypertrophy,[['RRAD gene:EGR2:NAB2:CHD4']]
+533,Hypertrophy,[['RRAD gene:EGR2']]
+534,Hypertrophy,"[['CHD4', 'Chromodomain-helicase-DNA-binding protein 4', 'CHD4_HUMAN']]"
+535,Hypertrophy,"[['NAB2', 'NGFI-A-binding protein 2', 'NAB2_HUMAN']]"
+536,Hypertrophy,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'Phosphate', 'Inorganic Phosphate']]"
+537,Hypertrophy,"[['PI5P, PI3P, PI(3,5)P2']]"
+538,Hypertrophy,"[['H2O', 'water']]"
+539,Hypertrophy,"[['PI(4,5)P2, PI(3,4)P2, PI(3,4,5)P3']]"
+540,Hypertrophy,[['VLDL:PCSK9']]
+541,Hypertrophy,"[['VLDLR', 'Very low-density lipoprotein receptor', 'VLDLR_HUMAN']]"
+542,Hypertrophy,"[['PCSK9', 'Proprotein convertase subtilisin/kexin type 9 ecNumber3.4.21.-/ecNumber', 'PCSK9_HUMAN']]"
+543,Hypertrophy,"[['SCUBE3(?-993)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+544,Hypertrophy,"[['SCUBE3(21-?)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+545,Hypertrophy,"[['SCUBE3', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+546,Cardiomyopathies,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+547,Cardiomyopathies,"[['p-S23,S24-TNNI3', 'Troponin I, cardiac muscle', 'TNNI3_HUMAN']]"
+548,Cardiomyopathies,"[['TNNI3', 'Troponin I, cardiac muscle', 'TNNI3_HUMAN']]"
+549,Cardiomyopathies,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+550,Cardiomyopathies,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+551,Cardiomyopathies,"[['DOXOL', 'adriamycinol', 'doxorubicinol', '13-dihydrodoxorubicin']]"
+552,Cardiomyopathies,"[['DOX', 'doxorubicin']]"
+553,Cardiomyopathies,"[['NADPH', 'TPNH']]"
+554,Cardiomyopathies,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+555,Cardiomyopathies,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+556,Cardiotoxicity,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+557,Cardiotoxicity,"[['DOXOL', 'adriamycinol', 'doxorubicinol', '13-dihydrodoxorubicin']]"
+558,Cardiotoxicity,"[['DOX', 'doxorubicin']]"
+559,Cardiotoxicity,"[['NADPH', 'TPNH']]"
+560,Heart Arrest,"[['p-S15,S20-TP53 Tetramer:POU4F2']]"
+561,Heart Arrest,"[['p-S15,S20-TP53 Tetramer']]"
+562,Heart Arrest,"[['POU4F2', 'POU domain, class 4, transcription factor 2', 'Brain-specific homeobox/POU domain protein 3B', 'BRN3B', 'Brn-3B', 'Brain-3B']]"
+563,Heart Arrest,"[['25OH-CHOL', '25-hydroxycholesterol']]"
+564,Heart Arrest,"[['25OH-CHOL', '25-hydroxycholesterol']]"
+565,Heart Failure,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+566,Heart Failure,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+567,Heart Failure,[['ACEIs:ACE(30-1232)']]
+568,Heart Failure,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+569,Heart Failure,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+570,Heart Failure,"[['AMP', ""adenosine 5'-monophosphate"", 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+571,Heart Failure,"[['H2O', 'water']]"
+572,Heart Failure,"[['cAMP', 'Cyclic adenylic acid', ""3',5'-cyclic AMP"", 'Cyclic AMP', ""Adenosine 3',5'-phosphate""]]"
+573,Heart Failure,"[['DIGX', 'digoxin']]"
+574,Heart Failure,"[['DIGX', 'digoxin']]"
+575,Heart Failure,[['ARBs:AGTR1']]
+576,Heart Failure,"[['ARBs', 'Angiotensin II receptor blockers']]"
+577,Heart Failure,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+578,Heart Failure,[['β3-agonists:ADBR3']]
+579,Heart Failure,[['β3-agonists']]
+580,Heart Failure,"[['ADRB3', 'Beta-3 adrenoceptor', 'RecName: Full=Beta-3 adrenergic receptor; AltName: Full=Beta-3 adrenoreceptor; Short=Beta-3 adrenoceptor;<br>GN   Name=ADRB3; Synonyms=ADRB3R, B3AR;<br>OS   Homo sapiens', 'ADRB3_HUMAN']]"
+581,Heart Failure,"[['ADRB1,2,3:β-blockers']]"
+582,Heart Failure,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+583,Heart Failure,[['β-blockers']]
+584,Cardio-Renal Syndrome,[['high kinase activity BRAF mutants:scaffold:MAP2K:MAPK complex']]
+585,Cardio-Renal Syndrome,[['RAF/MAPK scaffolds']]
+586,Cardio-Renal Syndrome,[['MAP2K homo/heterodimers']]
+587,Cardio-Renal Syndrome,"[['MAPKs', 'MAPK1,MAPK3']]"
+588,Cardio-Renal Syndrome,[['high kinase activity BRAF mutants']]
+589,Cardio-Renal Syndrome,"[['p-T,Y MAPKs']]"
+590,Cardio-Renal Syndrome,[['RAF/MAPK scaffolds']]
+591,Cardio-Renal Syndrome,[['p-2S MAP2K homo/heterodimers']]
+592,Cardio-Renal Syndrome,[['high kinase activity BRAF mutants']]
+593,Cardio-Renal Syndrome,"[['high kinase activity BRAF mutants:scaffold:p-2S MAP2K:p-T,Y MAPK complex']]"
+594,Cardio-Renal Syndrome,[['BRAF inhibitors:high kinase activity BRAF mutants']]
+595,Cardio-Renal Syndrome,[['BRAF inhibitors']]
+596,Cardio-Renal Syndrome,[['high kinase activity BRAF mutants']]
+597,Cardio-Renal Syndrome,"[['Glc', 'alpha-D-glucose']]"
+598,Cardio-Renal Syndrome,"[['Glc', 'alpha-D-glucose']]"
+599,Cardio-Renal Syndrome,"[['Cl-', 'chloride']]"
+600,Cardio-Renal Syndrome,"[['Cl-', 'chloride']]"
+601,Cardio-Renal Syndrome,"[['THMN', 'Thiamin', 'thiamine(1+)']]"
+602,Cardio-Renal Syndrome,"[['THMN', 'Thiamin', 'thiamine(1+)']]"
+603,Cardio-Renal Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+604,Cardio-Renal Syndrome,"[['Cl-', 'chloride']]"
+605,Cardio-Renal Syndrome,"[['Cl-', 'chloride']]"
+606,Cardio-Renal Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+607,Cardio-Renal Syndrome,[['BBSome']]
+608,Cardio-Renal Syndrome,[['BBS1']]
+609,Cardio-Renal Syndrome,"[['BBS9', 'PTHB1']]"
+610,Cardio-Renal Syndrome,[['BBS4']]
+611,Cardio-Renal Syndrome,"[['TTC8', 'BBS8']]"
+612,Cardio-Renal Syndrome,"[['BBS7', 'BBS2L1']]"
+613,Cardio-Renal Syndrome,[['BBS5']]
+614,Cardio-Renal Syndrome,"[['BBIP1', 'BBIP10']]"
+615,Cardio-Renal Syndrome,[['BBS2']]
+616,Cardio-Renal Syndrome,"[['H2O', 'water']]"
+617,Cardio-Renal Syndrome,"[['H2O', 'water']]"
+618,Cardio-Renal Syndrome,"[['H2O', 'water']]"
+619,Cardio-Renal Syndrome,"[['H2O', 'water']]"
+620,Edema,"[['EF:LF:(PA63:ANTXR2 oligomer)', 'EF:LF:8(PA63:ANTXR2)']]"
+621,Edema,"[['EF', 'EF(34-800)', 'Edema factor', 'Calmodulin-sensitive adenylate cyclase', 'cya', 'cya(34-800)']]"
+622,Edema,"[['PA63:ANTXR2 oligomer', '8(PA63:ANTXR2)']]"
+623,Edema,[['LF']]
+624,Edema,"[['EF:LF:(PA63:ANTXR1 oligomer)', 'EF:LF:8(PA63:ANTXR1)']]"
+625,Edema,"[['PA63:ANTXR1 oligomer', '8(PA63:ANTXR1)']]"
+626,Edema,"[['EF', 'EF(34-800)', 'Edema factor', 'Calmodulin-sensitive adenylate cyclase', 'cya', 'cya(34-800)']]"
+627,Edema,[['LF']]
+628,Edema,"[['17(S)-HDPAn-6, 10(S),17(S)-diHDPAn-6']]"
+629,Edema,"[['DPAn-6', 'omega-6-docosapentaenoic acid', '(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid']]"
+630,Edema,"[['O2', 'Oxygen', 'dioxygen']]"
+631,Edema,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+632,Edema,"[['cAMP', 'Cyclic adenylic acid', ""3',5'-cyclic AMP"", 'Cyclic AMP', ""Adenosine 3',5'-phosphate""]]"
+633,Edema,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+634,Carney Complex,"[['dNTP', 'Deoxynucleoside triphosphate', ""2'-deoxyribonucleoside triphosphate""]]"
+635,Carney Complex,"[[""3' short overhanging ssDNA-DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:BRCA1-C complex""]]"
+636,Carney Complex,"[['H2O', 'water']]"
+637,Carney Complex,"[['DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:p-BRCA1-C complex']]"
+638,Carney Complex,"[[""Extended microhomologous 3'-ssDNA overhangs-DSB:MRN:RBBP8:LIG3:XRCC1""]]"
+639,Carney Complex,"[[""Extended microhomologous 3'-ssDNA overhangs-DSB:MRN:RBBP8""]]"
+640,Carney Complex,[['LIG3:XRCC1']]
+641,Carney Complex,"[['MRN', 'MRE11:RAD50:NBS1', 'MRE11:RAD50:NBN']]"
+642,Carney Complex,[['RBBP8 homotetramer']]
+643,Carney Complex,[['LIG3:XRCC1']]
+644,Carney Complex,[['dsDNA with base substitutions and inter-MMEJ deletion']]
+645,Carney Complex,"[[""Extended microhomologous 3'-ssDNA overhangs-DSB:MRN:RBBP8:LIG3:XRCC1""]]"
+646,Carney Complex,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'Phosphate', 'Inorganic Phosphate']]"
+647,Carney Complex,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+648,Carney Complex,"[['Mal-CoA', 'Malonyl coenzyme A', 'malonyl-CoA']]"
+649,Carney Complex,"[['HCO3-', 'bicarbonate', 'hydrogencarbonate', 'acid carbonate']]"
+650,Carney Complex,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+651,Carney Complex,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+652,Williams Syndrome,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+653,Williams Syndrome,[['pre-rRNA containing 7-methylG-1639']]
+654,Williams Syndrome,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+655,Williams Syndrome,[['pre-rRNA']]
+656,Williams Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+657,Williams Syndrome,"[['Cl-', 'chloride']]"
+658,Williams Syndrome,"[['Cl-', 'chloride']]"
+659,Williams Syndrome,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+660,Williams Syndrome,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+661,Williams Syndrome,[['cytosolic p-Y PDGFR fusion dimers']]
+662,Williams Syndrome,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+663,Williams Syndrome,[['cytosolic PDGFR fusion dimers']]
+664,Williams Syndrome,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'Phosphate', 'Inorganic Phosphate']]"
+665,Williams Syndrome,"[['I(1,3,4)P3', 'Inositol 1,3,4-trisphosphate', '1D-myo-inositol 1,3,4-trisphosphate']]"
+666,Williams Syndrome,"[['H2O', 'water']]"
+667,Williams Syndrome,"[['I(1,3,4,5)P4', 'phosphatidylinositol 1,3,4,5-tetrakisphosphate', '1D-myo-inositol 1,3,4,5-tetrakisphosphate']]"
+668,Williams Syndrome,[['pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB1:PI3K']]
+669,Williams Syndrome,[['p-Y177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2:PIK3R1']]
+670,Williams Syndrome,"[['PIK3CA', 'PI3K-p110', 'PI3-kinase p110 subunit alpha', 'Phosphatidylinositol 3-kinase catalytic subunit, alpha isoform (EC 2.7.1.137) (PI3-kinase p110 subunit alpha) (PtdIns-3-kinase p110) (PI3K)', 'Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, alpha isoform ', 'PtdIns- 3-kinase p110']]"
+671,Williams Syndrome,[['p-FGFR1 mutant fusions:PI3K']]
+672,Williams Syndrome,"[['PIK3CA', 'PI3K-p110', 'PI3-kinase p110 subunit alpha', 'Phosphatidylinositol 3-kinase catalytic subunit, alpha isoform (EC 2.7.1.137) (PI3-kinase p110 subunit alpha) (PtdIns-3-kinase p110) (PI3K)', 'Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, alpha isoform ', 'PtdIns- 3-kinase p110']]"
+673,Williams Syndrome,[['p-FGFR1 fusion mutant dimers:PIK3R1']]
+674,Williams Syndrome,[['Activated FGFR1 mutants and fusions:PLCG1']]
+675,Williams Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+676,Williams Syndrome,[['Activated FGFR1 mutants and fusions']]
+677,Williams Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+678,Williams Syndrome,[['cytosolic PDGFR fusion dimers']]
+679,Williams Syndrome,[['cytosolic PDGFR fusions']]
+680,Williams Syndrome,[['Activated FGFR3 mutants: PLCG1']]
+681,Williams Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+682,Williams Syndrome,[['Activated FGFR3 mutants']]
+683,Williams Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+684,Williams Syndrome,[['Activated FGFR2 mutants:PLCG1']]
+685,Williams Syndrome,[['Activated FGFR2 mutants']]
+686,Williams Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+687,Williams Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+688,Williams Syndrome,[['Activated FGFR4 mutants:PLCG1']]
+689,Williams Syndrome,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+690,Williams Syndrome,[['Activated FGFR4 mutants']]
+691,Williams Syndrome,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+692,Williams Syndrome,"[['THMN', 'Thiamin', 'thiamine(1+)']]"
+693,Williams Syndrome,"[['THMN', 'Thiamin', 'thiamine(1+)']]"
+694,Williams Syndrome,[['FGFR1 fusion mutant dimers:TKIs']]
+695,Williams Syndrome,[['cytosolic FGFR1 fusion mutant dimers']]
+696,Williams Syndrome,[['Tyrosine kinase inhibitors of FGFR1 fusion mutants']]
+697,Williams Syndrome,[['basal body:transition zone proteins']]
+698,Williams Syndrome,[['Tectonic-like complex']]
+699,Williams Syndrome,[['NPHP complex']]
+700,Williams Syndrome,"[['basal body', 'centrosome with uncapped microtubules:C2CD3:distal appendage proteins:TTBK2:MARK4']]"
+701,Myocardial Ischemia,"[['ADORA1,3:Ade-Rib', 'A1/A3 receptor:Adenosine']]"
+702,Myocardial Ischemia,"[['ADORA1,3', 'A1/A3 receptors']]"
+703,Myocardial Ischemia,"[['Ade-Rib', 'adenosine']]"
+704,Myocardial Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+705,Myocardial Ischemia,"[['Cl-', 'chloride']]"
+706,Myocardial Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+707,Myocardial Ischemia,"[['Cl-', 'chloride']]"
+708,Acute Coronary Syndrome,[['P2RY12:P2RY12 antagonists']]
+709,Acute Coronary Syndrome,[['P2RY12 antagonists']]
+710,Acute Coronary Syndrome,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+711,Acute Coronary Syndrome,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+712,Acute Coronary Syndrome,[['TLR4:LY96']]
+713,Acute Coronary Syndrome,"[['S100A8:S100A9', 'calprotectin']]"
+714,Angina Pectoris,"[['ADRB1,2,3:β-blockers']]"
+715,Angina Pectoris,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+716,Angina Pectoris,[['β-blockers']]
+717,Angina,"[['ADRB1,2,3:β-blockers']]"
+718,Angina,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+719,Angina,[['β-blockers']]
+720,Coronary Disease,"[['LPL', 'lipoprotein lipase monomer']]"
+721,Coronary Disease,"[['GPIHBP1', 'Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1', 'HDBP1_HUMAN']]"
+722,Coronary Disease,"[['HSPG', 'heparan sulfate proteoglycan']]"
+723,Coronary Disease,[['GPIHBP1:HSPG:LPL dimer']]
+724,Coronary Disease,[['VLDL:VLDLR']]
+725,Coronary Disease,[['VLDL']]
+726,Coronary Disease,"[['VLDLR', 'Very low-density lipoprotein receptor', 'VLDLR_HUMAN']]"
+727,Coronary Disease,[['P2RY12:P2RY12 antagonists']]
+728,Coronary Disease,[['P2RY12 antagonists']]
+729,Coronary Disease,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+730,Coronary Disease,"[['RFNA', '1-(beta-D-ribofuranosyl)nicotinamide', 'N-ribosylnicotinamide']]"
+731,Coronary Disease,"[['hydroquinone', 'quinol']]"
+732,Coronary Disease,"[['RFDHN', '1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide']]"
+733,Coronary Disease,[['quinone']]
+734,Coronary Disease,"[['Lp(a)', 'apolipoprotein(a):LDL complex']]"
+735,Coronary Disease,"[['LPA', 'apolipoprotein(a)', 'apo(a)']]"
+736,Coronary Disease,"[['LDL', 'low-density lipoprotein complex']]"
+737,Coronary Disease,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+738,Coronary Disease,[['TLR4:LY96']]
+739,Coronary Disease,"[['S100A8:S100A9', 'calprotectin']]"
+740,Coronary Disease,[['ACEIs:ACE(30-1232)']]
+741,Coronary Disease,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+742,Coronary Disease,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+743,Coronary Artery Disease,"[['LPL', 'lipoprotein lipase monomer']]"
+744,Coronary Artery Disease,"[['GPIHBP1', 'Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1', 'HDBP1_HUMAN']]"
+745,Coronary Artery Disease,"[['HSPG', 'heparan sulfate proteoglycan']]"
+746,Coronary Artery Disease,[['GPIHBP1:HSPG:LPL dimer']]
+747,Coronary Artery Disease,[['VLDL:VLDLR']]
+748,Coronary Artery Disease,[['VLDL']]
+749,Coronary Artery Disease,"[['VLDLR', 'Very low-density lipoprotein receptor', 'VLDLR_HUMAN']]"
+750,Coronary Artery Disease,[['P2RY12:P2RY12 antagonists']]
+751,Coronary Artery Disease,[['P2RY12 antagonists']]
+752,Coronary Artery Disease,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+753,Coronary Artery Disease,[['ACEIs:ACE(30-1232)']]
+754,Coronary Artery Disease,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+755,Coronary Artery Disease,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+756,Coronary Thrombosis,[['P2RY12:P2RY12 antagonists']]
+757,Coronary Thrombosis,[['P2RY12 antagonists']]
+758,Coronary Thrombosis,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+759,Coronary Thrombosis,"[['Vitronectin:Plasminogen activator inhibitor 1', 'VTN:SERPINE1']]"
+760,Coronary Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+761,Coronary Thrombosis,"[['VTN', 'Vitronectin']]"
+762,Myocardial Infarction,"[['LPL', 'lipoprotein lipase monomer']]"
+763,Myocardial Infarction,"[['GPIHBP1', 'Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1', 'HDBP1_HUMAN']]"
+764,Myocardial Infarction,"[['HSPG', 'heparan sulfate proteoglycan']]"
+765,Myocardial Infarction,[['GPIHBP1:HSPG:LPL dimer']]
+766,Myocardial Infarction,"[['ADRB1,2,3:β-blockers']]"
+767,Myocardial Infarction,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+768,Myocardial Infarction,[['β-blockers']]
+769,Myocardial Infarction,[['BTN2A1:CD209']]
+770,Myocardial Infarction,"[['BTN2A1', 'Butyrophilin subfamily 2 member A1', 'BT2A1_HUMAN']]"
+771,Myocardial Infarction,"[['CD209', 'DC-SIGN', 'CD209 antigen', 'CD209_HUMAN']]"
+772,Myocardial Infarction,[['ACEIs:ACE(30-1232)']]
+773,Myocardial Infarction,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+774,Myocardial Infarction,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+775,Myocardial Infarction,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+776,Myocardial Infarction,[['TLR4:LY96']]
+777,Myocardial Infarction,"[['S100A8:S100A9', 'calprotectin']]"
+778,Pulmonary Heart Disease,"[['H2O2', 'hydrogen peroxide']]"
+779,Pulmonary Heart Disease,"[['H2O2', 'hydrogen peroxide']]"
+780,Pulmonary Heart Disease,"[['ADRB1,2,3:β-blockers']]"
+781,Pulmonary Heart Disease,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+782,Pulmonary Heart Disease,[['β-blockers']]
+783,Embolism,[['Factor IIa inhibitors (peptide):IIa']]
+784,Embolism,[['Factor IIa inhibitors (peptide)']]
+785,Embolism,[['activated thrombin (factor IIa)']]
+786,Embolism,[['Factor IIa inhibitors (compounds):IIa']]
+787,Embolism,[['Factor IIa inhibitors (compounds)']]
+788,Embolism,[['activated thrombin (factor IIa)']]
+789,Embolism,[['factor Xa:Factor Xa inhibitors']]
+790,Embolism,[['Factor Xa inhibitors']]
+791,Embolism,[['factor Xa']]
+792,Embolism,[['Va:Xa:Factor Xa inhibitors']]
+793,Embolism,[['Factor Xa inhibitors']]
+794,Embolism,[['Va:Xa']]
+795,Embolism,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+796,Embolism,"[['p-S133-CREB1', 'phospho-CREB', 'cAMP response element binding protein', 'CREB']]"
+797,Embolism,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+798,Embolism,"[['CREB1', 'CREB', 'cAMP-response element binding protein', 'cAMP response element binding protein']]"
+799,Embolism,[['VKORC1 inhibitors:VKORC1 dimer']]
+800,Embolism,[['VKORC1 dimer']]
+801,Embolism,"[['VKORC1 inhibitors', 'VKORC1 antagonists']]"
+802,Vascular Diseases,[['integrin alpha4beta1:VCAM1']]
+803,Vascular Diseases,"[['Integrin alpha4beta1', 'VLA-4']]"
+804,Vascular Diseases,"[['VCAM1', 'Vascular cell adhesion protein 1', 'VCA1_HUMAN']]"
+805,Vascular Diseases,[['BTNL2: activated T Cell surface']]
+806,Vascular Diseases,[['Activated T Cell surface']]
+807,Vascular Diseases,"[['BTNL2', 'Butyrophilin-like protein 2', 'BTNL2_HUMAN']]"
+808,Vascular Diseases,"[['EDNRA,EDNRB:Endothelin', 'Endothelin:Endothelin receptors']]"
+809,Vascular Diseases,"[['EDNRA,EDNRB', 'Endothelin receptors']]"
+810,Vascular Diseases,[['Endothelin']]
+811,Vascular Diseases,"[['HSPG2:FGF2(10-155), Fibronectn matrix, Transthyretin tetramer, PDGFA homodimer, PDGFB homodimer']]"
+812,Vascular Diseases,"[['HSPG2(22-4391)', 'HSPG2', 'Perlecan', 'Basement membrane-specific heparan sulfate proteoglycan core protein']]"
+813,Vascular Diseases,"[['FGF2(10-155), Fibronectn matrix, Transthyretin tetramer, PDGFA homodimer, PDGFB homodimer', 'HSPG2 interactors']]"
+814,Vascular Diseases,"[['ADRB1,2,3:β-blockers']]"
+815,Vascular Diseases,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+816,Vascular Diseases,[['β-blockers']]
+817,Vascular Diseases,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+818,Vascular Diseases,"[['p-S196,T198,T200-RUNX2:CBFB']]"
+819,Vascular Diseases,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+820,Vascular Diseases,[['RUNX2:CBFB']]
+821,Vascular Diseases,[['ARBs:AGTR1']]
+822,Vascular Diseases,"[['ARBs', 'Angiotensin II receptor blockers']]"
+823,Vascular Diseases,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+824,Vascular Diseases,"[['SCUBE3(?-993)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+825,Vascular Diseases,"[['SCUBE3(21-?)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+826,Vascular Diseases,"[['SCUBE3', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+827,Vascular Diseases,"[['PalmC-F3', 'tissue factor']]"
+828,Vascular Diseases,"[['sequestered tissue factor', 'F3']]"
+829,Loeys-Dietz Syndrome,"[['Glc', 'alpha-D-glucose']]"
+830,Loeys-Dietz Syndrome,"[['Glc', 'alpha-D-glucose']]"
+831,Klippel-Trenaunay-Weber Syndrome,"[['Heparan sulfate chain(3)', 'alpha-D-GlcN-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+832,Klippel-Trenaunay-Weber Syndrome,"[['SO4(2-)', 'sulfate']]"
+833,Klippel-Trenaunay-Weber Syndrome,"[['H2O', 'water']]"
+834,Klippel-Trenaunay-Weber Syndrome,"[['Heparan sulfate chain(2)', 'alpha-D-GlcNS6S-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+835,Klippel-Trenaunay-Weber Syndrome,"[['SO4(2-)', 'sulfate']]"
+836,Klippel-Trenaunay-Weber Syndrome,"[['Heparan chain(1)', 'alpha-D-GlcN-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+837,Klippel-Trenaunay-Weber Syndrome,"[['H2O', 'water']]"
+838,Klippel-Trenaunay-Weber Syndrome,"[['Heparan sulfate chain(7)', 'alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+839,Klippel-Trenaunay-Weber Syndrome,"[['Heparan sulfate chain(5)', 'beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+840,Klippel-Trenaunay-Weber Syndrome,"[['GlcNAc', 'N-acetyl-D-glucosamine', 'aldehydo-N-acetyl-D-glucosamine', 'N-acetylglucosamine']]"
+841,Klippel-Trenaunay-Weber Syndrome,"[['H2O', 'water']]"
+842,Klippel-Trenaunay-Weber Syndrome,"[['Heparan sulfate chain(4)', 'alpha-D-GlcNAc-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+843,Klippel-Trenaunay-Weber Syndrome,"[['GlcNAc', 'N-acetyl-D-glucosamine', 'aldehydo-N-acetyl-D-glucosamine', 'N-acetylglucosamine']]"
+844,Klippel-Trenaunay-Weber Syndrome,"[['CS/HS precursor', 'GlcA-Gal-Gal-Xyl linker chain', 'beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+845,Klippel-Trenaunay-Weber Syndrome,"[['H2O', 'water']]"
+846,Klippel-Trenaunay-Weber Syndrome,"[['Heparan chain(2)', 'alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+847,Klippel-Trenaunay-Weber Syndrome,[['FGFR1c P252X mutant dimers bound to FGFs']]
+848,Klippel-Trenaunay-Weber Syndrome,[['FGFR1c-binding FGFs']]
+849,Klippel-Trenaunay-Weber Syndrome,[['FGFR1c P252X mutants']]
+850,Klippel-Trenaunay-Weber Syndrome,"[['HS', 'Heparan Sulphate', 'heparan sulfate']]"
+851,Klippel-Trenaunay-Weber Syndrome,[['FGFR2 ligand-independent mutant dimers']]
+852,Klippel-Trenaunay-Weber Syndrome,[['FGFR2 ligand-independent mutants']]
+853,Klippel-Trenaunay-Weber Syndrome,"[['Tenascins C, R, (X, N):Lecticans']]"
+854,Klippel-Trenaunay-Weber Syndrome,[['Lecticans']]
+855,Klippel-Trenaunay-Weber Syndrome,"[['Tenascins C, R, (X, N)']]"
+856,Klippel-Trenaunay-Weber Syndrome,"[['Tenascins C, R, (X, N):Fibronectin matrix']]"
+857,Klippel-Trenaunay-Weber Syndrome,"[['Tenascins C, R, (X, N)']]"
+858,Klippel-Trenaunay-Weber Syndrome,[['Fibronectin matrix']]
+859,Klippel-Trenaunay-Weber Syndrome,[['TNC:Syndecan-3']]
+860,Klippel-Trenaunay-Weber Syndrome,"[['TNC', 'Tenascin', 'TN-C']]"
+861,Klippel-Trenaunay-Weber Syndrome,[['Syndecan-3']]
+862,Sturge-Weber Syndrome,"[['Heparan sulfate chain(3)', 'alpha-D-GlcN-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+863,Sturge-Weber Syndrome,"[['SO4(2-)', 'sulfate']]"
+864,Sturge-Weber Syndrome,"[['H2O', 'water']]"
+865,Sturge-Weber Syndrome,"[['Heparan sulfate chain(2)', 'alpha-D-GlcNS6S-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+866,Sturge-Weber Syndrome,"[['SO4(2-)', 'sulfate']]"
+867,Sturge-Weber Syndrome,"[['Heparan chain(1)', 'alpha-D-GlcN-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+868,Sturge-Weber Syndrome,"[['H2O', 'water']]"
+869,Sturge-Weber Syndrome,"[['Heparan sulfate chain(7)', 'alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+870,Sturge-Weber Syndrome,"[['Heparan sulfate chain(5)', 'beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+871,Sturge-Weber Syndrome,"[['GlcNAc', 'N-acetyl-D-glucosamine', 'aldehydo-N-acetyl-D-glucosamine', 'N-acetylglucosamine']]"
+872,Sturge-Weber Syndrome,"[['H2O', 'water']]"
+873,Sturge-Weber Syndrome,"[['Heparan sulfate chain(4)', 'alpha-D-GlcNAc-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+874,Sturge-Weber Syndrome,"[['GlcNAc', 'N-acetyl-D-glucosamine', 'aldehydo-N-acetyl-D-glucosamine', 'N-acetylglucosamine']]"
+875,Sturge-Weber Syndrome,"[['CS/HS precursor', 'GlcA-Gal-Gal-Xyl linker chain', 'beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+876,Sturge-Weber Syndrome,"[['H2O', 'water']]"
+877,Sturge-Weber Syndrome,"[['Heparan chain(2)', 'alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group']]"
+878,Sturge-Weber Syndrome,[['FGFR1c P252X mutant dimers bound to FGFs']]
+879,Sturge-Weber Syndrome,[['FGFR1c-binding FGFs']]
+880,Sturge-Weber Syndrome,[['FGFR1c P252X mutants']]
+881,Sturge-Weber Syndrome,"[['HS', 'Heparan Sulphate', 'heparan sulfate']]"
+882,Sturge-Weber Syndrome,[['FGFR2 ligand-independent mutant dimers']]
+883,Sturge-Weber Syndrome,[['FGFR2 ligand-independent mutants']]
+884,Sturge-Weber Syndrome,"[['Tenascins C, R, (X, N):Lecticans']]"
+885,Sturge-Weber Syndrome,[['Lecticans']]
+886,Sturge-Weber Syndrome,"[['Tenascins C, R, (X, N)']]"
+887,Sturge-Weber Syndrome,"[['Tenascins C, R, (X, N):Fibronectin matrix']]"
+888,Sturge-Weber Syndrome,"[['Tenascins C, R, (X, N)']]"
+889,Sturge-Weber Syndrome,[['Fibronectin matrix']]
+890,Sturge-Weber Syndrome,[['TNC:Syndecan-3']]
+891,Sturge-Weber Syndrome,"[['TNC', 'Tenascin', 'TN-C']]"
+892,Sturge-Weber Syndrome,[['Syndecan-3']]
+893,Angioedemas,[['ARBs:AGTR1']]
+894,Angioedemas,"[['ARBs', 'Angiotensin II receptor blockers']]"
+895,Angioedemas,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+896,Aortic Diseases,"[['RUNX2:HEY1,HEY2,HES1']]"
+897,Aortic Diseases,"[['RUNX2', 'RUNX2-P1,(RUNX2-P2)']]"
+898,Aortic Diseases,"[['HEY1,HEY2,HES1']]"
+899,Aortic Diseases,[['Activated FGFR3 mutants: PLCG1']]
+900,Aortic Diseases,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+901,Aortic Diseases,[['Activated FGFR3 mutants']]
+902,Aortic Diseases,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+903,Aortic Diseases,[['Activated FGFR2 mutants:PLCG1']]
+904,Aortic Diseases,[['Activated FGFR2 mutants']]
+905,Aortic Diseases,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+906,Aortic Diseases,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+907,Aortic Diseases,[['Activated FGFR4 mutants:PLCG1']]
+908,Aortic Diseases,"[['PI(3,4,5)P3', 'PIP3', '1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate', 'Phosphatidylinositol-3,4,5-trisphosphate']]"
+909,Aortic Diseases,[['Activated FGFR4 mutants']]
+910,Aortic Diseases,"[['PLCG1', 'Phospholipase C gamma 1', 'PLC1']]"
+911,Atherosclerosis,[['spherical HDL:apoC-II:apoC-III:apoE']]
+912,Atherosclerosis,"[['APOC2', 'apoC-II', 'apolipoprotein C-II']]"
+913,Atherosclerosis,"[['spherical HDL', 'spherical high-density lipoprotein', 'mature high-density lipoprotein']]"
+914,Atherosclerosis,"[['APOC3', 'apoC-III', 'apolipoprotein C-III']]"
+915,Atherosclerosis,"[['APOE', 'apoE', 'apolipoprotein E']]"
+916,Atherosclerosis,"[['H2O', 'water']]"
+917,Atherosclerosis,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+918,Atherosclerosis,"[['TMAO', 'Trimethyamine N-oxide', 'trimethylamine N-oxide']]"
+919,Atherosclerosis,"[['O2', 'Oxygen', 'dioxygen']]"
+920,Atherosclerosis,"[['H+', 'hydron']]"
+921,Atherosclerosis,"[['TMA', '(CH3)3N', 'trimethylamine', 'N,N-Dimethylmethanamine']]"
+922,Atherosclerosis,"[['NADPH', 'TPNH']]"
+923,Atherosclerosis,[['ADIPOQ trimer:ADIPOR dimers']]
+924,Atherosclerosis,[['ADIPOQ trimer']]
+925,Atherosclerosis,[['ADIPOR dimers']]
+926,Atherosclerosis,[['APOBR dimer:VLDL']]
+927,Atherosclerosis,[['VLDL']]
+928,Atherosclerosis,[['APOBR dimer']]
+929,Atherosclerosis,[['LCNs:lipids']]
+930,Atherosclerosis,[['LCNs']]
+931,Atherosclerosis,"[['lipids', 'lipid']]"
+932,Atherosclerosis,[['VLDL']]
+933,Atherosclerosis,"[['APOC4', 'Apolipoprotein C-IV', 'APOC4_HUMAN']]"
+934,Atherosclerosis,"[['VLDL (-APOC1,C4)']]"
+935,Atherosclerosis,"[['APOC1', 'Apolipoprotein C-I', 'APOC1_HUMAN']]"
+936,Atherosclerosis,[['LSR trimer:VLDL']]
+937,Atherosclerosis,[['LSR trimer']]
+938,Atherosclerosis,[['VLDL']]
+939,Atherosclerosis,[['LSR trimer:LDL']]
+940,Atherosclerosis,[['LSR trimer']]
+941,Atherosclerosis,"[['LDL', 'low-density lipoprotein complex']]"
+942,Atherosclerosis,[['LRP1:Hemopexin:heme']]
+943,Atherosclerosis,"[['LRP1', 'Prolow-density lipoprotein receptor-related protein 1', 'LRP1_HUMAN']]"
+944,Atherosclerosis,[['HPX:heme b']]
+945,Atherosclerosis,"[['MSR1:Ligand', 'SCARA1:Ligand']]"
+946,Atherosclerosis,"[['MSR1 (SCARA1) trimer', 'SR-AI trimer']]"
+947,Atherosclerosis,"[['Ligands of MSR1', 'Ligands of SCARA1']]"
+948,Atherosclerosis,[['LDL:LRP8']]
+949,Atherosclerosis,"[['LDL', 'low-density lipoprotein complex']]"
+950,Atherosclerosis,"[['LRP8', 'ApoER2', 'Low-density lipoprotein receptor-related protein 8', 'Apolipoprotein E receptor 2', 'LRP8_HUMAN']]"
+951,Atherosclerosis,[['OLR1 bound to oxidized LDL']]
+952,Atherosclerosis,"[['LDL', 'low-density lipoprotein complex']]"
+953,Atherosclerosis,"[['OLR1', 'Oxidized low-density lipoprotein receptor 1', 'OLR1_HUMAN']]"
+954,Atherosclerosis,"[['LIPA-degraded LDL', 'low-density lipoprotein complex']]"
+955,Atherosclerosis,"[['CHOL', 'cholesterol']]"
+956,Atherosclerosis,"[['FA', 'fatty acid']]"
+957,Atherosclerosis,"[['H2O', 'water']]"
+958,Atherosclerosis,"[['LDL', 'low-density lipoprotein complex']]"
+959,Atherosclerosis,"[['arachidyl ester', 'wax ester']]"
+960,Atherosclerosis,"[['CoA-SH', 'coenzyme A']]"
+961,Atherosclerosis,"[['Acyl-CoA', 'Acyl_minus_CoA']]"
+962,Atherosclerosis,"[['ARACOH', 'arachidyl alcohol', 'icosan-1-ol']]"
+963,Atherosclerosis,"[['CHEST', 'cholesterol ester', 'cholesteryl ester', 'cholesterol esters']]"
+964,Atherosclerosis,"[['CoA-SH', 'coenzyme A']]"
+965,Atherosclerosis,"[['CHOL', 'cholesterol']]"
+966,Atherosclerosis,[['acyl-CoA']]
+967,Atherosclerosis,[['SERPINE2:GAG:activated thrombin (factor IIa)']]
+968,Atherosclerosis,[['activated thrombin (factor IIa)']]
+969,Atherosclerosis,[['SERPINE2:GAG']]
+970,Atherosclerosis,"[['5bCHOL3a,7a,12a,27-tetrol', '5beta-cholestan-3alpha,7alpha,12alpha,27-tetrol', '5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol']]"
+971,Atherosclerosis,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+972,Atherosclerosis,"[['H2O', 'water']]"
+973,Atherosclerosis,"[['O2', 'Oxygen', 'dioxygen']]"
+974,Atherosclerosis,"[['5bCHOL3a,7a,12a-triol', '5beta-cholestan-3alpha, 7alpha, 12alpha-triol', '5beta-cholestane-3alpha,7alpha,12alpha-triol']]"
+975,Atherosclerosis,"[['H+', 'hydron']]"
+976,Atherosclerosis,"[['NADPH', 'TPNH']]"
+977,Atherosclerosis,"[['FAs', 'Fatty Acids', 'fatty acid']]"
+978,Atherosclerosis,"[['DAGs', 'diacylglycerols', 'diglyceride', 'diglycerides', 'DAG']]"
+979,Atherosclerosis,"[['H2O', 'water']]"
+980,Atherosclerosis,"[['TAGs', 'triacylglycerols', 'triglyceride']]"
+981,Atherosclerosis,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+982,Atherosclerosis,"[['p-S196,T198,T200-RUNX2:CBFB']]"
+983,Atherosclerosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+984,Atherosclerosis,[['RUNX2:CBFB']]
+985,Atherosclerosis,"[['CR:atREs', 'TG-depleted chylomicron:atREs']]"
+986,Atherosclerosis,"[['CR:atREs', 'TG-depleted chylomicron:atREs']]"
+987,Atherosclerosis,[['AGER ligands:AGER']]
+988,Atherosclerosis,"[['AGER', 'RAGE', 'Advanced glycosylation end product-specific receptor precursor']]"
+989,Atherosclerosis,[['AGER ligands']]
+990,Atherosclerosis,"[['ABCA1gene:NR1H2,3:RXR:NR1H2,3 ligands:NCOR:GPS2:TBL1:HDAC3', 'ABCA1gene:LXR:RXR:LXR ligands:NCOR:GPS2:TBL1:HDAC3']]"
+991,Atherosclerosis,"[['NR1H3, NR1H2 ligands', 'LXR ligand', 'NR1H3, NR1H2 agonists', 'oxysterols']]"
+992,Atherosclerosis,"[['ABCA1gene:NR1H2,3:RXR:NCOR:GPS2:TBL1:HDAC3', 'ABCA1gene:LXR:RXR:NCOR:GPS2:TBL1:HDAC3']]"
+993,Brain Ischemia,"[['ADORA1,3:Ade-Rib', 'A1/A3 receptor:Adenosine']]"
+994,Brain Ischemia,"[['ADORA1,3', 'A1/A3 receptors']]"
+995,Brain Ischemia,"[['Ade-Rib', 'adenosine']]"
+996,Brain Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+997,Brain Ischemia,"[['Cl-', 'chloride']]"
+998,Brain Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+999,Brain Ischemia,"[['Cl-', 'chloride']]"
+1000,Brain Infarction,"[['ADRB1,2,3:β-blockers']]"
+1001,Brain Infarction,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1002,Brain Infarction,[['β-blockers']]
+1003,Infarction,"[['LPL', 'lipoprotein lipase monomer']]"
+1004,Infarction,"[['GPIHBP1', 'Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1', 'HDBP1_HUMAN']]"
+1005,Infarction,"[['HSPG', 'heparan sulfate proteoglycan']]"
+1006,Infarction,[['GPIHBP1:HSPG:LPL dimer']]
+1007,Infarction,"[['ADRB1,2,3:β-blockers']]"
+1008,Infarction,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1009,Infarction,[['β-blockers']]
+1010,Infarction,[['BTN2A1:CD209']]
+1011,Infarction,"[['BTN2A1', 'Butyrophilin subfamily 2 member A1', 'BT2A1_HUMAN']]"
+1012,Infarction,"[['CD209', 'DC-SIGN', 'CD209 antigen', 'CD209_HUMAN']]"
+1013,Infarction,[['ACEIs:ACE(30-1232)']]
+1014,Infarction,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+1015,Infarction,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+1016,Infarction,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+1017,Infarction,[['TLR4:LY96']]
+1018,Infarction,"[['S100A8:S100A9', 'calprotectin']]"
+1019,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+1020,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1021,Hypoxia-Ischemia,"[['hydroxyAsn-HIF1A,HIF2A', 'HIF1A,HIF2A (hydroxyasparagine)', 'HIF1A,HIF2A with Hydroxylated Asparagine']]"
+1022,Hypoxia-Ischemia,"[['HIF1A,HIF2A']]"
+1023,Hypoxia-Ischemia,"[['2OG', '2-oxoglutarate', '2-oxoglutaric acid', 'Oxoglutaric acid', '2-Ketoglutaric acid', 'alpha-Ketoglutaric acid', '2-Oxoglutarate', 'alpha-ketoglutarate']]"
+1024,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1025,Hypoxia-Ischemia,[['HILPDA:lipid droplet']]
+1026,Hypoxia-Ischemia,"[['HILPDA', 'Hypoxia-inducible lipid droplet-associated protein', 'HLPDA_HUMAN']]"
+1027,Hypoxia-Ischemia,[['lipid droplet']]
+1028,Hypoxia-Ischemia,"[['USP19:HIF1A,BIRC2,BIRC3']]"
+1029,Hypoxia-Ischemia,"[['USP19', 'Ubiquitin carboxyl-terminal hydrolase 19', 'UBP19_HUMAN']]"
+1030,Hypoxia-Ischemia,"[['HIF1A,BIRC2,BIRC3']]"
+1031,Hypoxia-Ischemia,"[['HIF', 'Hypoxia-inducible Factor', 'HIF-alpha:ARNT']]"
+1032,Hypoxia-Ischemia,"[['HIF-alpha', 'Hypoxia-inducible Factor Alpha Subunit']]"
+1033,Hypoxia-Ischemia,"[['ARNT', 'Aryl hydrocarbon receptor nuclear translocator', 'ARNT_HUMAN', 'HIF1B']]"
+1034,Hypoxia-Ischemia,[['NICD1:HIF1A']]
+1035,Hypoxia-Ischemia,"[['HIF1A', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1036,Hypoxia-Ischemia,"[['NICD1', 'NOTCH1(1754-2555)', 'NICD 1 fragment', 'NOTCH1 intracellular domain', 'N1ICD']]"
+1037,Hypoxia-Ischemia,"[['p-S15,S20-TP53 Tetramer:CREBBP:BNIP3L Gene']]"
+1038,Hypoxia-Ischemia,"[['CREBBP', 'CREB-binding protein', 'CBP_HUMAN', 'KAT3A']]"
+1039,Hypoxia-Ischemia,"[['p-S15,S20-TP53 Tetramer']]"
+1040,Hypoxia-Ischemia,[['BNIP3L Gene']]
+1041,Hypoxia-Ischemia,[['E2F6:TFDP1/2:E2F1 gene']]
+1042,Hypoxia-Ischemia,[['E2F1 gene']]
+1043,Hypoxia-Ischemia,"[['E2F6:(TFDP1,TFDP2)']]"
+1044,Hypoxia-Ischemia,[['p-S17-FUNDC1:LC3']]
+1045,Hypoxia-Ischemia,[['LC3']]
+1046,Hypoxia-Ischemia,"[['p-S17-FUNDC1', 'FUN14 domain-containing protein 1', 'FUND1_HUMAN']]"
+1047,Hypoxia-Ischemia,[['TWIST1:RUNX2 gene']]
+1048,Hypoxia-Ischemia,[['RUNX2 gene']]
+1049,Hypoxia-Ischemia,"[['TWIST1', 'Twist-related protein 1', 'TWST1_HUMAN']]"
+1050,Hypoxia-Ischemia,[['3SUMO1:VHL']]
+1051,Hypoxia-Ischemia,"[['UBE2I', 'UBE2I (UBC9)', 'SUMO-conjugating enzyme UBC9', 'UBC9_HUMAN']]"
+1052,Hypoxia-Ischemia,[['VHL']]
+1053,Hypoxia-Ischemia,"[['SUMO1:C93-UBE2I', 'SUMO1 S-glycyl-cys93 UBE2I']]"
+1054,Hypoxia-Ischemia,[['Nuclear Pore Complex (NPC)']]
+1055,Hypoxia-Ischemia,"[['p-MAPK8,9,10', 'Phosphorylated JNKs: MAPK8, MAPK9, MAPK10']]"
+1056,Hypoxia-Ischemia,"[['p-MAPK8,9,10', 'phosphorylated JNKs: MAPK8_MAPK9_MAPK10']]"
+1057,Hypoxia-Ischemia,"[['RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5:hydroxyPro-HIF-alpha']]"
+1058,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha', 'HIF-alpha with Hydroxylated Proline', 'HIF1A, HIF2A, HIF3A with Hydroxyproline']]"
+1059,Hypoxia-Ischemia,"[['RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5', 'ECV E3 ligase complex']]"
+1060,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1']]"
+1061,Hypoxia-Ischemia,"[['VHL:EloB,C:CUL2:RBX1']]"
+1062,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha', 'HIF-alpha with Hydroxylated Proline']]"
+1063,Hypoxia-Ischemia,"[['p-Y700,Y731,Y774-CBL', 'p(Y700,731,774)-CBL', 'CBL E3 ubiquitin protein ligase ', 'Signal transduction protein CBL', 'Proto-oncogene c-CBL', 'Casitas B-lineage lymphoma proto-oncogene']]"
+1064,Hypoxia-Ischemia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1065,Hypoxia-Ischemia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1066,Hypoxia-Ischemia,"[['CBL', 'CBL E3 ubiquitin protein ligase ', 'Signal transduction protein CBL', 'Proto-oncogene c-CBL', 'Casitas B-lineage lymphoma proto-oncogene']]"
+1067,Hypoxia-Ischemia,"[['2xHP-HIF1A', 'hydroxyPro402,564-HIF1A', 'HIF1A with hydroxyproline-402 and -564', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1068,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1069,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'succinate(2-)']]"
+1070,Hypoxia-Ischemia,"[['2OG', '2-Oxoglutarate', '2-oxoglutaric acid', 'alpha-ketoglutarate']]"
+1071,Hypoxia-Ischemia,"[['HIF1A', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1072,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1073,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1:LIMD1,AJUBA,WTIP:PHD2,3']]"
+1074,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha', 'HIF-alpha with Hydroxylated Proline', 'HIF1A, HIF2A, HIF3A with Hydroxyproline']]"
+1075,Hypoxia-Ischemia,"[['PHD2,3:LIMD1,AJUBA,WTIP:VHL:EloB:EloC:CUL2:RBX1']]"
+1076,Hypoxia-Ischemia,"[['HIF1A,EPAS1:PTK6 Gene']]"
+1077,Hypoxia-Ischemia,[['PTK6 Gene']]
+1078,Hypoxia-Ischemia,"[['HIF1A,EPAS1']]"
+1079,Hypoxia-Ischemia,"[['p-S15,S20-TP53 Tetramer:IGFBP3 Gene']]"
+1080,Hypoxia-Ischemia,"[['p-S15,S20-TP53 Tetramer']]"
+1081,Hypoxia-Ischemia,[['IGFBP3 Gene']]
+1082,Hypoxia-Ischemia,[['S100A1:TLR4:LY96']]
+1083,Hypoxia-Ischemia,[['S100A1 dimer:Ca(2+)']]
+1084,Hypoxia-Ischemia,[['TLR4:LY96']]
+1085,Hypoxia-Ischemia,"[['E2F1:(TFDP1,TFDP2):RAD51 gene']]"
+1086,Hypoxia-Ischemia,"[['E2F1:(TFDP1,TFDP2)']]"
+1087,Hypoxia-Ischemia,[['RAD51 gene']]
+1088,Hypoxia-Ischemia,"[['UBE2I', 'UBE2I (UBC9)', 'SUMO-conjugating enzyme UBC9', 'UBC9_HUMAN']]"
+1089,Hypoxia-Ischemia,[['SUMO1:NFKBIA']]
+1090,Hypoxia-Ischemia,"[['SUMO1:C93-UBE2I', 'SUMO1 S-glycyl-cys93 UBE2I']]"
+1091,Hypoxia-Ischemia,"[['NFKBIA', 'NF-kappa-B inhibitor alpha', 'IKBA_HUMAN']]"
+1092,Hypoxia-Ischemia,"[['ub-HIF-alpha:VHL:EloB,C:CUL2:RBX1', 'Ubiquitinated HIF-alpha:VHL:EloB,C:CUL2:RBX1']]"
+1093,Hypoxia-Ischemia,"[['UBE2D1,2,3', 'UbcH5a,b,c']]"
+1094,Hypoxia-Ischemia,"[['UBE2D1,2,3:Ubiquitin', 'UbcH5a,b,c:Ubiquitin', 'E2 Conjugating Enzymes UbcH5a,b,c:Ubiquitin Complex']]"
+1095,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1']]"
+1096,Hypoxia-Ischemia,"[['UBE2D1,2,3', 'UbcH5a,b,c']]"
+1097,Hypoxia-Ischemia,"[['ub-hydroxyPro-HIF-alpha:VHL:EloB:EloC:NEDD8-CUL2:RBX1:COMMDs:CCDC22:DCUN1D1,2,4,5', 'Ubiquitinated HIF-alpha:VHL:EloB:EloC:CUL2:RBX1']]"
+1098,Hypoxia-Ischemia,"[['RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5:hydroxyPro-HIF-alpha']]"
+1099,Hypoxia-Ischemia,"[['UBE2D1,2,3:Ubiquitin', 'UbcH5a,b,c:Ubiquitin', 'E2 Conjugating Enzymes UbcH5a,b,c:Ubiquitin Complex']]"
+1100,Hypoxia-Ischemia,"[['UBE2D1,2,3', 'UbcH5a,b,c']]"
+1101,Hypoxia-Ischemia,"[['ub-hydroxyPro-HIF-alpha:VHL:EloB:EloC:CUL2:RBX1:LIMD1,AJUBA,WTIF:PHD2,3']]"
+1102,Hypoxia-Ischemia,"[['hydroxyPro-HIF-alpha:VHL:EloB,C:CUL2:RBX1:LIMD1,AJUBA,WTIP:PHD2,3']]"
+1103,Hypoxia-Ischemia,"[['UBE2D1,2,3:Ubiquitin', 'UbcH5a,b,c:Ubiquitin', 'E2 Conjugating Enzymes UbcH5a,b,c:Ubiquitin Complex']]"
+1104,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+1105,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1106,Hypoxia-Ischemia,"[['2xHP-HIF1A', 'hydroxyPro402,564-HIF1A', 'HIF1A with hydroxyproline-402 and -564', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1107,Hypoxia-Ischemia,"[['2OG', '2-oxoglutarate', '2-oxoglutaric acid', 'Oxoglutaric acid', '2-Ketoglutaric acid', 'alpha-Ketoglutaric acid', '2-Oxoglutarate', 'alpha-ketoglutarate']]"
+1108,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1109,Hypoxia-Ischemia,"[['HIF1A', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1110,Hypoxia-Ischemia,"[['BMAL1:CLOCK,NPAS2', 'ARNTL:CLOCK,NPAS2']]"
+1111,Hypoxia-Ischemia,"[['ARNTL', 'BMAL1', 'Aryl hydrocarbon receptor nuclear translocator-like protein 1', 'BMAL1_HUMAN']]"
+1112,Hypoxia-Ischemia,"[['CLOCK,NPAS2']]"
+1113,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+1114,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1115,Hypoxia-Ischemia,"[['HP-HIF3A', 'hydroxyPro492-HIF3A', 'HIF3A with hydroxyproline-492', 'Hypoxia-inducible factor 3 alpha', 'HIF3A_HUMAN']]"
+1116,Hypoxia-Ischemia,"[['2OG', '2-oxoglutarate', '2-oxoglutaric acid', 'Oxoglutaric acid', '2-Ketoglutaric acid', 'alpha-Ketoglutaric acid', '2-Oxoglutarate', 'alpha-ketoglutarate']]"
+1117,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1118,Hypoxia-Ischemia,"[['HIF3A', 'Hypoxia-inducible factor 3 alpha', 'HIF3A_HUMAN']]"
+1119,Hypoxia-Ischemia,"[['HP-HIF3A', 'hydroxyPro492-HIF3A', 'HIF3A with hydroxyproline-492', 'Hypoxia-inducible factor 3 alpha', 'HIF3A_HUMAN']]"
+1120,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1121,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'succinate(2-)']]"
+1122,Hypoxia-Ischemia,"[['2OG', '2-Oxoglutarate', '2-oxoglutaric acid', 'alpha-ketoglutarate']]"
+1123,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1124,Hypoxia-Ischemia,"[['HIF3A', 'Hypoxia-inducible factor 3 alpha', 'HIF3A_HUMAN']]"
+1125,Hypoxia-Ischemia,"[['2xHP-EPAS1', 'hydroxyPro405,531-EPAS1', 'hydroxyPro405,531-HIF2A', 'EPAS1 (HIF2A) with hydroxyproline-405 and -531', 'Endothelial PAS domain-containing protein 1', 'EPAS1_HUMAN']]"
+1126,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1127,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'succinate(2-)']]"
+1128,Hypoxia-Ischemia,"[['2OG', '2-Oxoglutarate', '2-oxoglutaric acid', 'alpha-ketoglutarate']]"
+1129,Hypoxia-Ischemia,"[['EPAS1', 'HIF2A', 'Endothelial PAS domain-containing protein 1', 'EPAS1_HUMAN']]"
+1130,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1131,Hypoxia-Ischemia,[['DDIT4:14-3-3 dimer']]
+1132,Hypoxia-Ischemia,[['14-3-3 dimer']]
+1133,Hypoxia-Ischemia,"[['DDIT4', 'DNA damage-inducible transcript 4 protein', 'REDD1', 'HIF-1 responsive protein RTP801', 'RTP801']]"
+1134,Hypoxia-Ischemia,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+1135,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1136,Hypoxia-Ischemia,"[['2xHP-EPAS1', 'hydroxyPro405,531-EPAS1', 'EPAS1 (HIF2A) with hydroxyproline-405 and -531', 'Endothelial PAS domain-containing protein 1', 'EPAS1_HUMAN', 'HIF2A']]"
+1137,Hypoxia-Ischemia,"[['2OG', '2-oxoglutarate', '2-oxoglutaric acid', 'Oxoglutaric acid', '2-Ketoglutaric acid', 'alpha-Ketoglutaric acid', '2-Oxoglutarate', 'alpha-ketoglutarate']]"
+1138,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1139,Hypoxia-Ischemia,"[['EPAS1', 'Endothelial PAS domain-containing protein 1', 'EPAS1_HUMAN', 'HIF2A']]"
+1140,Hypoxia-Ischemia,[['KDM4B-regulated genes:H3K9me3 nucleosome:ESR1:ESTG:KDM4B']]
+1141,Hypoxia-Ischemia,[['ESR1:ESTG']]
+1142,Hypoxia-Ischemia,"[['KDM4B', 'Lysine-specific demethylase 4B', 'KDM4B_HUMAN']]"
+1143,Hypoxia-Ischemia,[['KDM4B-regulated genes:H3K9me3 nucleosome']]
+1144,Hypoxia-Ischemia,[['p-S52-EIF2S1:EIF2S2:EIF2S3']]
+1145,Hypoxia-Ischemia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1146,Hypoxia-Ischemia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1147,Hypoxia-Ischemia,"[['EIF2S1:EIF2S2:EIF2S3', 'eIF2 subunit complex', 'MP']]"
+1148,Hypoxia-Ischemia,[['HGF dimer:MET']]
+1149,Hypoxia-Ischemia,"[['MET', 'Hepatocyte growth factor receptor', 'MET_HUMAN']]"
+1150,Hypoxia-Ischemia,"[['HGF dimer', 'HGF(32-494):HGF(495-728)', 'Hepatocyte growth factor heterodimer']]"
+1151,Hypoxia-Ischemia,"[['ULK1', 'Serine/threonine-protein kinase ULK1', 'ULK1_HUMAN']]"
+1152,Hypoxia-Ischemia,"[['ULK1', 'Serine/threonine-protein kinase ULK1', 'ULK1_HUMAN']]"
+1153,Hypoxia-Ischemia,"[['FUNDC1', 'FUN14 domain-containing protein 1', 'FUND1_HUMAN']]"
+1154,Hypoxia-Ischemia,"[['p-S13-FUNDC1', 'FUN14 domain-containing protein 1', 'FUND1_HUMAN']]"
+1155,Hypoxia-Ischemia,"[['ADORA1,3:Ade-Rib', 'A1/A3 receptor:Adenosine']]"
+1156,Hypoxia-Ischemia,"[['ADORA1,3', 'A1/A3 receptors']]"
+1157,Hypoxia-Ischemia,"[['Ade-Rib', 'adenosine']]"
+1158,Hypoxia-Ischemia,"[['EDN1', 'ET1', 'RecName: Full=Endothelin-1; AltName: Full=Preproendothelin-1; Short=PPET1; Contains: RecName: Full=Endothelin-1; Short=ET-1; Contains: RecName: Full=Big endothelin-1; Flags: Precursor;<br>GN   Name=EDN1;<br>OS   Homo sapiens', 'EDN1_HUMAN']]"
+1159,Hypoxia-Ischemia,"[['EDN1(53-90)', 'ET1', 'RecName: Full=Endothelin-1; AltName: Full=Preproendothelin-1; Short=PPET1; Contains: RecName: Full=Endothelin-1; Short=ET-1; Contains: RecName: Full=Big endothelin-1; Flags: Precursor;<br>GN   Name=EDN1;<br>OS   Homo sapiens', 'EDN1_HUMAN']]"
+1160,Hypoxia-Ischemia,[['MyrG-CDK5R1(2-98)']]
+1161,Hypoxia-Ischemia,"[['CDK5R1(99-307)', 'p25']]"
+1162,Hypoxia-Ischemia,"[['MyrG-CDK5R1(2-307)', 'MyrG-p35', 'MyrG-CDK5R1', 'Cyclin-dependent kinase 5 activator 1', 'CD5R1_HUMAN']]"
+1163,Hypoxia-Ischemia,"[['H2O', 'water']]"
+1164,Hypoxia-Ischemia,"[['RvD5n-3DPA', '7,17-dihydroxy-(8Z,15E,19Z)-docosa-8,10,13,15,19-pentaenoic acid', '7,17-dihydroxy-omega3-docosapentaenoic acid', 'DPAn-3 resolvin D5', '7,17-dihydroxy-omega-3-docosapentaenoic acid']]"
+1165,Hypoxia-Ischemia,[['oxidised acceptor']]
+1166,Hypoxia-Ischemia,"[['7,17-diHp-DPAn-3', '(8E,10Z,13Z,15E,19Z)-7,17-bis(hydroperoxy)docosapentaenoic acid', '7,17-dihydroperoxy-omega3-docosapentaenoic acid', '7,17-dihydroperoxy-docosapentaenoic acid']]"
+1167,Hypoxia-Ischemia,"[['reduced acceptor', 'XH2']]"
+1168,Hypoxia-Ischemia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1169,Hypoxia-Ischemia,[['p-Y565-HIF1A']]
+1170,Hypoxia-Ischemia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1171,Hypoxia-Ischemia,"[['HIF1A', 'Hypoxia-inducible factor 1-alpha', 'HIF1A_HUMAN']]"
+1172,Hypoxia-Ischemia,"[['p-Y565,S797-HIF1A']]"
+1173,Hypoxia-Ischemia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1174,Hypoxia-Ischemia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1175,Hypoxia-Ischemia,[['p-Y565-HIF1A']]
+1176,Hypoxia-Ischemia,[['PTK6 Gene:EPAS1:NR3C1:Glucocorticoid ligand:PELP1']]
+1177,Hypoxia-Ischemia,[['PTK6 Gene']]
+1178,Hypoxia-Ischemia,"[['PELP1', 'Proline-, glutamic acid- and leucine-rich protein 1', 'PELP1_HUMAN']]"
+1179,Hypoxia-Ischemia,"[['NR3C1:(ALDO,11DCORST,CORST,CORT) dimer', 'Glucocorticoid receptor:Glucocorticoid ligand complex dimer', 'GR:Glucocorticoid ligand dimer']]"
+1180,Hypoxia-Ischemia,"[['EPAS1', 'HIF2A', 'Endothelial PAS domain-containing protein 1', 'EPAS1_HUMAN']]"
+1181,Hypoxia-Ischemia,"[['RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5:UBXN7']]"
+1182,Hypoxia-Ischemia,"[['UBXN7', 'UBX domain-containing protein 7', 'UBXN7_HUMAN']]"
+1183,Hypoxia-Ischemia,"[['RBX1:NEDD8-CUL2:EloB,C:VHL:COMMDs:CCDC22:DCUN1D1,2,4,5', 'ECV E3 ligase complex']]"
+1184,Hypoxia-Ischemia,[['CYGB dimer:O2']]
+1185,Hypoxia-Ischemia,"[['O2', 'Oxygen', 'dioxygen']]"
+1186,Hypoxia-Ischemia,[['CYGB dimer']]
+1187,Hypoxia-Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+1188,Hypoxia-Ischemia,"[['Cl-', 'chloride']]"
+1189,Hypoxia-Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+1190,Hypoxia-Ischemia,"[['Cl-', 'chloride']]"
+1191,Hypoxia-Ischemia,"[['H2O', 'water']]"
+1192,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1193,Hypoxia-Ischemia,"[['H+', 'hydron']]"
+1194,Hypoxia-Ischemia,"[['HCO3-', 'bicarbonate', 'hydrogencarbonate', 'acid carbonate']]"
+1195,Hypoxia-Ischemia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1196,Hypoxia-Ischemia,[['p-AMPK heterotrimer']]
+1197,Hypoxia-Ischemia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1198,Hypoxia-Ischemia,[['AMPK heterotrimer']]
+1199,Hypoxia-Ischemia,"[['H+', 'hydron']]"
+1200,Hypoxia-Ischemia,"[['HCO3-', 'bicarbonate', 'hydrogencarbonate', 'acid carbonate']]"
+1201,Hypoxia-Ischemia,"[['H2O', 'water']]"
+1202,Hypoxia-Ischemia,"[['CO2', 'carbon dioxide']]"
+1203,Fabry Disease,"[['Gal', 'alpha-D-galactose']]"
+1204,Fabry Disease,"[['LacCer', 'Lactosylceramide', 'beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-N-acylsphingosine', 'beta-D-Galactosyl-1,4-beta-D-glucosylceramide']]"
+1205,Fabry Disease,"[['Gb3Cer', 'Globotriaosylceramide', 'alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosylceramide']]"
+1206,Fabry Disease,"[['H2O', 'water']]"
+1207,Intracranial Embolism and Thrombosis,[['Factor IIa inhibitors (peptide):IIa']]
+1208,Intracranial Embolism and Thrombosis,[['Factor IIa inhibitors (peptide)']]
+1209,Intracranial Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1210,Intracranial Embolism and Thrombosis,[['Thrombin-activated PAR:Gq (active)']]
+1211,Intracranial Embolism and Thrombosis,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1212,Intracranial Embolism and Thrombosis,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1213,Intracranial Embolism and Thrombosis,[['Thrombin-activated PAR:Gq (inactive)']]
+1214,Intracranial Embolism and Thrombosis,[['Factor IIa inhibitors (compounds):IIa']]
+1215,Intracranial Embolism and Thrombosis,[['Factor IIa inhibitors (compounds)']]
+1216,Intracranial Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1217,Intracranial Embolism and Thrombosis,[['factor Xa:Factor Xa inhibitors']]
+1218,Intracranial Embolism and Thrombosis,[['Factor Xa inhibitors']]
+1219,Intracranial Embolism and Thrombosis,[['factor Xa']]
+1220,Intracranial Embolism and Thrombosis,[['Va:Xa:Factor Xa inhibitors']]
+1221,Intracranial Embolism and Thrombosis,[['Factor Xa inhibitors']]
+1222,Intracranial Embolism and Thrombosis,[['Va:Xa']]
+1223,Intracranial Embolism and Thrombosis,[['P2X purinoreceptors:ATP']]
+1224,Intracranial Embolism and Thrombosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1225,Intracranial Embolism and Thrombosis,[['P2RX receptors']]
+1226,Intracranial Embolism and Thrombosis,"[['PalmC-F3', 'tissue factor']]"
+1227,Intracranial Embolism and Thrombosis,"[['sequestered tissue factor', 'F3']]"
+1228,Intracranial Embolism and Thrombosis,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1229,Intracranial Embolism and Thrombosis,"[['p-S133-CREB1', 'phospho-CREB', 'cAMP response element binding protein', 'CREB']]"
+1230,Intracranial Embolism and Thrombosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1231,Intracranial Embolism and Thrombosis,"[['CREB1', 'CREB', 'cAMP-response element binding protein', 'cAMP response element binding protein']]"
+1232,Intracranial Embolism and Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1233,Intracranial Embolism and Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1234,Intracranial Embolism and Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1235,Intracranial Embolism and Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1236,Intracranial Embolism and Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1237,Intracranial Embolism and Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1238,Intracranial Embolism and Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1239,Intracranial Embolism and Thrombosis,"[['NMP', 'ribonucleoside monophosphate']]"
+1240,Intracranial Embolism and Thrombosis,"[['H2O', 'water']]"
+1241,Intracranial Embolism and Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1242,Intracranial Embolism and Thrombosis,"[['Vitronectin:Plasminogen activator inhibitor 1', 'VTN:SERPINE1']]"
+1243,Intracranial Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1244,Intracranial Embolism and Thrombosis,"[['VTN', 'Vitronectin']]"
+1245,Intracranial Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1']]"
+1246,Intracranial Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1247,Intracranial Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)']]"
+1248,Intracranial Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1']]"
+1249,Intracranial Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1250,Intracranial Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)']]"
+1251,Intracranial Embolism and Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1252,Intracranial Embolism and Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1253,Intracranial Embolism and Thrombosis,[['VKORC1 inhibitors:VKORC1 dimer']]
+1254,Intracranial Embolism and Thrombosis,[['VKORC1 dimer']]
+1255,Intracranial Embolism and Thrombosis,"[['VKORC1 inhibitors', 'VKORC1 antagonists']]"
+1256,Intracranial Embolism and Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1257,Intracranial Embolism and Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1258,Intracranial Embolism and Thrombosis,"[['H2O', 'water']]"
+1259,Intracranial Embolism and Thrombosis,"[['NTP', 'nucleoside triphosphate']]"
+1260,Intracranial Embolism and Thrombosis,[['factor Vi intermediate form']]
+1261,Intracranial Embolism and Thrombosis,[['F5(535-737)']]
+1262,Intracranial Embolism and Thrombosis,[['factor Va']]
+1263,Intracranial Embolism and Thrombosis,[['activated thrombin (factor IIa):SERPIND1']]
+1264,Intracranial Embolism and Thrombosis,"[['SERPIND1', 'Heparin cofactor 2', 'HEP2_HUMAN']]"
+1265,Intracranial Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1266,Intracranial Embolism and Thrombosis,"[['H2O', 'water']]"
+1267,Intracranial Embolism and Thrombosis,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1268,Intracranial Embolism and Thrombosis,"[['CoA-SH', 'coenzyme A']]"
+1269,Intracranial Embolism and Thrombosis,"[['CO2', 'carbon dioxide']]"
+1270,Intracranial Embolism and Thrombosis,"[['DGL-CoA', 'dihomo-gamma-linoloyl CoA', 'all-cis-icosa-8,11,14-trienoyl-CoA', '8Z,11Z,14Z-eicosatrienoyl-CoA', 'eicosatrienoyl CoA', '20:3(n-6)']]"
+1271,Intracranial Embolism and Thrombosis,"[['Malonyl-CoA', 'Malonyl coenzyme A']]"
+1272,Intracranial Embolism and Thrombosis,"[['GLA-CoA', 'gamma-linolenoyl-CoA (GLA-COA)', 'gamma-linolenoyl-CoA', 'octadecatrienoyl-CoA', '6Z,9Z,12Z-octadecatrienoyl-CoA', '18:3(n-6)']]"
+1273,Intracranial Embolism and Thrombosis,"[['NADPH', 'TPNH']]"
+1274,Intracranial Embolism and Thrombosis,[['F5(335-534)']]
+1275,Intracranial Embolism and Thrombosis,[['factor Vi']]
+1276,Intracranial Embolism and Thrombosis,[['factor Vi intermediate form']]
+1277,Intracranial Embolism and Thrombosis,[['P2RY12:P2RY12 antagonists']]
+1278,Intracranial Embolism and Thrombosis,[['P2RY12 antagonists']]
+1279,Intracranial Embolism and Thrombosis,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+1280,Vasculitis,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+1281,Vasculitis,[['TLR4:LY96']]
+1282,Vasculitis,"[['S100A8:S100A9', 'calprotectin']]"
+1283,Colitis,"[['PSGs:Proteoglycan,TGFB1']]"
+1284,Colitis,"[['PSGs', 'PSG 1 (2-9, 11)']]"
+1285,Colitis,"[['Proteoglycans,TGFB1']]"
+1286,Colitis,"[['Proteoglycans,TGFB1']]"
+1287,Colitis,[['MST1 dimer']]
+1288,Colitis,"[['H2O', 'water']]"
+1289,Colitis,"[['pro-MST1', 'MST1(19-711)', 'Hepatocyte growth factor-like protein', 'HGFL_HUMAN']]"
+1290,Colitis,"[['RvD5n-3DPA', '7,17-dihydroxy-(8Z,15E,19Z)-docosa-8,10,13,15,19-pentaenoic acid', '7,17-dihydroxy-omega3-docosapentaenoic acid', 'DPAn-3 resolvin D5', '7,17-dihydroxy-omega-3-docosapentaenoic acid']]"
+1291,Colitis,[['oxidised acceptor']]
+1292,Colitis,"[['7,17-diHp-DPAn-3', '(8E,10Z,13Z,15E,19Z)-7,17-bis(hydroperoxy)docosapentaenoic acid', '7,17-dihydroperoxy-omega3-docosapentaenoic acid', '7,17-dihydroperoxy-docosapentaenoic acid']]"
+1293,Colitis,"[['reduced acceptor', 'XH2']]"
+1294,Colitis,"[['NH3', 'ammonia']]"
+1295,Colitis,"[['Cit3-replicative histone H3, Cit9-replicative histone H3, Cit18-replicative histone H3, Cit27-replicative histone H3']]"
+1296,Colitis,"[['H2O', 'water']]"
+1297,Colitis,"[['MeR3-replicative histone H3, MeR9-replicative histone H3, MeR18-replicative histone H3, Me27-replicatve histone H3']]"
+1298,Colitis,"[['OSCAR:Collagen I,II,III/SP-D']]"
+1299,Colitis,"[['Collagen types I,II,III/SP-D']]"
+1300,Colitis,"[['OSCAR', 'Osteoclast-associated immunoglobulin-like receptor', 'OSCAR_HUMAN']]"
+1301,Compartment Syndromes,"[['IFT B*', 'HSPB11:IFT172:IFT27:IFT46:IFT52:IFT57:IFT74:IFT80:IFT81:IFT88:RABL5:TRAF3IP1']]"
+1302,Compartment Syndromes,"[['CLUAP', 'FAP22', 'Qilin', 'DYF13']]"
+1303,Compartment Syndromes,"[['TTC26', 'IFT56']]"
+1304,Compartment Syndromes,"[['IFT81', 'CDV1', 'IFT B']]"
+1305,Compartment Syndromes,"[['IFT172', 'IFT-B 172', 'IFT B']]"
+1306,Compartment Syndromes,"[['IFT80', 'IFT-B 80', 'IFT B', 'WDR56']]"
+1307,Compartment Syndromes,"[['TRAF3IP1', 'IFT54', 'IFT B', 'MIPT3']]"
+1308,Compartment Syndromes,"[['RABL5', 'IFT22', 'IFT-B 22', 'IFT B']]"
+1309,Compartment Syndromes,[['TTC30']]
+1310,Compartment Syndromes,"[['HSPB11', 'IFT25', 'IFT-B 25', 'IFT B']]"
+1311,Compartment Syndromes,"[['IFT52', 'IFT-B 52', 'IFT B']]"
+1312,Compartment Syndromes,"[['IFT74', 'IFT-B 74', 'IFT B', 'CCDC2', 'CMG1']]"
+1313,Compartment Syndromes,"[['IFT88', 'IFT-B 88', 'TG737', 'TTC10', 'IFT B']]"
+1314,Compartment Syndromes,"[['IFT46', 'IFT-B 46', 'IFT B']]"
+1315,Compartment Syndromes,"[['IFT57', 'IFT-B 52', 'DERP8', 'ESRRBL1', 'HIPPI', 'IFT B']]"
+1316,Compartment Syndromes,"[['IFT27', 'IFT-B 27', 'IFT B', 'RABL4', 'RAYL']]"
+1317,Compartment Syndromes,"[['CoA-SH', 'CoA', 'coenzyme A']]"
+1318,Compartment Syndromes,"[['AcK15-histone H3', 'AcK15-replicative histone H3', 'AcK15-replication-dependent histone H3', 'Ack15-HIST1H3A,Ack15-HIST2H3A']]"
+1319,Compartment Syndromes,"[['Ac-CoA', 'Acetyl coenzyme A', 'acetyl-CoA']]"
+1320,Compartment Syndromes,"[['Histone H3', 'Replicative histone H3', 'Replication-dependent histone H3', 'HIST1H3A,HIST2H3A']]"
+1321,Compartment Syndromes,[['Telomerase RNP']]
+1322,Compartment Syndromes,"[['NOP10', 'H/ACA ribonucleoprotein complex subunit 3', 'NOP10_HUMAN']]"
+1323,Compartment Syndromes,"[['DKC1', 'Dyskerin']]"
+1324,Compartment Syndromes,[['Telomerase RNA Component (TERC)']]
+1325,Compartment Syndromes,[['TERT']]
+1326,Compartment Syndromes,"[['GAR1', 'H/ACA ribonucleoprotein complex subunit 1', 'GAR1_HUMAN']]"
+1327,Compartment Syndromes,"[['WRAP53', 'TCAB1', 'telomerase Cajal body protein 1', 'WD repeat containing, antisense to TP53', 'WDR79', 'WD repeat-containing protein 79', 'WDR79_HUMAN']]"
+1328,Compartment Syndromes,"[['NHP2', 'H/ACA ribonucleoprotein complex subunit 2', 'NHP2_HUMAN']]"
+1329,Embolism and Thrombosis,[['Factor IIa inhibitors (peptide):IIa']]
+1330,Embolism and Thrombosis,[['Factor IIa inhibitors (peptide)']]
+1331,Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1332,Embolism and Thrombosis,[['Thrombin-activated PAR:Gq (active)']]
+1333,Embolism and Thrombosis,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1334,Embolism and Thrombosis,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1335,Embolism and Thrombosis,[['Thrombin-activated PAR:Gq (inactive)']]
+1336,Embolism and Thrombosis,[['Factor IIa inhibitors (compounds):IIa']]
+1337,Embolism and Thrombosis,[['Factor IIa inhibitors (compounds)']]
+1338,Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1339,Embolism and Thrombosis,[['factor Xa:Factor Xa inhibitors']]
+1340,Embolism and Thrombosis,[['Factor Xa inhibitors']]
+1341,Embolism and Thrombosis,[['factor Xa']]
+1342,Embolism and Thrombosis,[['Va:Xa:Factor Xa inhibitors']]
+1343,Embolism and Thrombosis,[['Factor Xa inhibitors']]
+1344,Embolism and Thrombosis,[['Va:Xa']]
+1345,Embolism and Thrombosis,[['P2X purinoreceptors:ATP']]
+1346,Embolism and Thrombosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1347,Embolism and Thrombosis,[['P2RX receptors']]
+1348,Embolism and Thrombosis,"[['PalmC-F3', 'tissue factor']]"
+1349,Embolism and Thrombosis,"[['sequestered tissue factor', 'F3']]"
+1350,Embolism and Thrombosis,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1351,Embolism and Thrombosis,"[['p-S133-CREB1', 'phospho-CREB', 'cAMP response element binding protein', 'CREB']]"
+1352,Embolism and Thrombosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1353,Embolism and Thrombosis,"[['CREB1', 'CREB', 'cAMP-response element binding protein', 'cAMP response element binding protein']]"
+1354,Embolism and Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1355,Embolism and Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1356,Embolism and Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1357,Embolism and Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1358,Embolism and Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1359,Embolism and Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1360,Embolism and Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1361,Embolism and Thrombosis,"[['NMP', 'ribonucleoside monophosphate']]"
+1362,Embolism and Thrombosis,"[['H2O', 'water']]"
+1363,Embolism and Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1364,Embolism and Thrombosis,"[['Vitronectin:Plasminogen activator inhibitor 1', 'VTN:SERPINE1']]"
+1365,Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1366,Embolism and Thrombosis,"[['VTN', 'Vitronectin']]"
+1367,Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1']]"
+1368,Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1369,Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)']]"
+1370,Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1']]"
+1371,Embolism and Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1372,Embolism and Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)']]"
+1373,Embolism and Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1374,Embolism and Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1375,Embolism and Thrombosis,[['VKORC1 inhibitors:VKORC1 dimer']]
+1376,Embolism and Thrombosis,[['VKORC1 dimer']]
+1377,Embolism and Thrombosis,"[['VKORC1 inhibitors', 'VKORC1 antagonists']]"
+1378,Embolism and Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1379,Embolism and Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1380,Embolism and Thrombosis,"[['H2O', 'water']]"
+1381,Embolism and Thrombosis,"[['NTP', 'nucleoside triphosphate']]"
+1382,Embolism and Thrombosis,[['factor Vi intermediate form']]
+1383,Embolism and Thrombosis,[['F5(535-737)']]
+1384,Embolism and Thrombosis,[['factor Va']]
+1385,Embolism and Thrombosis,[['activated thrombin (factor IIa):SERPIND1']]
+1386,Embolism and Thrombosis,"[['SERPIND1', 'Heparin cofactor 2', 'HEP2_HUMAN']]"
+1387,Embolism and Thrombosis,[['activated thrombin (factor IIa)']]
+1388,Embolism and Thrombosis,"[['H2O', 'water']]"
+1389,Embolism and Thrombosis,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1390,Embolism and Thrombosis,"[['CoA-SH', 'coenzyme A']]"
+1391,Embolism and Thrombosis,"[['CO2', 'carbon dioxide']]"
+1392,Embolism and Thrombosis,"[['DGL-CoA', 'dihomo-gamma-linoloyl CoA', 'all-cis-icosa-8,11,14-trienoyl-CoA', '8Z,11Z,14Z-eicosatrienoyl-CoA', 'eicosatrienoyl CoA', '20:3(n-6)']]"
+1393,Embolism and Thrombosis,"[['Malonyl-CoA', 'Malonyl coenzyme A']]"
+1394,Embolism and Thrombosis,"[['GLA-CoA', 'gamma-linolenoyl-CoA (GLA-COA)', 'gamma-linolenoyl-CoA', 'octadecatrienoyl-CoA', '6Z,9Z,12Z-octadecatrienoyl-CoA', '18:3(n-6)']]"
+1395,Embolism and Thrombosis,"[['NADPH', 'TPNH']]"
+1396,Embolism and Thrombosis,[['F5(335-534)']]
+1397,Embolism and Thrombosis,[['factor Vi']]
+1398,Embolism and Thrombosis,[['factor Vi intermediate form']]
+1399,Embolism and Thrombosis,[['P2RY12:P2RY12 antagonists']]
+1400,Embolism and Thrombosis,[['P2RY12 antagonists']]
+1401,Embolism and Thrombosis,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+1402,Pulmonary Embolism,[['Factor IIa inhibitors (peptide):IIa']]
+1403,Pulmonary Embolism,[['Factor IIa inhibitors (peptide)']]
+1404,Pulmonary Embolism,[['activated thrombin (factor IIa)']]
+1405,Pulmonary Embolism,[['Factor IIa inhibitors (compounds):IIa']]
+1406,Pulmonary Embolism,[['Factor IIa inhibitors (compounds)']]
+1407,Pulmonary Embolism,[['activated thrombin (factor IIa)']]
+1408,Pulmonary Embolism,[['factor Xa:Factor Xa inhibitors']]
+1409,Pulmonary Embolism,[['Factor Xa inhibitors']]
+1410,Pulmonary Embolism,[['factor Xa']]
+1411,Pulmonary Embolism,[['Va:Xa:Factor Xa inhibitors']]
+1412,Pulmonary Embolism,[['Factor Xa inhibitors']]
+1413,Pulmonary Embolism,[['Va:Xa']]
+1414,Pulmonary Embolism,[['VKORC1 inhibitors:VKORC1 dimer']]
+1415,Pulmonary Embolism,[['VKORC1 dimer']]
+1416,Pulmonary Embolism,"[['VKORC1 inhibitors', 'VKORC1 antagonists']]"
+1417,Pulmonary Infarction,"[['ADRB1,2,3:β-blockers']]"
+1418,Pulmonary Infarction,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1419,Pulmonary Infarction,[['β-blockers']]
+1420,Thromboembolism,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1421,Thromboembolism,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1422,Thrombosis,[['Thrombin-activated PAR:Gq (active)']]
+1423,Thrombosis,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1424,Thrombosis,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1425,Thrombosis,[['Thrombin-activated PAR:Gq (inactive)']]
+1426,Thrombosis,[['P2X purinoreceptors:ATP']]
+1427,Thrombosis,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1428,Thrombosis,[['P2RX receptors']]
+1429,Thrombosis,[['Factor IIa inhibitors (peptide):IIa']]
+1430,Thrombosis,[['Factor IIa inhibitors (peptide)']]
+1431,Thrombosis,[['activated thrombin (factor IIa)']]
+1432,Thrombosis,"[['PalmC-F3', 'tissue factor']]"
+1433,Thrombosis,"[['sequestered tissue factor', 'F3']]"
+1434,Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1435,Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1436,Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1437,Thrombosis,"[['PLG(20-810)', 'PLG', 'plasminogen']]"
+1438,Thrombosis,"[['HRG', 'histidine-rich glycoprotein']]"
+1439,Thrombosis,[['histidine-rich glycoprotein:plasminogen']]
+1440,Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1441,Thrombosis,"[['NMP', 'ribonucleoside monophosphate']]"
+1442,Thrombosis,"[['H2O', 'water']]"
+1443,Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1444,Thrombosis,"[['Vitronectin:Plasminogen activator inhibitor 1', 'VTN:SERPINE1']]"
+1445,Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1446,Thrombosis,"[['VTN', 'Vitronectin']]"
+1447,Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1']]"
+1448,Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1449,Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)']]"
+1450,Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1']]"
+1451,Thrombosis,"[['SERPINE1', 'Plasminogen activator inhibitor-1', 'PAI1']]"
+1452,Thrombosis,"[['fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)']]"
+1453,Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1454,Thrombosis,"[['Ca2+', 'Calcium', 'calcium(2+)']]"
+1455,Thrombosis,"[['NDP', 'nucleoside diphosphate']]"
+1456,Thrombosis,"[['Pi', 'Orthophosphate', 'phosphate(3-)', 'inorganic phosphate', 'phosphate']]"
+1457,Thrombosis,"[['H2O', 'water']]"
+1458,Thrombosis,"[['NTP', 'nucleoside triphosphate']]"
+1459,Thrombosis,[['factor Vi intermediate form']]
+1460,Thrombosis,[['F5(535-737)']]
+1461,Thrombosis,[['factor Va']]
+1462,Thrombosis,[['activated thrombin (factor IIa):SERPIND1']]
+1463,Thrombosis,"[['SERPIND1', 'Heparin cofactor 2', 'HEP2_HUMAN']]"
+1464,Thrombosis,[['activated thrombin (factor IIa)']]
+1465,Thrombosis,"[['H2O', 'water']]"
+1466,Thrombosis,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1467,Thrombosis,"[['CoA-SH', 'coenzyme A']]"
+1468,Thrombosis,"[['CO2', 'carbon dioxide']]"
+1469,Thrombosis,"[['DGL-CoA', 'dihomo-gamma-linoloyl CoA', 'all-cis-icosa-8,11,14-trienoyl-CoA', '8Z,11Z,14Z-eicosatrienoyl-CoA', 'eicosatrienoyl CoA', '20:3(n-6)']]"
+1470,Thrombosis,"[['Malonyl-CoA', 'Malonyl coenzyme A']]"
+1471,Thrombosis,"[['GLA-CoA', 'gamma-linolenoyl-CoA (GLA-COA)', 'gamma-linolenoyl-CoA', 'octadecatrienoyl-CoA', '6Z,9Z,12Z-octadecatrienoyl-CoA', '18:3(n-6)']]"
+1472,Thrombosis,"[['NADPH', 'TPNH']]"
+1473,Thrombosis,[['F5(335-534)']]
+1474,Thrombosis,[['factor Vi']]
+1475,Thrombosis,[['factor Vi intermediate form']]
+1476,Thrombosis,[['P2RY12:P2RY12 antagonists']]
+1477,Thrombosis,[['P2RY12 antagonists']]
+1478,Thrombosis,"[['P2RY12', 'P2Y purinoceptor 12', 'P2Y12_HUMAN']]"
+1479,Thrombosis,[['VKORC1 inhibitors:VKORC1 dimer']]
+1480,Thrombosis,[['VKORC1 dimer']]
+1481,Thrombosis,"[['VKORC1 inhibitors', 'VKORC1 antagonists']]"
+1482,Venous Thrombosis,[['factor Vi intermediate form']]
+1483,Venous Thrombosis,[['F5(535-737)']]
+1484,Venous Thrombosis,[['factor Va']]
+1485,Venous Thrombosis,[['activated thrombin (factor IIa):SERPIND1']]
+1486,Venous Thrombosis,"[['SERPIND1', 'Heparin cofactor 2', 'HEP2_HUMAN']]"
+1487,Venous Thrombosis,[['activated thrombin (factor IIa)']]
+1488,Venous Thrombosis,[['F5(335-534)']]
+1489,Venous Thrombosis,[['factor Vi']]
+1490,Venous Thrombosis,[['factor Vi intermediate form']]
+1491,Ehlers-Danlos Syndrome,"[['Gal-Xyl-proteins', '(Gal)1 (Xyl)1 (Ser)1']]"
+1492,Ehlers-Danlos Syndrome,"[['UDP', ""uridine 5'-diphosphate""]]"
+1493,Ehlers-Danlos Syndrome,"[['UDP-Gal', 'UDPgalactose', 'UDP-D-galactose', 'UDP-D-galactopyranose']]"
+1494,Ehlers-Danlos Syndrome,"[['xylosyl-core proteins', '(Xyl)1 (Ser)1']]"
+1495,Ehlers-Danlos Syndrome,"[['SUCCA', 'Succinate', 'succinic acid', 'Butanedionic acid', 'Ethylenesuccinic acid', 'succinate(2-)']]"
+1496,Ehlers-Danlos Syndrome,"[['CO2', 'carbon dioxide']]"
+1497,Ehlers-Danlos Syndrome,[['Lysyl hydroxylases:Lysyl hydroxylated collagen propeptides']]
+1498,Ehlers-Danlos Syndrome,"[['O2', 'Oxygen', 'dioxygen']]"
+1499,Ehlers-Danlos Syndrome,[['Lysyl hydroxylases:Lysyl hydroxylase procollagen substrates']]
+1500,Ehlers-Danlos Syndrome,"[['2OG', '2-Oxoglutarate', '2-oxoglutaric acid', 'alpha-ketoglutarate', '2-oxoglutarate(2-)']]"
+1501,Ehlers-Danlos Syndrome,"[['Tenascins C, R, (X, N):Lecticans']]"
+1502,Ehlers-Danlos Syndrome,[['Lecticans']]
+1503,Ehlers-Danlos Syndrome,"[['Tenascins C, R, (X, N)']]"
+1504,Ehlers-Danlos Syndrome,[['Cleaved collagen type V fibril']]
+1505,Ehlers-Danlos Syndrome,"[['Collagen V', 'Collagen type V fibril']]"
+1506,Ehlers-Danlos Syndrome,"[['Tenascins C, R, (X, N):Fibronectin matrix']]"
+1507,Ehlers-Danlos Syndrome,"[['Tenascins C, R, (X, N)']]"
+1508,Ehlers-Danlos Syndrome,[['Fibronectin matrix']]
+1509,Ehlers-Danlos Syndrome,[['TNC:Syndecan-3']]
+1510,Ehlers-Danlos Syndrome,"[['TNC', 'Tenascin', 'TN-C']]"
+1511,Ehlers-Danlos Syndrome,[['Syndecan-3']]
+1512,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1513,Multiple Myeloma,[['Activated FGFR3 t(4;14) translocation mutants']]
+1514,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1515,Multiple Myeloma,[['FGFR3 (4;14) translocation mutant dimers']]
+1516,Multiple Myeloma,[['FGFR3 (4;14) translocation mutant dimers']]
+1517,Multiple Myeloma,[['FGFR3 (4;14) translocation mutants']]
+1518,Multiple Myeloma,[['FGFR3 mutant dimers:TKIs']]
+1519,Multiple Myeloma,[['FGFR3 mutant dimers']]
+1520,Multiple Myeloma,[['Tyrosine kinase inhibitors of FGFR3 mutants']]
+1521,Multiple Myeloma,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+1522,Multiple Myeloma,"[['MeK28-histone H3', 'MeK28-replicative histone H3', 'MeK28-replication-dependent histone H3', 'MeK28-HIST1H3A,MeK28-HIST2H3A']]"
+1523,Multiple Myeloma,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+1524,Multiple Myeloma,"[['Histone H3', 'Replicative histone H3', 'Replication-dependent histone H3', 'HIST1H3A,HIST2H3A']]"
+1525,Multiple Myeloma,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+1526,Multiple Myeloma,"[['Me3K28-histone H3', 'Me3K28-replicative histone H3', 'Me3K28-replication-dependent histone H3', 'Me3K28-HIST1H3A,Me3K28-HIST2H3A']]"
+1527,Multiple Myeloma,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+1528,Multiple Myeloma,"[['Me2K28-histone H3', 'Me2K28-replicative histone H3', 'Me2K28-replication-dependent histone H3', 'Me2K28-HIST1H3A,Me2K28-HIST2H3A']]"
+1529,Multiple Myeloma,"[['AdoHcy', 'S-adenosylhomocysteine', 'S-adenosyl-L-homocysteine', 'SAH']]"
+1530,Multiple Myeloma,"[['Me2K28-histone H3', 'Me2K28-replicative histone H3', 'Me2K28-replication-dependent histone H3', 'Me2K28-HIST1H3A,Me2K28-HIST2H3A']]"
+1531,Multiple Myeloma,"[['MeK28-histone H3', 'MeK28-replicative histone H3', 'MeK28-replication-dependent histone H3', 'MeK28-HIST1H3A,MeK28-HIST2H3A']]"
+1532,Multiple Myeloma,"[['AdoMet', 'S-adenosylmethionine', 'S-adenosyl-L-methionine', 'SAM']]"
+1533,Multiple Myeloma,[['Centrosome:AURKA:TPX2:HMMR']]
+1534,Multiple Myeloma,"[['HMMR', 'Hyaluronan mediated motility receptor', 'HMMR_HUMAN', 'RHAMM']]"
+1535,Multiple Myeloma,[['Centrosome:AURKA']]
+1536,Multiple Myeloma,"[['TPX2', 'Targeting protein for Xklp2']]"
+1537,Multiple Myeloma,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1538,Multiple Myeloma,[['p21 RAS:GTP']]
+1539,Multiple Myeloma,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1540,Multiple Myeloma,[['p21 RAS:GDP']]
+1541,Multiple Myeloma,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1542,Multiple Myeloma,[['p21 RAS:GTP']]
+1543,Multiple Myeloma,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1544,Multiple Myeloma,[['p21 RAS:GDP']]
+1545,Multiple Myeloma,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1546,Multiple Myeloma,[['p21 RAS:GTP']]
+1547,Multiple Myeloma,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1548,Multiple Myeloma,[['p21 RAS:GDP']]
+1549,Multiple Myeloma,"[['GDP', ""Guanosine 5'-diphosphate"", 'Guanosine diphosphate']]"
+1550,Multiple Myeloma,[['p21 RAS:GTP']]
+1551,Multiple Myeloma,"[['GTP', ""Guanosine 5'-triphosphate""]]"
+1552,Multiple Myeloma,[['p21 RAS:GDP']]
+1553,Multiple Myeloma,[['Activated FGFR1 mutants:FRS2']]
+1554,Multiple Myeloma,[['Activated FGFR1 mutants']]
+1555,Multiple Myeloma,"[['FRS2', 'FRS2-alpha']]"
+1556,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1557,Multiple Myeloma,[['Activated FGFR3 mutants with enhanced kinase activity']]
+1558,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1559,Multiple Myeloma,[['FGFR3 point mutant dimers with enhanced kinase activity']]
+1560,Multiple Myeloma,[['Activated FGFR3 mutants:FRS2']]
+1561,Multiple Myeloma,[['Activated FGFR3 mutants']]
+1562,Multiple Myeloma,"[['FRS2', 'FRS2-alpha']]"
+1563,Multiple Myeloma,[['Activated FGFR2 mutants:FRS2']]
+1564,Multiple Myeloma,[['Activated FGFR2 mutants']]
+1565,Multiple Myeloma,"[['FRS2', 'FRS2-alpha']]"
+1566,Multiple Myeloma,[['Activated FGFR4 mutants:FRS2']]
+1567,Multiple Myeloma,[['Activated FGFR4 mutants']]
+1568,Multiple Myeloma,"[['FRS2', 'FRS2-alpha']]"
+1569,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1570,Multiple Myeloma,[['Activated FGFR1 mutants:p-FRS2']]
+1571,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1572,Multiple Myeloma,[['Activated FGFR1 mutants:FRS2']]
+1573,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1574,Multiple Myeloma,[['Activated FGFR3 mutants:p-FRS2']]
+1575,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1576,Multiple Myeloma,[['Activated FGFR3 mutants:FRS2']]
+1577,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1578,Multiple Myeloma,[['Activated FGFR2 mutants:p-FRS2']]
+1579,Multiple Myeloma,[['Activated FGFR2 mutants:FRS2']]
+1580,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1581,Multiple Myeloma,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1582,Multiple Myeloma,[['Activated FGFR4 mutants:p-FRS2']]
+1583,Multiple Myeloma,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1584,Multiple Myeloma,[['Activated FGFR4 mutants:FRS2']]
+1585,Multiple Myeloma,[['FGFR3 point mutant dimers with enhanced kinase activity']]
+1586,Multiple Myeloma,[['FGFR3 point mutants with enhanced kinase activity']]
+1587,Multiple Myeloma,"[['CMP', ""cytidine 5'-monophosphate"", 'cytidylic acid', ""Cytidine-5'-monophosphate""]]"
+1588,Multiple Myeloma,"[['Type 2 MSGG', 'Type 2 monosialylgalactosylgloboside', 'R-Gal-β1,3-GlcNAc-β1,4-Gal-α2,3-Neu5Ac']]"
+1589,Multiple Myeloma,"[['CMP-Neu5Ac', 'CMP-sialic acid', 'CMP-N-acetyl-beta-neuraminic acid']]"
+1590,Multiple Myeloma,"[['Type 2 chain', 'R-alpha-D-Gal-(1-3)-alpha-D-GlcNAc-(1-4)-D-Gal', 'alpha-D-Gal-(1->3)-alpha-D-GlcNAc-(1->4)-D-Gal-yl group', 'ABO precursor type 2', 'R-Gal-1,3-GlcNAc-1,4-Gal']]"
+1591,Multiple Myeloma,[['FGFR3 cysteine mutant dimers']]
+1592,Multiple Myeloma,[['FGFR3 cysteine mutants']]
+1593,Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1594,Telangiectasia,[['p-S456-ABL1']]
+1595,Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1596,Telangiectasia,"[['ABL1', 'Proto-oncogene tyrosine-protein kinase ABL1', 'ABL1_HUMAN']]"
+1597,Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1598,Telangiectasia,[['p-S15-TP53 Tetramer']]
+1599,Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1600,Telangiectasia,[['TP53 Tetramer']]
+1601,Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1602,Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex']]"
+1603,Telangiectasia,"[['p-T68-CHEK2', 'phospho-Chk2', 'Serine/threonine-protein kinase Chk2 (EC 2.7.1.-) (Cds1) phosphorylated', 'Serine/threonine-protein kinase Chk2 ', 'Cds1']]"
+1604,Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex:CHEK2']]"
+1605,Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1606,Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1607,Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAXIP1']]"
+1608,Telangiectasia,"[['p-S645-DCLRE1C', 'p-S645-ARTEMIS']]"
+1609,Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1610,Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAX1IP:DCLRE1C']]"
+1611,Telangiectasia,[['DNA DSBs:MRN:Ac-K3016-ATM dimer:KAT5']]
+1612,Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1613,Telangiectasia,"[['DNA DSBs:MRN:p-S1981,Ac-K3016-ATM:KAT5']]"
+1614,Telangiectasia,"[['p-S1981,Ac-K3016-ATM']]"
+1615,Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1616,Telangiectasia,[['ATM:PEX5']]
+1617,Telangiectasia,[['ATM:PEX5']]
+1618,Telangiectasia,[['ATM dimer:p-PEX5']]
+1619,Telangiectasia,[['ATM dimer:PEX5']]
+1620,Telangiectasia,[['ATM dimer:PEX5']]
+1621,Telangiectasia,[['ATM:PEX5']]
+1622,Telangiectasia,"[['ATM', 'ATM serine-protein kinase', 'Serine-protein kinase ATM (EC 2.7.1.37) (Ataxia telangiectasia mutated) (A-T, mutated)', 'Serine-protein kinase ATM ', 'Ataxia telangiectasia mutated', 'A-T, mutated']]"
+1623,Telangiectasia,[['ATM:PEX5']]
+1624,Telangiectasia,"[['PEX5', 'Peroxisomal targeting signal 1 receptor', 'PEX5_HUMAN']]"
+1625,Telangiectasia,"[['ATM', 'ATM serine-protein kinase', 'Serine-protein kinase ATM (EC 2.7.1.37) (Ataxia telangiectasia mutated) (A-T, mutated)', 'Serine-protein kinase ATM ', 'Ataxia telangiectasia mutated', 'A-T, mutated']]"
+1626,Telangiectasia,[['MRE11:dsDNA']]
+1627,Telangiectasia,"[['Double-stranded DNA', 'dsDNA', 'deoxyribonucleic acid']]"
+1628,Telangiectasia,"[['MRE11A', 'Double-strand break repair protein MRE11A', 'MRE11 homolog 1']]"
+1629,Hypertension,"[[""adenosine 5'-monophosphate"", 'AMP', 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+1630,Hypertension,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+1631,Hypertension,"[['BT-CoA', 'Butanoyl-CoA', 'butyryl-CoA', 'beta-hydroxybutyryl-CoA']]"
+1632,Hypertension,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1633,Hypertension,"[['BUT', 'Butyrate', 'butyric acid']]"
+1634,Hypertension,[['ARBs:AGTR1']]
+1635,Hypertension,"[['ARBs', 'Angiotensin II receptor blockers']]"
+1636,Hypertension,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+1637,Hypertension,"[['Gly', 'L-glycine', 'glycine zwitterion', 'glycine', 'Aminoacetic acid']]"
+1638,Hypertension,"[['Gly', 'Aminoacetic acid', 'glycine zwitterion', 'glycine']]"
+1639,Hypertension,[['Na+/Li+']]
+1640,Hypertension,"[['H+', 'hydron']]"
+1641,Hypertension,"[['H+', 'hydron']]"
+1642,Hypertension,[['Na+/Li+']]
+1643,Hypertension,"[['H2O', 'water']]"
+1644,Hypertension,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1645,Hypertension,[['20-HETE']]
+1646,Hypertension,"[['O2', 'Oxygen', 'dioxygen']]"
+1647,Hypertension,"[['H+', 'hydron']]"
+1648,Hypertension,"[['ARA', 'arachidonic acid']]"
+1649,Hypertension,"[['NADPH', 'TPNH']]"
+1650,Hypertension,"[['H2O', 'water']]"
+1651,Hypertension,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1652,Hypertension,[['19-HETE']]
+1653,Hypertension,"[['O2', 'Oxygen', 'dioxygen']]"
+1654,Hypertension,"[['H+', 'hydron']]"
+1655,Hypertension,"[['ARA', 'arachidonic acid']]"
+1656,Hypertension,"[['NADPH', 'TPNH']]"
+1657,Hypertension,[['ACEIs:ACE(30-1232)']]
+1658,Hypertension,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+1659,Hypertension,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+1660,Hypertension,"[['ADRB1,2,3:β-blockers']]"
+1661,Hypertension,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1662,Hypertension,[['β-blockers']]
+1663,Hypertension,"[['AGT(34-43)', 'Angiotensin-(1-10)', 'Angiotensin I', 'Angiotensin-1', 'ANGT_HUMAN', 'AGT', 'ANG1-10']]"
+1664,Hypertension,"[['H2O', 'water']]"
+1665,Hypertension,"[['AGT', 'Angiotensinogen', 'ANGT_HUMAN']]"
+1666,Hypertension,"[['AGT(34-43)', 'Angiotensin-(1-10)', 'Angiotensin I', 'Angiotensin-1', 'ANGT_HUMAN', 'AGT', 'ANG1-10']]"
+1667,Hypertension,"[['H2O', 'water']]"
+1668,Hypertension,"[['AGT', 'Angiotensinogen', 'ANGT_HUMAN']]"
+1669,Hypertension,"[['AGT(34-43)', 'Angiotensin-(1-10)', 'Angiotensin I', 'Angiotensin-1', 'ANGT_HUMAN', 'AGT', 'ANG1-10']]"
+1670,Hypertension,"[['H2O', 'water']]"
+1671,Hypertension,"[['AGT', 'Angiotensinogen', 'ANGT_HUMAN']]"
+1672,Hypertension,"[['TACR3:TAC3', 'Neuromedin K receptor:Neurokinin B peptide']]"
+1673,Hypertension,"[['TACR3', 'Neuromedin K receptor', 'NK3 receptor', 'NK3R_HUMAN']]"
+1674,Hypertension,"[['TAC3', 'Neurokinin B peptide', 'Tachykinin-3 precursor', 'TKNK_HUMAN']]"
+1675,Hypertension,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+1676,Hypertension,"[['Cl-', 'chloride']]"
+1677,Hypertension,"[['Cl-', 'chloride']]"
+1678,Hypertension,"[['Na+', 'sodium ion', 'sodium(1+)', 'Sodium']]"
+1679,Hypertension,"[['AGT(34-41)', 'Angiotensin-2', 'Angiotensin-(1-8)', 'Angiotensin II', 'ANGT_HUMAN', 'AGT', 'ANG1-8']]"
+1680,Hypertension,"[['H2O', 'water']]"
+1681,Hypertension,"[['AGT(34-43)', 'Angiotensin-(1-10)', 'Angiotensin I', 'Angiotensin-1', 'ANGT_HUMAN', 'AGT', 'ANG1-10']]"
+1682,Hypertension,"[['AGT(34-41)', 'Angiotensin-2', 'Angiotensin-(1-8)', 'Angiotensin II', 'ANGT_HUMAN', 'AGT', 'ANG1-8']]"
+1683,Hypertension,"[['H2O', 'water']]"
+1684,Hypertension,"[['AGT(34-43)', 'Angiotensin-(1-10)', 'Angiotensin I', 'Angiotensin-1', 'ANGT_HUMAN', 'AGT', 'ANG1-10']]"
+1685,Hypertension,"[['EDNRA,EDNRB:Endothelin', 'Endothelin:Endothelin receptors']]"
+1686,Hypertension,"[['EDNRA,EDNRB', 'Endothelin receptors']]"
+1687,Hypertension,[['Endothelin']]
+1688,Hypertension,"[['urate', 'Uric acid', '7,9-dihydro-1H-purine-2,6,8(3H)-trione']]"
+1689,Hypertension,"[['urate', 'Uric acid', '7,9-dihydro-1H-purine-2,6,8(3H)-trione']]"
+1690,Essential Hypertension,"[[""adenosine 5'-monophosphate"", 'AMP', 'Adenylic acid', 'Adenylate', ""5'-AMP"", ""5'-Adenylic acid"", ""5'-Adenosine monophosphate"", ""Adenosine 5'-phosphate""]]"
+1691,Essential Hypertension,"[['PPi', 'pyrophosphate', 'diphosphoric acid', 'pyrophosphoric acid', 'diphosphate']]"
+1692,Essential Hypertension,"[['BT-CoA', 'Butanoyl-CoA', 'butyryl-CoA', 'beta-hydroxybutyryl-CoA']]"
+1693,Essential Hypertension,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1694,Essential Hypertension,"[['BUT', 'Butyrate', 'butyric acid']]"
+1695,Essential Hypertension,[['Na+/Li+']]
+1696,Essential Hypertension,"[['H+', 'hydron']]"
+1697,Essential Hypertension,"[['H+', 'hydron']]"
+1698,Essential Hypertension,[['Na+/Li+']]
+1699,Essential Hypertension,[['ARBs:AGTR1']]
+1700,Essential Hypertension,"[['ARBs', 'Angiotensin II receptor blockers']]"
+1701,Essential Hypertension,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+1702,Essential Hypertension,"[['H2O', 'water']]"
+1703,Essential Hypertension,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1704,Essential Hypertension,[['20-HETE']]
+1705,Essential Hypertension,"[['O2', 'Oxygen', 'dioxygen']]"
+1706,Essential Hypertension,"[['H+', 'hydron']]"
+1707,Essential Hypertension,"[['ARA', 'arachidonic acid']]"
+1708,Essential Hypertension,"[['NADPH', 'TPNH']]"
+1709,Essential Hypertension,"[['H2O', 'water']]"
+1710,Essential Hypertension,"[['NADP+', 'NADP', 'NADP(+)', 'Nicotinamide adenine dinucleotide phosphate', 'beta-Nicotinamide adenine dinucleotide phosphate', 'TPN', 'Triphosphopyridine nucleotide']]"
+1711,Essential Hypertension,[['19-HETE']]
+1712,Essential Hypertension,"[['O2', 'Oxygen', 'dioxygen']]"
+1713,Essential Hypertension,"[['H+', 'hydron']]"
+1714,Essential Hypertension,"[['ARA', 'arachidonic acid']]"
+1715,Essential Hypertension,"[['NADPH', 'TPNH']]"
+1716,Essential Hypertension,[['ACEIs:ACE(30-1232)']]
+1717,Essential Hypertension,"[['ACE(30-1232)', 'Secreted ACE', 'Angiotensin-converting enzyme', 'ACE_HUMAN', 'Soluble ACE']]"
+1718,Essential Hypertension,"[['ACEIs', 'Angiotensin-converting enzyme inhibitors']]"
+1719,Essential Hypertension,"[['ADRB1,2,3:β-blockers']]"
+1720,Essential Hypertension,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1721,Essential Hypertension,[['β-blockers']]
+1722,Hypotension,"[['NTS(151-160)', 'Neurotensin', 'RecName: Full=Neurotensin/neuromedin N; Contains: RecName: Full=Large neuromedin N; AltName: Full=NmN-125; Contains: RecName: Full=Neuromedin N; Short=NmN; Short=NN; Contains: RecName: Full=Neurotensin; Short=NT; Contains: RecName: Full=Tail peptide; Flags: Precursor;<br>GN   Name=NTS;<br>OS   Homo sapiens', 'NEUT_HUMAN', 'NTS']]"
+1723,Hypotension,"[['NTS(161-163)', 'Neurotensin', 'RecName: Full=Neurotensin/neuromedin N; Contains: RecName: Full=Large neuromedin N; AltName: Full=NmN-125; Contains: RecName: Full=Neuromedin N; Short=NmN; Short=NN; Contains: RecName: Full=Neurotensin; Short=NT; Contains: RecName: Full=Tail peptide; Flags: Precursor;<br>GN   Name=NTS;<br>OS   Homo sapiens', 'NEUT_HUMAN', 'NTS']]"
+1724,Hypotension,"[['NTS(151-163)', 'Neurotensin', 'RecName: Full=Neurotensin/neuromedin N; Contains: RecName: Full=Large neuromedin N; AltName: Full=NmN-125; Contains: RecName: Full=Neuromedin N; Short=NmN; Short=NN; Contains: RecName: Full=Neurotensin; Short=NT; Contains: RecName: Full=Tail peptide; Flags: Precursor;\nGN   Name=NTS;\nOS   Homo sapiens', 'NEUT_HUMAN', 'NTS']]"
+1725,Hypotension,"[['ADORA2A,B:Ade-Rib', 'A2a/A2b receptor:Adenosine']]"
+1726,Hypotension,"[['ADORA2A,B', 'A2a/A2b receptors']]"
+1727,Hypotension,"[['Ade-Rib', 'adenosine']]"
+1728,Hypotension,"[['ADORA2B:Ade-Rib', 'A2b receptor:Adenosine']]"
+1729,Hypotension,"[['Ade-Rib', 'adenosine']]"
+1730,Hypotension,"[['ADORA2B', 'Adenosine receptor A2b', 'AA2BR_HUMAN']]"
+1731,Hypotension,"[['ADRB1,2,3:β-blockers']]"
+1732,Hypotension,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1733,Hypotension,[['β-blockers']]
+1734,Post-Exercise Hypotension,"[['ADRB1,2,3:β-blockers']]"
+1735,Post-Exercise Hypotension,"[['ADRB1,2,3', 'Beta adrenoceptors']]"
+1736,Post-Exercise Hypotension,[['β-blockers']]
+1737,CREST Syndrome,"[['Tenascins C, R, (X, N):Lecticans']]"
+1738,CREST Syndrome,[['Lecticans']]
+1739,CREST Syndrome,"[['Tenascins C, R, (X, N)']]"
+1740,CREST Syndrome,"[['Tenascins C, R, (X, N):Fibronectin matrix']]"
+1741,CREST Syndrome,"[['Tenascins C, R, (X, N)']]"
+1742,CREST Syndrome,[['Fibronectin matrix']]
+1743,CREST Syndrome,[['TNC:Syndecan-3']]
+1744,CREST Syndrome,"[['TNC', 'Tenascin', 'TN-C']]"
+1745,CREST Syndrome,[['Syndecan-3']]
+1746,Spinal Cord Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+1747,Spinal Cord Ischemia,"[['Cl-', 'chloride']]"
+1748,Spinal Cord Ischemia,"[['K+', 'Potassium', 'potassium(1+)']]"
+1749,Spinal Cord Ischemia,"[['Cl-', 'chloride']]"
+1750,Ataxia Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1751,Ataxia Telangiectasia,[['p-S456-ABL1']]
+1752,Ataxia Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1753,Ataxia Telangiectasia,"[['ABL1', 'Proto-oncogene tyrosine-protein kinase ABL1', 'ABL1_HUMAN']]"
+1754,Ataxia Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1755,Ataxia Telangiectasia,[['p-S15-TP53 Tetramer']]
+1756,Ataxia Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1757,Ataxia Telangiectasia,[['TP53 Tetramer']]
+1758,Ataxia Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1759,Ataxia Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex']]"
+1760,Ataxia Telangiectasia,"[['p-T68-CHEK2', 'phospho-Chk2', 'Serine/threonine-protein kinase Chk2 (EC 2.7.1.-) (Cds1) phosphorylated', 'Serine/threonine-protein kinase Chk2 ', 'Cds1']]"
+1761,Ataxia Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:p-4S,2T-BRCA1-A complex:CHEK2']]"
+1762,Ataxia Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1763,Ataxia Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1764,Ataxia Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAXIP1']]"
+1765,Ataxia Telangiectasia,"[['p-S645-DCLRE1C', 'p-S645-ARTEMIS']]"
+1766,Ataxia Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1767,Ataxia Telangiectasia,"[['DNA DNA DSBs:p-MRN:p-S1981,Ac-K3016-ATM:KAT5:K63PolyUb-K14,K16,p-S139-H2AFX,Me2K21-HIST1H4A-Nucleosome:p-5T-MDC1:p-S102-WHSC1:RNF8:Zn2+:SUMO1:p-T4827-HERC2:UBE2N:UBE2V2:RNF168:PIAS4:p-S25,S1778-TP53BP1:RIF1:PAX1IP:DCLRE1C']]"
+1768,Ataxia Telangiectasia,[['DNA DSBs:MRN:Ac-K3016-ATM dimer:KAT5']]
+1769,Ataxia Telangiectasia,"[['ATP', ""Adenosine 5'-triphosphate"", 'ATP(4-)']]"
+1770,Ataxia Telangiectasia,"[['DNA DSBs:MRN:p-S1981,Ac-K3016-ATM:KAT5']]"
+1771,Ataxia Telangiectasia,"[['p-S1981,Ac-K3016-ATM']]"
+1772,Ataxia Telangiectasia,"[['ADP', ""Adenosine 5'-diphosphate"", 'ADP(3-)']]"
+1773,Ataxia Telangiectasia,[['ATM:PEX5']]
+1774,Ataxia Telangiectasia,[['ATM:PEX5']]
+1775,Ataxia Telangiectasia,[['ATM dimer:p-PEX5']]
+1776,Ataxia Telangiectasia,[['ATM dimer:PEX5']]
+1777,Ataxia Telangiectasia,[['ATM dimer:PEX5']]
+1778,Ataxia Telangiectasia,[['ATM:PEX5']]
+1779,Ataxia Telangiectasia,"[['ATM', 'ATM serine-protein kinase', 'Serine-protein kinase ATM (EC 2.7.1.37) (Ataxia telangiectasia mutated) (A-T, mutated)', 'Serine-protein kinase ATM ', 'Ataxia telangiectasia mutated', 'A-T, mutated']]"
+1780,Ataxia Telangiectasia,[['ATM:PEX5']]
+1781,Ataxia Telangiectasia,"[['PEX5', 'Peroxisomal targeting signal 1 receptor', 'PEX5_HUMAN']]"
+1782,Ataxia Telangiectasia,"[['ATM', 'ATM serine-protein kinase', 'Serine-protein kinase ATM (EC 2.7.1.37) (Ataxia telangiectasia mutated) (A-T, mutated)', 'Serine-protein kinase ATM ', 'Ataxia telangiectasia mutated', 'A-T, mutated']]"
+1783,Ataxia Telangiectasia,[['MRE11:dsDNA']]
+1784,Ataxia Telangiectasia,"[['Double-stranded DNA', 'dsDNA', 'deoxyribonucleic acid']]"
+1785,Ataxia Telangiectasia,"[['MRE11A', 'Double-strand break repair protein MRE11A', 'MRE11 homolog 1']]"
+1786,Rheumatoid Vasculitis,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+1787,Rheumatoid Vasculitis,[['TLR4:LY96']]
+1788,Rheumatoid Vasculitis,"[['S100A8:S100A9', 'calprotectin']]"
+1789,Cardiovascular Infection,"[['13-HDHA', '13-HDoHE', '(4Z,7Z,10Z,14E,16Z,19Z)-13-hydroxydocosahexaenoic acid', '13-hydroxy-docosahexaenoic acid']]"
+1790,Cardiovascular Infection,"[['O2', 'Oxygen', 'dioxygen']]"
+1791,Cardiovascular Infection,"[['DHA', 'Docosahexaenoic acid', 'all-cis-docosa-4,7,10,13,16,19-hexaenoic acid', 'cis-4,7,10,13,16,19-docosahexaenoic acid']]"
+1792,Cardiovascular Infection,"[['TLR4:LY96:S100A8:S100A9', 'TLR4:MD2:calprotectin']]"
+1793,Cardiovascular Infection,[['TLR4:LY96']]
+1794,Cardiovascular Infection,"[['S100A8:S100A9', 'calprotectin']]"
+1795,Peripheral Vascular Disease,"[['SCUBE3(?-993)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+1796,Peripheral Vascular Disease,"[['SCUBE3(21-?)', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+1797,Peripheral Vascular Disease,"[['SCUBE3', 'Signal peptide, CUB and EGF-like domain-containing protein 3', 'SCUB3_HUMAN']]"
+1798,Peripheral Vascular Disease,[['ARBs:AGTR1']]
+1799,Peripheral Vascular Disease,"[['ARBs', 'Angiotensin II receptor blockers']]"
+1800,Peripheral Vascular Disease,"[['AGTR1', 'Type-1 angiotensin II receptor', 'AGTR1_HUMAN']]"
+1801,Vascular Neoplasm,[['PI3K Inhibitors:PI3K']]
+1802,Vascular Neoplasm,"[['PI3K mutants,Activator:PI3K']]"
+1803,Vascular Neoplasm,[['PI3K inhibitors']]
