@@ -13,14 +13,20 @@ It is the first time for researchers to apply GNN method on pathway data predict
 
 ## Data Preparation
 **1.** Collect all the MeSH Descriptors related to Cardiovascular Disease from MeSH Tree and load the graph data from Reactome website. The related codes can be seen at /neo4j.
+
 **2.** Use those MeSH Descriptors to do the web crawler by advanced search from Reactome website to collect all the pathway data belong to each MeSH Descriptors. The related codes can be seen at /AdvancedSearch.
+
 **3.** Apply Cypher query to collect reactions and proteins data related to each pathway on Neo4j graph database. And also extract the preceding event reactions information. The related codes can be seen at /relationshipExplore.
 
 ## Model Build, Train and Test
 **1.** Use DGL library to construct the heterogeneous graph on our graph data due to the various edge and node types.
+
 **2.** Use relational Graph Convolutional Networks which information passing functions concludes both edge and node information.
+
 **3.** Build two models, one that can predict the high level MeSH descriptor class for each pathway belong to and the other that can predict the most possible MeSH descriptors for the pathway belong to.
+
 **4.** Cut our dataset into 8:1:1 as train dataset, validation dataset and test dataset.
+
 **5.** For our prediction result, we achieve 92% and 75% accuracy on our test dataset for model 1 and model 2 respectively.
 
 ## Overall Pipeline
