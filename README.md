@@ -10,5 +10,5 @@ We have two prediction model. Model 1 can predict the high level MeSH descriptor
 For our prediction result, we achieve 92% and 75% accuracy on our test dataset for model 1 and model 2 respectively. It is the first time for researchers to apply GNN method on pathway data prediction. Not only for the cardiovascular data, with more data and experiments, we can also utilize our model on other important diseases such as cancer in the future. 
 
 # Overall Pipeline
-![image](https://github.com/pinglab-intern/mesh2molecules/tree/master/images/pipeline of the project.png)
+![image](https://github.com/pinglab-intern/mesh2molecules/images/pipeline.png)
 
