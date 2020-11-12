@@ -56,10 +56,14 @@ Requires [DGL](https://www.dgl.ai/pages/start.html). This can be installed with 
 All the related codes can be found at `/DGL/GraphBuild_model1.ipynb` and `/DGL/GraphBuild_model2.ipynb`
 
 ## Overall Pipeline
-![image](images/pipeline.png)
+<p align="center">
+  < img src='images/pipeline.png/'>
+</p >
 
 ## Model Workflow
-![image](images/workflow.png)
+<p align="center">
+  < img src='images/workflow/'>
+</p >
 
 ## Credits
 Created by Wangjie Zheng while working with Dibakar Sigdel in the Ping Lab at UCLA, Summer 2020
