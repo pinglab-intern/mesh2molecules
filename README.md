@@ -56,14 +56,10 @@ Requires [DGL](https://www.dgl.ai/pages/start.html). This can be installed with 
 All the related codes can be found at `/DGL/GraphBuild_model1.ipynb` and `/DGL/GraphBuild_model2.ipynb`
 
 ## Overall Pipeline
-<p align="center">
-  < img src='images/pipeline.png/'>
-</p >
+![image](https://github.com/pinglab-intern/mesh2molecules/blob/master/images/pipeline.png)
 
 ## Model Workflow
-<p align="center">
-  < img src='images/workflow/'>
-</p >
+![image](https://github.com/pinglab-intern/mesh2molecules/blob/master/images/workflow.png)
 
 ## Credits
 Created by Wangjie Zheng while working with Dibakar Sigdel in the Ping Lab at UCLA, Summer 2020
