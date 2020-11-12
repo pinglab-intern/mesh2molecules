@@ -1,0 +1,652 @@
+id,name
+C14,Cardiovascular Diseases
+C14.240,Cardiovascular Abnormalities
+C14.240.400,"Heart Defects, Congenital"
+C14.240.400.021,22q11 Deletion Syndrome
+C14.240.400.021.500,DiGeorge Syndrome
+C14.240.400.044,Alagille Syndrome
+C14.240.400.090,Aortic Coarctation
+C14.240.400.145,Arrhythmogenic Right Ventricular Dysplasia
+C14.240.400.172,Barth Syndrome
+C14.240.400.200,Cor Triatriatum
+C14.240.400.210,Coronary Vessel Anomalies
+C14.240.400.210.125,Anomalous Left Coronary Artery
+C14.240.400.210.249,Bland White Garland Syndrome
+C14.240.400.210.500,Myocardial Bridging
+C14.240.400.220,Crisscross Heart
+C14.240.400.280,Dextrocardia
+C14.240.400.280.500,Kartagener Syndrome
+C14.240.400.340,"Ductus Arteriosus, Patent"
+C14.240.400.395,Ebstein Anomaly
+C14.240.400.422,Ectopia Cordis
+C14.240.400.450,Eisenmenger Complex
+C14.240.400.560,Heart Septal Defects
+C14.240.400.560.098,Aortopulmonary Septal Defect
+C14.240.400.560.098.500,"Truncus Arteriosus, Persistent"
+C14.240.400.560.350,Endocardial Cushion Defects
+C14.240.400.560.375,"Heart Septal Defects, Atrial"
+C14.240.400.560.375.258,"Foramen Ovale, Patent"
+C14.240.400.560.375.518,Lutembacher Syndrome
+C14.240.400.560.540,"Heart Septal Defects, Ventricular"
+C14.240.400.592,Heterotaxy Syndrome
+C14.240.400.625,Hypoplastic Left Heart Syndrome
+C14.240.400.660,Isolated Noncompaction of the Ventricular Myocardium
+C14.240.400.695,LEOPARD Syndrome
+C14.240.400.701,Levocardia
+C14.240.400.725,Marfan Syndrome
+C14.240.400.787,Noonan Syndrome
+C14.240.400.849,Tetralogy of Fallot
+C14.240.400.915,Transposition of Great Vessels
+C14.240.400.915.150,Congenitally Corrected Transposition of the Great Arteries
+C14.240.400.915.300,Double Outlet Right Ventricle
+C14.240.400.920,Tricuspid Atresia
+C14.240.400.960,Trilogy of Fallot
+C14.240.400.970,Trisomy 13 Syndrome
+C14.240.400.975,Trisomy 18 Syndrome
+C14.240.400.980,Turner Syndrome
+C14.240.400.990,Univentricular Heart
+C14.240.850,Vascular Malformations
+C14.240.850.750,Arteriovenous Malformations
+C14.240.850.750.147,Arteriovenous Fistula
+C14.240.850.750.147.500,Carotid-Cavernous Sinus Fistula
+C14.240.850.750.295,Intracranial Arteriovenous Malformations
+C14.240.850.750.295.500,Vein of Galen Malformations
+C14.240.850.875,Central Nervous System Vascular Malformations
+C14.240.850.875.124,Central Nervous System Venous Angioma
+C14.240.850.875.249,"Hemangioma, Cavernous, Central Nervous System"
+C14.240.850.875.500,Intracranial Arteriovenous Malformations
+C14.240.850.875.500.500,Vein of Galen Malformations
+C14.240.850.875.750,Sinus Pericranii
+C14.240.850.906,May-Thurner Syndrome
+C14.240.850.922,Median Arcuate Ligament Syndrome
+C14.240.850.937,Pulmonary Atresia
+C14.240.850.968,Scimitar Syndrome
+C14.240.850.976,Single Umbilical Artery
+C14.240.850.984,Vascular Fistula
+C14.240.850.984.500,Arterio-Arterial Fistula
+C14.240.850.984.500.500,Bland White Garland Syndrome
+C14.240.850.984.750,Arteriovenous Fistula
+C14.240.850.984.750.500,Carotid-Cavernous Sinus Fistula
+C14.240.850.992,Vascular Ring
+C14.260,Cardiovascular Infections
+C14.260.249,"Endocarditis, Bacterial"
+C14.260.249.407,"Endocarditis, Subacute Bacterial"
+C14.260.500,"Syphilis, Cardiovascular"
+C14.260.750,"Tuberculosis, Cardiovascular"
+C14.260.750.595,"Pericarditis, Tuberculous"
+C14.280,Heart Diseases
+C14.280.067,"Arrhythmias, Cardiac"
+C14.280.067.093,"Arrhythmia, Sinus"
+C14.280.067.093.249,Sick Sinus Syndrome
+C14.280.067.093.500,"Sinus Arrest, Cardiac"
+C14.280.067.198,Atrial Fibrillation
+C14.280.067.248,Atrial Flutter
+C14.280.067.319,Bradycardia
+C14.280.067.322,Brugada Syndrome
+C14.280.067.325,"Cardiac Complexes, Premature"
+C14.280.067.325.250,Atrial Premature Complexes
+C14.280.067.325.500,Ventricular Premature Complexes
+C14.280.067.441,Commotio Cordis
+C14.280.067.558,Heart Block
+C14.280.067.558.137,Adams-Stokes Syndrome
+C14.280.067.558.230,Atrioventricular Block
+C14.280.067.558.323,Bundle-Branch Block
+C14.280.067.558.430,Interatrial Block
+C14.280.067.558.536,Sick Sinus Syndrome
+C14.280.067.558.750,Sinoatrial Block
+C14.280.067.565,Long QT Syndrome
+C14.280.067.565.070,Andersen Syndrome
+C14.280.067.565.440,Jervell-Lange Nielsen Syndrome
+C14.280.067.565.720,Romano-Ward Syndrome
+C14.280.067.672,Parasystole
+C14.280.067.780,Pre-Excitation Syndromes
+C14.280.067.780.560,Lown-Ganong-Levine Syndrome
+C14.280.067.780.770,"Pre-Excitation, Mahaim-Type"
+C14.280.067.780.977,Wolff-Parkinson-White Syndrome
+C14.280.067.845,Tachycardia
+C14.280.067.845.695,"Tachycardia, Paroxysmal"
+C14.280.067.845.787,"Tachycardia, Reciprocating"
+C14.280.067.845.787.249,"Tachycardia, Atrioventricular Nodal Reentry"
+C14.280.067.845.787.500,"Tachycardia, Sinoatrial Nodal Reentry"
+C14.280.067.845.880,"Tachycardia, Supraventricular"
+C14.280.067.845.880.315,"Tachycardia, Ectopic Atrial"
+C14.280.067.845.880.320,"Tachycardia, Ectopic Junctional"
+C14.280.067.845.880.845,"Tachycardia, Sinus"
+C14.280.067.845.940,"Tachycardia, Ventricular"
+C14.280.067.845.940.349,Accelerated Idioventricular Rhythm
+C14.280.067.845.940.700,Torsades de Pointes
+C14.280.067.922,Ventricular Fibrillation
+C14.280.067.961,Ventricular Flutter
+C14.280.104,Carcinoid Heart Disease
+C14.280.123,Cardiac Conduction System Disease
+C14.280.123.250,Brugada Syndrome
+C14.280.123.375,"Cardiac Complexes, Premature"
+C14.280.123.375.250,Atrial Premature Complexes
+C14.280.123.375.500,Ventricular Premature Complexes
+C14.280.123.500,Heart Block
+C14.280.123.500.137,Adams-Stokes Syndrome
+C14.280.123.500.230,Atrioventricular Block
+C14.280.123.500.323,Bundle-Branch Block
+C14.280.123.500.430,Interatrial Block
+C14.280.123.500.536,Sick Sinus Syndrome
+C14.280.123.500.750,Sinoatrial Block
+C14.280.123.625,Long QT Syndrome
+C14.280.123.625.070,Andersen Syndrome
+C14.280.123.625.440,Jervell-Lange Nielsen Syndrome
+C14.280.123.625.720,Romano-Ward Syndrome
+C14.280.123.750,Pre-Excitation Syndromes
+C14.280.123.750.560,Lown-Ganong-Levine Syndrome
+C14.280.123.750.770,"Pre-Excitation, Mahaim-Type"
+C14.280.123.750.977,Wolff-Parkinson-White Syndrome
+C14.280.123.875,Tachycardia
+C14.280.123.875.695,"Tachycardia, Paroxysmal"
+C14.280.123.875.787,"Tachycardia, Reciprocating"
+C14.280.123.875.787.249,"Tachycardia, Atrioventricular Nodal Reentry"
+C14.280.123.875.787.500,"Tachycardia, Sinoatrial Nodal Reentry"
+C14.280.123.875.880,"Tachycardia, Supraventricular"
+C14.280.123.875.880.315,"Tachycardia, Ectopic Atrial"
+C14.280.123.875.880.320,"Tachycardia, Ectopic Junctional"
+C14.280.123.875.880.845,"Tachycardia, Sinus"
+C14.280.123.875.940,"Tachycardia, Ventricular"
+C14.280.123.875.940.349,Accelerated Idioventricular Rhythm
+C14.280.123.875.940.700,Torsades de Pointes
+C14.280.142,"Cardiac Output, High"
+C14.280.148,"Cardiac Output, Low"
+C14.280.155,Cardiac Tamponade
+C14.280.195,Cardiomegaly
+C14.280.195.160,"Cardiomyopathy, Dilated"
+C14.280.195.400,"Hypertrophy, Left Ventricular"
+C14.280.195.410,"Hypertrophy, Right Ventricular"
+C14.280.238,Cardiomyopathies
+C14.280.238.028,Arrhythmogenic Right Ventricular Dysplasia
+C14.280.238.057,"Cardiomyopathy, Alcoholic"
+C14.280.238.070,"Cardiomyopathy, Dilated"
+C14.280.238.100,"Cardiomyopathy, Hypertrophic"
+C14.280.238.100.500,"Cardiomyopathy, Hypertrophic, Familial"
+C14.280.238.160,"Cardiomyopathy, Restrictive"
+C14.280.238.190,Chagas Cardiomyopathy
+C14.280.238.235,Diabetic Cardiomyopathies
+C14.280.238.281,Endocardial Fibroelastosis
+C14.280.238.281.500,Isolated Noncompaction of the Ventricular Myocardium
+C14.280.238.406,Endomyocardial Fibrosis
+C14.280.238.458,Glycogen Storage Disease Type IIb
+C14.280.238.510,Kearns-Sayre Syndrome
+C14.280.238.615,Myocardial Reperfusion Injury
+C14.280.238.625,Myocarditis
+C14.280.238.812,Sarcoglycanopathies
+C14.280.260,Cardiotoxicity
+C14.280.282,Endocarditis
+C14.280.282.407,"Endocarditis, Bacterial"
+C14.280.282.407.407,"Endocarditis, Subacute Bacterial"
+C14.280.282.703,"Endocarditis, Non-Infective"
+C14.280.358,Heart Aneurysm
+C14.280.383,Heart Arrest
+C14.280.383.220,"Death, Sudden, Cardiac"
+C14.280.383.220.500,Karoshi Death
+C14.280.383.610,Out-of-Hospital Cardiac Arrest
+C14.280.400,"Heart Defects, Congenital"
+C14.280.400.044,22q11 Deletion Syndrome
+C14.280.400.044.500,DiGeorge Syndrome
+C14.280.400.090,Aortic Coarctation
+C14.280.400.145,Arrhythmogenic Right Ventricular Dysplasia
+C14.280.400.172,Barth Syndrome
+C14.280.400.200,Cor Triatriatum
+C14.280.400.210,Coronary Vessel Anomalies
+C14.280.400.210.125,Anomalous Left Coronary Artery
+C14.280.400.210.249,Bland White Garland Syndrome
+C14.280.400.210.500,Myocardial Bridging
+C14.280.400.220,Crisscross Heart
+C14.280.400.280,Dextrocardia
+C14.280.400.280.500,Kartagener Syndrome
+C14.280.400.340,"Ductus Arteriosus, Patent"
+C14.280.400.395,Ebstein Anomaly
+C14.280.400.450,Eisenmenger Complex
+C14.280.400.560,Heart Septal Defects
+C14.280.400.560.098,Aortopulmonary Septal Defect
+C14.280.400.560.098.500,"Truncus Arteriosus, Persistent"
+C14.280.400.560.350,Endocardial Cushion Defects
+C14.280.400.560.375,"Heart Septal Defects, Atrial"
+C14.280.400.560.375.258,"Foramen Ovale, Patent"
+C14.280.400.560.375.518,Lutembacher Syndrome
+C14.280.400.560.540,"Heart Septal Defects, Ventricular"
+C14.280.400.592,Heterotaxy Syndrome
+C14.280.400.625,Hypoplastic Left Heart Syndrome
+C14.280.400.660,Isolated Noncompaction of the Ventricular Myocardium
+C14.280.400.695,LEOPARD Syndrome
+C14.280.400.701,Levocardia
+C14.280.400.725,Marfan Syndrome
+C14.280.400.787,Noonan Syndrome
+C14.280.400.849,Tetralogy of Fallot
+C14.280.400.915,Transposition of Great Vessels
+C14.280.400.915.150,Congenitally Corrected Transposition of the Great Arteries
+C14.280.400.915.300,Double Outlet Right Ventricle
+C14.280.400.920,Tricuspid Atresia
+C14.280.400.960,Trilogy of Fallot
+C14.280.400.970,Trisomy 13 Syndrome
+C14.280.400.975,Trisomy 18 Syndrome
+C14.280.400.980,Turner Syndrome
+C14.280.400.990,Univentricular Heart
+C14.280.434,Heart Failure
+C14.280.434.156,Cardio-Renal Syndrome
+C14.280.434.313,"Dyspnea, Paroxysmal"
+C14.280.434.482,"Edema, Cardiac"
+C14.280.434.611,"Heart Failure, Diastolic"
+C14.280.434.676,"Heart Failure, Systolic"
+C14.280.459,Heart Neoplasms
+C14.280.459.500,Carney Complex
+C14.280.470,Heart Rupture
+C14.280.470.475,"Heart Rupture, Post-Infarction"
+C14.280.470.475.900,Ventricular Septal Rupture
+C14.280.484,Heart Valve Diseases
+C14.280.484.095,Aortic Valve Insufficiency
+C14.280.484.150,Aortic Valve Stenosis
+C14.280.484.150.070,"Aortic Stenosis, Subvalvular"
+C14.280.484.150.070.160,"Cardiomyopathy, Hypertrophic"
+C14.280.484.150.070.160.500,"Cardiomyopathy, Hypertrophic, Familial"
+C14.280.484.150.070.210,Discrete Subaortic Stenosis
+C14.280.484.150.535,"Aortic Stenosis, Supravalvular"
+C14.280.484.150.535.960,Williams Syndrome
+C14.280.484.400,Heart Valve Prolapse
+C14.280.484.400.100,Aortic Valve Prolapse
+C14.280.484.400.500,Mitral Valve Prolapse
+C14.280.484.400.875,Tricuspid Valve Prolapse
+C14.280.484.461,Mitral Valve Insufficiency
+C14.280.484.517,Mitral Valve Stenosis
+C14.280.484.640,Pulmonary Atresia
+C14.280.484.660,Pulmonary Valve Insufficiency
+C14.280.484.716,Pulmonary Valve Stenosis
+C14.280.484.716.525,LEOPARD Syndrome
+C14.280.484.716.762,Pulmonary Subvalvular Stenosis
+C14.280.484.845,Tricuspid Atresia
+C14.280.484.856,Tricuspid Valve Insufficiency
+C14.280.484.911,Tricuspid Valve Stenosis
+C14.280.647,Myocardial Ischemia
+C14.280.647.124,Acute Coronary Syndrome
+C14.280.647.187,Angina Pectoris
+C14.280.647.187.150,"Angina, Unstable"
+C14.280.647.187.150.150,"Angina Pectoris, Variant"
+C14.280.647.187.362,"Angina, Stable"
+C14.280.647.187.575,Microvascular Angina
+C14.280.647.250,Coronary Disease
+C14.280.647.250.250,Coronary Aneurysm
+C14.280.647.250.260,Coronary Artery Disease
+C14.280.647.250.272,Coronary Occlusion
+C14.280.647.250.285,Coronary Stenosis
+C14.280.647.250.285.200,Coronary Restenosis
+C14.280.647.250.290,Coronary Thrombosis
+C14.280.647.250.295,Coronary Vasospasm
+C14.280.647.250.647,Coronary-Subclavian Steal Syndrome
+C14.280.647.375,Kounis Syndrome
+C14.280.647.500,Myocardial Infarction
+C14.280.647.500.093,Anterior Wall Myocardial Infarction
+C14.280.647.500.187,Inferior Wall Myocardial Infarction
+C14.280.647.500.469,Non-ST Elevated Myocardial Infarction
+C14.280.647.500.750,"Shock, Cardiogenic"
+C14.280.647.500.875,ST Elevation Myocardial Infarction
+C14.280.647.625,Myocardial Reperfusion Injury
+C14.280.671,Myocardial Stunning
+C14.280.695,Pericardial Effusion
+C14.280.720,Pericarditis
+C14.280.720.595,"Pericarditis, Constrictive"
+C14.280.720.801,"Pericarditis, Tuberculous"
+C14.280.763,Pneumopericardium
+C14.280.778,Post-Cardiac Arrest Syndrome
+C14.280.793,Postpericardiotomy Syndrome
+C14.280.832,Pulmonary Heart Disease
+C14.280.874,Rheumatic Heart Disease
+C14.280.945,Ventricular Dysfunction
+C14.280.945.900,"Ventricular Dysfunction, Left"
+C14.280.945.900.500,Takotsubo Cardiomyopathy
+C14.280.945.910,"Ventricular Dysfunction, Right"
+C14.280.955,Ventricular Outflow Obstruction
+C14.280.955.249,Aortic Valve Stenosis
+C14.280.955.249.070,"Aortic Stenosis, Subvalvular"
+C14.280.955.249.070.210,Discrete Subaortic Stenosis
+C14.280.955.249.535,"Aortic Stenosis, Supravalvular"
+C14.280.955.750,Pulmonary Valve Stenosis
+C14.280.955.750.762,Pulmonary Subvalvular Stenosis
+C14.583,"Pregnancy Complications, Cardiovascular"
+C14.583.404,"Embolism, Amniotic Fluid"
+C14.907,Vascular Diseases
+C14.907.055,Aneurysm
+C14.907.055.050,"Aneurysm, Dissecting"
+C14.907.055.050.150,"Carotid Artery, Internal, Dissection"
+C14.907.055.050.362,Loeys-Dietz Syndrome
+C14.907.055.050.575,Vertebral Artery Dissection
+C14.907.055.090,"Aneurysm, False"
+C14.907.055.131,"Aneurysm, Infected"
+C14.907.055.185,"Aneurysm, Ruptured"
+C14.907.055.185.125,Aortic Rupture
+C14.907.055.239,Aortic Aneurysm
+C14.907.055.239.075,"Aortic Aneurysm, Abdominal"
+C14.907.055.239.125,"Aortic Aneurysm, Thoracic"
+C14.907.055.239.175,Aortic Rupture
+C14.907.055.239.587,Loeys-Dietz Syndrome
+C14.907.055.395,Coronary Aneurysm
+C14.907.055.501,Endoleak
+C14.907.055.608,Heart Aneurysm
+C14.907.055.625,Iliac Aneurysm
+C14.907.055.635,Intracranial Aneurysm
+C14.907.055.817,Microaneurysm
+C14.907.055.908,Retinal Arterial Macroaneurysm
+C14.907.075,Angiodysplasia
+C14.907.075.280,Gastric Antral Vascular Ectasia
+C14.907.077,Angiomatosis
+C14.907.077.060,"Angiomatosis, Bacillary"
+C14.907.077.410,Klippel-Trenaunay-Weber Syndrome
+C14.907.077.850,Sturge-Weber Syndrome
+C14.907.077.925,von Hippel-Lindau Disease
+C14.907.079,Angioedema
+C14.907.079.500,"Angioedemas, Hereditary"
+C14.907.079.500.500,Hereditary Angioedema Type III
+C14.907.079.500.750,Hereditary Angioedema Types I and II
+C14.907.109,Aortic Diseases
+C14.907.109.139,Aortic Aneurysm
+C14.907.109.139.075,"Aortic Aneurysm, Abdominal"
+C14.907.109.139.125,"Aortic Aneurysm, Thoracic"
+C14.907.109.139.175,Aortic Rupture
+C14.907.109.139.587,Loeys-Dietz Syndrome
+C14.907.109.239,Aortic Arch Syndromes
+C14.907.109.239.650,Takayasu Arteritis
+C14.907.109.239.825,Vascular Ring
+C14.907.109.320,Aortitis
+C14.907.109.661,Leriche Syndrome
+C14.907.137,Arterial Occlusive Diseases
+C14.907.137.126,Arteriosclerosis
+C14.907.137.126.056,Arteriolosclerosis
+C14.907.137.126.114,Arteriosclerosis Obliterans
+C14.907.137.126.307,Atherosclerosis
+C14.907.137.126.307.500,Peripheral Arterial Disease
+C14.907.137.126.339,Coronary Artery Disease
+C14.907.137.126.372,Intracranial Arteriosclerosis
+C14.907.137.126.372.500,"Dementia, Vascular"
+C14.907.137.126.669,Intermittent Claudication
+C14.907.137.230,Carotid Stenosis
+C14.907.137.372,Fibromuscular Dysplasia
+C14.907.137.427,Leriche Syndrome
+C14.907.137.520,Malignant Atrophic Papulosis
+C14.907.137.527,Median Arcuate Ligament Syndrome
+C14.907.137.534,Mesenteric Vascular Occlusion
+C14.907.137.615,Moyamoya Disease
+C14.907.137.727,Renal Artery Obstruction
+C14.907.137.780,Retinal Artery Occlusion
+C14.907.137.780.500,Susac Syndrome
+C14.907.137.825,"Stenosis, Pulmonary Artery"
+C14.907.137.870,Thromboangiitis Obliterans
+C14.907.150,Arteriovenous Malformations
+C14.907.150.125,Arteriovenous Fistula
+C14.907.150.125.500,Carotid-Cavernous Sinus Fistula
+C14.907.150.295,Intracranial Arteriovenous Malformations
+C14.907.150.295.500,Vein of Galen Malformations
+C14.907.218,Capillary Leak Syndrome
+C14.907.253,Cerebrovascular Disorders
+C14.907.253.061,Basal Ganglia Cerebrovascular Disease
+C14.907.253.061.200,Basal Ganglia Hemorrhage
+C14.907.253.061.200.500,Putaminal Hemorrhage
+C14.907.253.092,Brain Ischemia
+C14.907.253.092.477,Brain Infarction
+C14.907.253.092.477.100,Brain Stem Infarctions
+C14.907.253.092.477.100.500,Lateral Medullary Syndrome
+C14.907.253.092.477.200,Cerebral Infarction
+C14.907.253.092.477.200.100,CADASIL
+C14.907.253.092.477.200.199,"Dementia, Multi-Infarct"
+C14.907.253.092.477.200.400,"Infarction, Anterior Cerebral Artery"
+C14.907.253.092.477.200.450,"Infarction, Middle Cerebral Artery"
+C14.907.253.092.477.200.475,"Infarction, Posterior Cerebral Artery"
+C14.907.253.092.716,"Hypoxia-Ischemia, Brain"
+C14.907.253.092.836,"Ischemic Attack, Transient"
+C14.907.253.092.956,Vertebrobasilar Insufficiency
+C14.907.253.092.956.700,Subclavian Steal Syndrome
+C14.907.253.123,Carotid Artery Diseases
+C14.907.253.123.345,Carotid Artery Injuries
+C14.907.253.123.345.300,"Carotid Artery, Internal, Dissection"
+C14.907.253.123.355,Carotid Artery Thrombosis
+C14.907.253.123.357,Carotid-Cavernous Sinus Fistula
+C14.907.253.123.360,Carotid Stenosis
+C14.907.253.123.620,Moyamoya Disease
+C14.907.253.329,Cerebral Small Vessel Diseases
+C14.907.253.329.249,CADASIL
+C14.907.253.329.311,"Cerebral Amyloid Angiopathy, Familial"
+C14.907.253.329.374,Fabry Disease
+C14.907.253.329.500,MELAS Syndrome
+C14.907.253.329.600,Microscopic Polyangiitis
+C14.907.253.329.800,"Stroke, Lacunar"
+C14.907.253.535,Cerebrovascular Trauma
+C14.907.253.535.500,Carotid Artery Injuries
+C14.907.253.535.500.300,"Carotid Artery, Internal, Dissection"
+C14.907.253.535.500.350,Carotid-Cavernous Sinus Fistula
+C14.907.253.535.600,"Subarachnoid Hemorrhage, Traumatic"
+C14.907.253.535.800,Vertebral Artery Dissection
+C14.907.253.560,Intracranial Arterial Diseases
+C14.907.253.560.200,Cerebral Arterial Diseases
+C14.907.253.560.200.175,CADASIL
+C14.907.253.560.200.200,Cerebral Amyloid Angiopathy
+C14.907.253.560.200.200.160,"Cerebral Amyloid Angiopathy, Familial"
+C14.907.253.560.200.325,"Infarction, Anterior Cerebral Artery"
+C14.907.253.560.200.387,"Infarction, Middle Cerebral Artery"
+C14.907.253.560.200.418,"Infarction, Posterior Cerebral Artery"
+C14.907.253.560.200.737,Moyamoya Disease
+C14.907.253.560.300,Intracranial Aneurysm
+C14.907.253.560.350,Intracranial Arteriosclerosis
+C14.907.253.560.350.500,"Dementia, Vascular"
+C14.907.253.560.400,Intracranial Arteriovenous Malformations
+C14.907.253.560.400.500,Vein of Galen Malformations
+C14.907.253.566,Intracranial Embolism and Thrombosis
+C14.907.253.566.206,Carotid Artery Thrombosis
+C14.907.253.566.300,Intracranial Embolism
+C14.907.253.566.350,Intracranial Thrombosis
+C14.907.253.566.350.500,"Sinus Thrombosis, Intracranial"
+C14.907.253.566.350.500.375,Cavernous Sinus Thrombosis
+C14.907.253.566.350.500.562,Lateral Sinus Thrombosis
+C14.907.253.566.350.500.750,Sagittal Sinus Thrombosis
+C14.907.253.573,Intracranial Hemorrhages
+C14.907.253.573.200,Cerebral Hemorrhage
+C14.907.253.573.200.150,Basal Ganglia Hemorrhage
+C14.907.253.573.200.150.500,Putaminal Hemorrhage
+C14.907.253.573.200.200,"Cerebral Hemorrhage, Traumatic"
+C14.907.253.573.200.600,Cerebral Intraventricular Hemorrhage
+C14.907.253.573.350,"Intracranial Hemorrhage, Hypertensive"
+C14.907.253.573.400,"Intracranial Hemorrhage, Traumatic"
+C14.907.253.573.400.150,"Brain Hemorrhage, Traumatic"
+C14.907.253.573.400.150.200,"Brain Stem Hemorrhage, Traumatic"
+C14.907.253.573.400.150.300,"Cerebral Hemorrhage, Traumatic"
+C14.907.253.573.400.400,"Hematoma, Epidural, Cranial"
+C14.907.253.573.400.450,"Hematoma, Subdural"
+C14.907.253.573.400.450.050,"Hematoma, Subdural, Acute"
+C14.907.253.573.400.450.120,"Hematoma, Subdural, Chronic"
+C14.907.253.573.400.450.400,"Hematoma, Subdural, Intracranial"
+C14.907.253.573.400.700,"Subarachnoid Hemorrhage, Traumatic"
+C14.907.253.573.600,Pituitary Apoplexy
+C14.907.253.573.800,Subarachnoid Hemorrhage
+C14.907.253.573.800.700,"Subarachnoid Hemorrhage, Traumatic"
+C14.907.253.612,"Leukomalacia, Periventricular"
+C14.907.253.774,Sneddon Syndrome
+C14.907.253.855,Stroke
+C14.907.253.855.200,Brain Infarction
+C14.907.253.855.200.100,Brain Stem Infarctions
+C14.907.253.855.200.100.500,Lateral Medullary Syndrome
+C14.907.253.855.200.200,Cerebral Infarction
+C14.907.253.855.200.200.100,CADASIL
+C14.907.253.855.200.200.199,"Dementia, Multi-Infarct"
+C14.907.253.855.200.200.400,"Infarction, Anterior Cerebral Artery"
+C14.907.253.855.200.200.450,"Infarction, Middle Cerebral Artery"
+C14.907.253.855.200.200.475,"Infarction, Posterior Cerebral Artery"
+C14.907.253.855.600,"Stroke, Lacunar"
+C14.907.253.937,Vascular Headaches
+C14.907.253.946,"Vasculitis, Central Nervous System"
+C14.907.253.946.175,"AIDS Arteritis, Central Nervous System"
+C14.907.253.946.700,Giant Cell Arteritis
+C14.907.253.946.850,"Lupus Vasculitis, Central Nervous System"
+C14.907.253.951,"Vasospasm, Intracranial"
+C14.907.286,"Colitis, Ischemic"
+C14.907.303,Compartment Syndromes
+C14.907.303.063,Anterior Compartment Syndrome
+C14.907.303.297,Intra-Abdominal Hypertension
+C14.907.303.531,Ischemic Contracture
+C14.907.320,Diabetic Angiopathies
+C14.907.320.191,Diabetic Foot
+C14.907.320.382,Diabetic Retinopathy
+C14.907.355,Embolism and Thrombosis
+C14.907.355.350,Embolism
+C14.907.355.350.254,"Embolism, Air"
+C14.907.355.350.354,"Embolism, Amniotic Fluid"
+C14.907.355.350.454,"Embolism, Fat"
+C14.907.355.350.454.500,"Embolism, Cholesterol"
+C14.907.355.350.454.500.200,Blue Toe Syndrome
+C14.907.355.350.700,Pulmonary Embolism
+C14.907.355.350.700.500,Pulmonary Infarction
+C14.907.355.590,Thromboembolism
+C14.907.355.590.213,Intracranial Embolism and Thrombosis
+C14.907.355.590.213.206,Carotid Artery Thrombosis
+C14.907.355.590.213.300,Intracranial Embolism
+C14.907.355.590.213.350,Intracranial Thrombosis
+C14.907.355.590.213.350.500,"Sinus Thrombosis, Intracranial"
+C14.907.355.590.213.350.500.375,Cavernous Sinus Thrombosis
+C14.907.355.590.213.350.500.562,Lateral Sinus Thrombosis
+C14.907.355.590.213.350.500.750,Sagittal Sinus Thrombosis
+C14.907.355.590.400,"Embolism, Paradoxical"
+C14.907.355.590.700,Venous Thromboembolism
+C14.907.355.830,Thrombosis
+C14.907.355.830.220,Coronary Thrombosis
+C14.907.355.830.925,Venous Thrombosis
+C14.907.355.830.925.275,Budd-Chiari Syndrome
+C14.907.355.830.925.462,Postthrombotic Syndrome
+C14.907.355.830.925.650,Retinal Vein Occlusion
+C14.907.355.830.925.770,Thrombophlebitis
+C14.907.355.830.925.770.500,Lemierre Syndrome
+C14.907.355.830.925.885,Upper Extremity Deep Vein Thrombosis
+C14.907.440,Hand-Arm Vibration Syndrome
+C14.907.449,Hemorrhoids
+C14.907.454,Hemostatic Disorders
+C14.907.454.140,Cryoglobulinemia
+C14.907.454.240,Ehlers-Danlos Syndrome
+C14.907.454.385,"Hemangioma, Cavernous"
+C14.907.454.385.500,"Hemangioma, Cavernous, Central Nervous System"
+C14.907.454.460,Multiple Myeloma
+C14.907.454.530,Pseudoxanthoma Elasticum
+C14.907.454.550,"Purpura, Hyperglobulinemic"
+C14.907.454.800,Scurvy
+C14.907.454.810,Shwartzman Phenomenon
+C14.907.454.900,"Telangiectasia, Hereditary Hemorrhagic"
+C14.907.454.960,Waldenstrom Macroglobulinemia
+C14.907.460,Hepatic Veno-Occlusive Disease
+C14.907.474,Hyperemia
+C14.907.489,Hypertension
+C14.907.489.165,Essential Hypertension
+C14.907.489.330,"Hypertension, Malignant"
+C14.907.489.480,"Hypertension, Pregnancy-Induced"
+C14.907.489.631,"Hypertension, Renal"
+C14.907.489.631.485,"Hypertension, Renovascular"
+C14.907.489.815,Hypertensive Retinopathy
+C14.907.489.815.500,Retinal Arterial Macroaneurysm
+C14.907.489.861,Masked Hypertension
+C14.907.489.907,White Coat Hypertension
+C14.907.514,Hypotension
+C14.907.514.482,"Hypotension, Orthostatic"
+C14.907.514.611,Post-Exercise Hypotension
+C14.907.514.741,Shy-Drager Syndrome
+C14.907.549,Mesenteric Ischemia
+C14.907.585,Myocardial Ischemia
+C14.907.585.124,Acute Coronary Syndrome
+C14.907.585.187,Angina Pectoris
+C14.907.585.187.150,"Angina, Unstable"
+C14.907.585.187.150.500,"Angina Pectoris, Variant"
+C14.907.585.187.362,"Angina, Stable"
+C14.907.585.187.575,Microvascular Angina
+C14.907.585.250,Coronary Disease
+C14.907.585.250.250,Coronary Aneurysm
+C14.907.585.250.260,Coronary Artery Disease
+C14.907.585.250.272,Coronary Occlusion
+C14.907.585.250.285,Coronary Stenosis
+C14.907.585.250.285.200,Coronary Restenosis
+C14.907.585.250.290,Coronary Thrombosis
+C14.907.585.250.295,Coronary Vasospasm
+C14.907.585.250.647,Coronary-Subclavian Steal Syndrome
+C14.907.585.375,Kounis Syndrome
+C14.907.585.500,Myocardial Infarction
+C14.907.585.500.093,Anterior Wall Myocardial Infarction
+C14.907.585.500.187,Inferior Wall Myocardial Infarction
+C14.907.585.500.656,Non-ST Elevated Myocardial Infarction
+C14.907.585.500.750,"Shock, Cardiogenic"
+C14.907.585.500.875,ST Elevation Myocardial Infarction
+C14.907.585.625,Myocardial Reperfusion Injury
+C14.907.601,"Optic Neuropathy, Ischemic"
+C14.907.609,Peliosis Hepatis
+C14.907.617,Peripheral Vascular Diseases
+C14.907.617.249,Blue Toe Syndrome
+C14.907.617.500,Erythromelalgia
+C14.907.617.625,Livedo Reticularis
+C14.907.617.648,May-Thurner Syndrome
+C14.907.617.671,Peripheral Arterial Disease
+C14.907.617.718,Phlebitis
+C14.907.617.718.760,Postphlebitic Syndrome
+C14.907.617.718.788,Thrombophlebitis
+C14.907.617.718.788.500,Lemierre Syndrome
+C14.907.617.812,Raynaud Disease
+C14.907.617.812.500,CREST Syndrome
+C14.907.653,Prehypertension
+C14.907.690,Pulmonary Veno-Occlusive Disease
+C14.907.725,Reperfusion Injury
+C14.907.725.600,Myocardial Reperfusion Injury
+C14.907.725.638,Post-Cardiac Arrest Syndrome
+C14.907.725.675,Primary Graft Dysfunction
+C14.907.760,Retinal Vein Occlusion
+C14.907.780,Scimitar Syndrome
+C14.907.790,Spinal Cord Vascular Diseases
+C14.907.790.550,Spinal Cord Ischemia
+C14.907.790.550.100,Anterior Spinal Artery Syndrome
+C14.907.795,Splenic Infarction
+C14.907.798,"Stenosis, Pulmonary Vein"
+C14.907.800,Superior Vena Cava Syndrome
+C14.907.823,Telangiectasis
+C14.907.823.213,Ataxia Telangiectasia
+C14.907.823.225,CREST Syndrome
+C14.907.823.502,Retinal Telangiectasis
+C14.907.823.780,"Telangiectasia, Hereditary Hemorrhagic"
+C14.907.863,Thoracic Outlet Syndrome
+C14.907.863.200,Cervical Rib Syndrome
+C14.907.903,Varicocele
+C14.907.927,Varicose Veins
+C14.907.927.730,Varicose Ulcer
+C14.907.933,Vascular Fistula
+C14.907.933.110,Arterio-Arterial Fistula
+C14.907.933.110.500,Bland White Garland Syndrome
+C14.907.933.555,Arteriovenous Fistula
+C14.907.933.555.500,Carotid-Cavernous Sinus Fistula
+C14.907.936,Vascular Neoplasms
+C14.907.937,Vascular System Injuries
+C14.907.940,Vasculitis
+C14.907.940.080,Aortitis
+C14.907.940.090,Arteritis
+C14.907.940.090.170,"AIDS Arteritis, Central Nervous System"
+C14.907.940.090.340,Endarteritis
+C14.907.940.090.530,Giant Cell Arteritis
+C14.907.940.090.720,Polyarteritis Nodosa
+C14.907.940.090.800,Takayasu Arteritis
+C14.907.940.100,Behcet Syndrome
+C14.907.940.320,Cogan Syndrome
+C14.907.940.530,Malignant Atrophic Papulosis
+C14.907.940.560,Mucocutaneous Lymph Node Syndrome
+C14.907.940.740,Phlebitis
+C14.907.940.740.910,Thrombophlebitis
+C14.907.940.740.910.500,Lemierre Syndrome
+C14.907.940.777,"Purpura, Schoenlein-Henoch"
+C14.907.940.815,Retinal Vasculitis
+C14.907.940.890,Shwartzman Phenomenon
+C14.907.940.897,Systemic Vasculitis
+C14.907.940.897.249,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+C14.907.940.897.249.249,Churg-Strauss Syndrome
+C14.907.940.897.249.500,Microscopic Polyangiitis
+C14.907.940.897.249.750,Granulomatosis with Polyangiitis
+C14.907.940.897.500,Polyarteritis Nodosa
+C14.907.940.897.750,Rheumatoid Vasculitis
+C14.907.940.905,Thromboangiitis Obliterans
+C14.907.940.907,"Vasculitis, Central Nervous System"
+C14.907.940.907.175,"AIDS Arteritis, Central Nervous System"
+C14.907.940.907.700,Giant Cell Arteritis
+C14.907.940.907.850,"Lupus Vasculitis, Central Nervous System"
+C14.907.940.910,"Vasculitis, Leukocytoclastic, Cutaneous"
+C14.907.946,Vasoplegia
+C14.907.952,Venous Insufficiency
+C14.907.952.760,Postphlebitic Syndrome
+C14.907.952.880,Postthrombotic Syndrome
